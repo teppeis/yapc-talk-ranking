@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>YAPC::ASIA 2015 Talk Ranking</title>
+  <link rel="stylesheet" href="./node_modules/semantic-ui-css/semantic.min.css">
+  <link rel="stylesheet" href="./style.css">
+  <script src="./bower_components/jquery/dist/jquery.min.js"></script>
+  <script src="./bower_components/jquery-tablesort/jquery.tablesort.min.js"></script>
+  <script src="./bundle.js"></script>
+</head>
+<body>
+  <h1>YAPC::ASIA 2015 Talk Ranking</h1>
+  <p id="updated"></p>
+  <table id="ranking" class="ui table striped sortable">
+    <thead>
+      <tr><th class="sort-disabled">Rank</th><th>Title</th><th>Speaker</th><th class="sort-number">Twitter</th><th class="sort-number">はてブ</th><th class="sort-number">総合</th></tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <footer>by <a href="https://twitter.com/teppeis">@teppeis</a></footer>
+</body>
+</html>
