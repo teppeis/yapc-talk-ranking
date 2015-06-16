@@ -1,0 +1,14 @@
+{
+  "name": "jquery-tablesort",
+  "homepage": "https://github.com/kylefox/jquery-tablesort",
+  "_release": "3808476e37",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "3808476e370f26e16b6eabc3321ba3ee40ad10ce"
+  },
+  "_source": "git://github.com/kylefox/jquery-tablesort.git",
+  "_target": "*",
+  "_originalSource": "jquery-tablesort",
+  "_direct": true
+}
