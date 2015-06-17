@@ -9,6 +9,5 @@
   },
   "_source": "git://github.com/kylefox/jquery-tablesort.git",
   "_target": "*",
-  "_originalSource": "jquery-tablesort",
-  "_direct": true
+  "_originalSource": "jquery-tablesort"
 }

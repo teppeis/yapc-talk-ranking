@@ -15,6 +15,7 @@
   ],
   "dependencies": {
     "jquery-tablesort": "*",
-    "jquery": "~2.1.4"
+    "jquery": "~2.1.4",
+    "semantic-ui": "~1.12.3"
   }
 }

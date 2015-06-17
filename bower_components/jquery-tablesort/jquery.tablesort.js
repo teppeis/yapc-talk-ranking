@@ -42,7 +42,7 @@ $(function() {
 			self.$table.find('th').removeClass(self.settings.asc + ' ' + self.settings.desc);
 
 			if (direction !== 'asc' && direction !== 'desc')
-				this.direction = this.direction === 'desc' ? 'asc' : 'desc';
+				this.direction = this.direction === 'asc' ? 'desc' : 'asc';
 			else
 				this.direction = direction;
 

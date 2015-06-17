@@ -10,7 +10,6 @@
   "author": "Teppei Sato <teppeis@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "semantic-ui-css": "^1.12.3"
   },
   "devDependencies": {
     "babelify": "^6.1.2",
