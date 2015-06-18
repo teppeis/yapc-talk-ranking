@@ -16,7 +16,7 @@ ranking.forEach((talk, i) => {
   tr.innerHTML = html`
 <td>${i + 1}</td>
 <td><a href="${url}">${talk.title}</a></td>
-<td><img class="speaker-icon" src="${talk.speaker_icon}">${talk.speaker_name}</td>
+<td><a href="${talk.speaker_url}"><img class="speaker-icon" src="${talk.speaker_icon}">${talk.speaker_name}</a></td>
 <td>${talk.twitter}</td>
 <td>${talk.hatena}</td>
 <td>${talk.total}</td>`.replace(/\n/g, '');

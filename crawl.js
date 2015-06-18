@@ -27,6 +27,7 @@ fetch('http://yapcasia.org/2015/talk/list').then(function(res) {
       path: title.attr('href'),
       title: title.text().trim(),
       speaker_name: talk.find('.name a:first-child').text().trim(),
+      speaker_url: talk.find('.name a:nth-child(2)').attr('href'),
       speaker_icon: talk.find('.speaker img').attr('src')
     };
   }).get();
