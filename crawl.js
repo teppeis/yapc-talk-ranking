@@ -97,5 +97,5 @@ function output(talks) {
     date: Date.now(),
     ranking: ranking
   };
-  console.log(JSON.stringify(data));
+  console.log(JSON.stringify(data, null, 2));
 }
