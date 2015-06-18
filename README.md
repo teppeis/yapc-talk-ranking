@@ -1,4 +1,4 @@
-YPAC::Asia Tokyo 2015 talk ranking
+YPAC::Asia Tokyo 2015 Talk Ranking
 ====
 
-=> https://teppeis.github.io/yapc-talk-ranking/
+Go https://teppeis.github.io/yapc-talk-ranking/
