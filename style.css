@@ -20,6 +20,13 @@ body {
   content: '\f0d8';
 }
 
+.speaker-icon {
+  width: 18px;
+  height: 18px;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
 footer {
   text-align: right;
   padding: 1em 0 2em;

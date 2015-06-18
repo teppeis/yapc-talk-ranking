@@ -13,7 +13,13 @@ $('#updated').text(`${new Date(updated).toISOString()} 更新`);
 ranking.forEach((talk, i) => {
   var tr = document.createElement('tr');
   var url = YAPC_URL + talk.path;
-  tr.innerHTML = html`<td>${i + 1}</td><td><a href="${url}">${talk.title}</a></td><td>${talk.speaker}</td><td>${talk.twitter}</td><td>${talk.hatena}</td><td>${talk.total}</td>`;
+  tr.innerHTML = html`
+<td>${i + 1}</td>
+<td><a href="${url}">${talk.title}</a></td>
+<td><img class="speaker-icon" src="${talk.speaker_icon}">${talk.speaker_name}</td>
+<td>${talk.twitter}</td>
+<td>${talk.hatena}</td>
+<td>${talk.total}</td>`.replace(/\n/g, '');
   tbody.append(tr);
 });
 
