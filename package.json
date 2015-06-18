@@ -2,10 +2,10 @@
   "name": "yapc-talk-ranking",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "ranking.json",
   "scripts": {
     "build": "browserify script.js -t babelify --outfile bundle.js",
-    "crawl": "node ./index.js > ./ranking.json"
+    "crawl": "node ./crawl.js > ./ranking.json"
   },
   "author": "Teppei Sato <teppeis@gmail.com>",
   "license": "MIT",
