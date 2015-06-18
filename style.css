@@ -32,11 +32,11 @@ footer {
   padding: 1em 0 2em;
 }
 
-footer p {
+footer span {
   display: inline-block;
 }
 
-footer p i.github {
+footer i.github {
   font-size: 2.5em;
   color: #333;
 }
