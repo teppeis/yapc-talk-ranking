@@ -1,5 +1,5 @@
 {
-  "date": 1434704448918,
+  "date": 1434708051596,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -29,7 +29,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/87649?v=3",
       "hatena": 107,
       "twitter": 140,
-      "total": 574
+      "total": 573
     },
     {
       "path": "/2015/talk/show/f2816038-10ec-11e5-89bf-d7f07d574c3a",
@@ -39,7 +39,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/1315074?v=3",
       "hatena": 69,
       "twitter": 124,
-      "total": 431
+      "total": 430
     },
     {
       "path": "/2015/talk/show/86ebd212-fab3-11e4-8f5a-8ab37d574c3a",
@@ -69,7 +69,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/8991?v=3",
       "hatena": 77,
       "twitter": 68,
-      "total": 354
+      "total": 353
     },
     {
       "path": "/2015/talk/show/b335dee0-09ad-11e5-8d7a-67dc7d574c3a",
@@ -79,7 +79,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/1295745651/fujiwara-icon-s_normal.png",
       "hatena": 60,
       "twitter": 83,
-      "total": 330
+      "total": 329
     },
     {
       "path": "/2015/talk/show/4bab2728-00fa-11e5-9931-79c97d574c3a",
@@ -257,9 +257,9 @@
       "speaker_name": "Teppei Sato",
       "speaker_url": "https://github.com/teppeis",
       "speaker_icon": "https://avatars.githubusercontent.com/u/26476?v=3",
-      "hatena": 26,
-      "twitter": 75,
-      "total": 213
+      "hatena": 27,
+      "twitter": 76,
+      "total": 218
     },
     {
       "path": "/2015/talk/show/a7e23d1c-fd42-11e4-ab7e-bdc07d574c3a",
@@ -347,9 +347,9 @@
       "speaker_name": "chezou",
       "speaker_url": "https://twitter.com/chezou",
       "speaker_icon": "http://pbs.twimg.com/profile_images/3512660657/c7724f0f2022e87c568dec7af95909a6_normal.jpeg",
-      "hatena": 30,
+      "hatena": 31,
       "twitter": 48,
-      "total": 176
+      "total": 179
     },
     {
       "path": "/2015/talk/show/04a4c95c-0fea-11e5-9a0f-d7f07d574c3a",
@@ -619,7 +619,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/1711030185/header_title_normal.jpg",
       "hatena": 18,
       "twitter": 36,
-      "total": 119
+      "total": 118
     },
     {
       "path": "/2015/talk/show/39a72c04-10e3-11e5-b8ab-d7f07d574c3a",
@@ -709,17 +709,7 @@
       "speaker_icon": "http://graph.facebook.com/543316027/picture",
       "hatena": 18,
       "twitter": 31,
-      "total": 110
-    },
-    {
-      "path": "/2015/talk/show/f93bc956-1333-11e5-ad76-d9f87d574c3a",
-      "title": "FutureAutomation",
-      "speaker_name": "Taichi Nakashima ☕️",
-      "speaker_url": "https://twitter.com/deeeet",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/2622062878/idqr0s42fhsfc74wa7c5_normal.jpeg",
-      "hatena": 13,
-      "twitter": 36,
-      "total": 104
+      "total": 109
     },
     {
       "path": "/2015/talk/show/66960c2c-1330-11e5-9c0d-d9f87d574c3a",
@@ -729,6 +719,16 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/583440287269171200/LfL9vF2I_normal.jpg",
       "hatena": 20,
       "twitter": 24,
+      "total": 103
+    },
+    {
+      "path": "/2015/talk/show/f93bc956-1333-11e5-ad76-d9f87d574c3a",
+      "title": "FutureAutomation",
+      "speaker_name": "Taichi Nakashima ☕️",
+      "speaker_url": "https://twitter.com/deeeet",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/2622062878/idqr0s42fhsfc74wa7c5_normal.jpeg",
+      "hatena": 13,
+      "twitter": 36,
       "total": 103
     },
     {
@@ -769,7 +769,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000214753541/b3fdd930163a330b670a45b483606574_normal.jpeg",
       "hatena": 15,
       "twitter": 31,
-      "total": 101
+      "total": 100
     },
     {
       "path": "/2015/talk/show/aa08df46-f7ee-11e4-9737-8ab37d574c3a",
