@@ -27,7 +27,7 @@
 
 },{}],2:[function(require,module,exports){
 module.exports={
-  "date": 1434740452504,
+  "date": 1434744047999,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -1020,6 +1020,16 @@ module.exports={
       "total": 68
     },
     {
+      "path": "/2015/talk/show/e466d60a-11db-11e5-b07b-d7f07d574c3a",
+      "title": "Posture for Engineers",
+      "speaker_name": "Marylou Lenhart",
+      "speaker_url": "https://github.com/melancholyfleur",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/38176?v=3",
+      "hatena": 7,
+      "twitter": 25,
+      "total": 65
+    },
+    {
       "path": "/2015/talk/show/53507dd6-1101-11e5-b6f3-d7f07d574c3a",
       "title": "How to build the neologism dictionary for Japanese natural language processing",
       "speaker_name": "Toshinori Sato",
@@ -1027,16 +1037,6 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/335646?v=3",
       "hatena": 10,
       "twitter": 19,
-      "total": 64
-    },
-    {
-      "path": "/2015/talk/show/e466d60a-11db-11e5-b07b-d7f07d574c3a",
-      "title": "Posture for Engineers",
-      "speaker_name": "Marylou Lenhart",
-      "speaker_url": "https://github.com/melancholyfleur",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/38176?v=3",
-      "hatena": 7,
-      "twitter": 24,
       "total": 64
     },
     {
@@ -1390,16 +1390,6 @@ module.exports={
       "total": 31
     },
     {
-      "path": "/2015/talk/show/e4791a94-f7ec-11e4-8787-8ab37d574c3a",
-      "title": "PAUSE, with a little bit of Plack",
-      "speaker_name": "Kenichi Ishigaki",
-      "speaker_url": "https://github.com/charsbar",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/36517?v=3",
-      "hatena": 7,
-      "twitter": 5,
-      "total": 30
-    },
-    {
       "path": "/2015/talk/show/39d5cf28-1273-11e5-8540-d9f87d574c3a",
       "title": "Koyomi - A Simple Distributed Job Scheduler for High Availability",
       "speaker_name": "きいあむ / YASUTAKE K.",
@@ -1417,6 +1407,16 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/701274503/515145_584452466_normal.jpg",
       "hatena": 5,
       "twitter": 8,
+      "total": 29
+    },
+    {
+      "path": "/2015/talk/show/e4791a94-f7ec-11e4-8787-8ab37d574c3a",
+      "title": "PAUSE, with a little bit of Plack",
+      "speaker_name": "Kenichi Ishigaki",
+      "speaker_url": "https://github.com/charsbar",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/36517?v=3",
+      "hatena": 7,
+      "twitter": 5,
       "total": 29
     },
     {
