@@ -20,6 +20,10 @@ body {
   content: '\f0d8';
 }
 
+.social-count {
+  padding: 4px;
+}
+
 .speaker-icon {
   width: 18px;
   height: 18px;

@@ -17,8 +17,8 @@ ranking.forEach((talk, i) => {
 <td>${i + 1}</td>
 <td><a href="${url}">${talk.title}</a></td>
 <td><a href="${talk.speaker_url}"><img class="speaker-icon" src="${talk.speaker_icon}">${talk.speaker_name}</a></td>
-<td>${talk.twitter}</td>
-<td>${talk.hatena}</td>
+<td><a href="https://twitter.com/search?q=${encodeURIComponent(url)}" class="social-count">${talk.twitter}</a></td>
+<td><a href="http://b.hatena.ne.jp/entry/yapcasia.org${talk.path}" class="social-count">${talk.hatena}</a></td>
 <td>${talk.total}</td>`.replace(/\n/g, '');
   tbody.append(tr);
 });
