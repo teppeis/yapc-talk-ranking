@@ -1,5 +1,5 @@
 {
-  "date": 1434697276857,
+  "date": 1434700854060,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -19,7 +19,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/1041857?v=3",
       "hatena": 110,
       "twitter": 170,
-      "total": 638
+      "total": 637
     },
     {
       "path": "/2015/talk/show/9ec2791c-05e5-11e5-81fa-79c97d574c3a",
@@ -29,7 +29,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/87649?v=3",
       "hatena": 107,
       "twitter": 140,
-      "total": 575
+      "total": 574
     },
     {
       "path": "/2015/talk/show/f2816038-10ec-11e5-89bf-d7f07d574c3a",
@@ -99,7 +99,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/419164963416985600/QtvOEPl5_normal.jpeg",
       "hatena": 48,
       "twitter": 95,
-      "total": 316
+      "total": 315
     },
     {
       "path": "/2015/talk/show/4f85e87a-f9ec-11e4-8262-8ab37d574c3a",
@@ -149,7 +149,7 @@
       "speaker_icon": "http://graph.facebook.com/631255029/picture",
       "hatena": 34,
       "twitter": 89,
-      "total": 263
+      "total": 262
     },
     {
       "path": "/2015/talk/show/7d62caf8-12f4-11e5-881c-d9f87d574c3a",
@@ -179,7 +179,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/538947384420483072/5WmJP-fh_normal.jpeg",
       "hatena": 45,
       "twitter": 64,
-      "total": 251
+      "total": 250
     },
     {
       "path": "/2015/talk/show/39a15ad4-0ff5-11e5-a984-d7f07d574c3a",
@@ -219,7 +219,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/3685820543/1e8215b4268fef1d97891e3d61b7b361_normal.png",
       "hatena": 38,
       "twitter": 64,
-      "total": 230
+      "total": 229
     },
     {
       "path": "/2015/talk/show/1e976f9e-0046-11e5-a69c-89c77d574c3a",
@@ -248,8 +248,8 @@
       "speaker_url": "https://twitter.com/yosuke_furukawa",
       "speaker_icon": "http://pbs.twimg.com/profile_images/206948941/wall-e_normal.jpg",
       "hatena": 38,
-      "twitter": 56,
-      "total": 215
+      "twitter": 58,
+      "total": 218
     },
     {
       "path": "/2015/talk/show/44721562-10e4-11e5-88a0-d7f07d574c3a",
@@ -269,7 +269,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/541797238473625600/pi2i_yLc_normal.jpeg",
       "hatena": 38,
       "twitter": 53,
-      "total": 210
+      "total": 209
     },
     {
       "path": "/2015/talk/show/32392ef8-1314-11e5-865c-d9f87d574c3a",
@@ -282,16 +282,6 @@
       "total": 201
     },
     {
-      "path": "/2015/talk/show/dd8ce20e-fad2-11e4-b6e7-8ab37d574c3a",
-      "title": "Technologies for Data Analytics Platform",
-      "speaker_name": "Masahiro Nakagawa",
-      "speaker_url": "https://github.com/repeatedly",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/16928?v=3",
-      "hatena": 28,
-      "twitter": 58,
-      "total": 189
-    },
-    {
       "path": "/2015/talk/show/bbb0162a-0350-11e5-bb2f-79c97d574c3a",
       "title": "After that building development environments in Docker",
       "speaker_name": "こんぼい。",
@@ -300,6 +290,16 @@
       "hatena": 36,
       "twitter": 45,
       "total": 189
+    },
+    {
+      "path": "/2015/talk/show/dd8ce20e-fad2-11e4-b6e7-8ab37d574c3a",
+      "title": "Technologies for Data Analytics Platform",
+      "speaker_name": "Masahiro Nakagawa",
+      "speaker_url": "https://github.com/repeatedly",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/16928?v=3",
+      "hatena": 28,
+      "twitter": 58,
+      "total": 188
     },
     {
       "path": "/2015/talk/show/3ea83132-1352-11e5-9978-d9f87d574c3a",
@@ -349,7 +349,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/3512660657/c7724f0f2022e87c568dec7af95909a6_normal.jpeg",
       "hatena": 30,
       "twitter": 48,
-      "total": 177
+      "total": 176
     },
     {
       "path": "/2015/talk/show/04a4c95c-0fea-11e5-9a0f-d7f07d574c3a",
@@ -477,9 +477,9 @@
       "speaker_name": "Masanori KOGA",
       "speaker_url": "https://twitter.com/makoga",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1214405156/koga300dpi_normal.jpg",
-      "hatena": 16,
+      "hatena": 17,
       "twitter": 51,
-      "total": 140
+      "total": 143
     },
     {
       "path": "/2015/talk/show/d099f154-fd66-11e4-9b2b-bdc07d574c3a",
@@ -499,7 +499,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/3290639266/a767076172e2d30e41963b41e27c9beb_normal.jpeg",
       "hatena": 17,
       "twitter": 47,
-      "total": 136
+      "total": 135
     },
     {
       "path": "/2015/talk/show/9e9ae188-fb20-11e4-9a97-8ab37d574c3a",
@@ -509,7 +509,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/322289?v=3",
       "hatena": 25,
       "twitter": 32,
-      "total": 133
+      "total": 132
     },
     {
       "path": "/2015/talk/show/c61a32a4-f797-11e4-bcef-8ab37d574c3a",
@@ -529,7 +529,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/1118038428/be5c756e-ae2f-49b6-8c7b-bd8508b6dc93_normal.png",
       "hatena": 24,
       "twitter": 32,
-      "total": 130
+      "total": 129
     },
     {
       "path": "/2015/talk/show/96ce1990-fa38-11e4-83b7-8ab37d574c3a",
@@ -572,14 +572,14 @@
       "total": 126
     },
     {
-      "path": "/2015/talk/show/a636430c-0fbf-11e5-8a02-43ec7d574c3a",
-      "title": "メリークリスマス！",
-      "speaker_name": "Larry Wall",
-      "speaker_url": "https://github.com/TimToady",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/162146?v=3",
+      "path": "/2015/talk/show/cc8f1b48-0e32-11e5-9147-67dc7d574c3a",
+      "title": "普通のことを普通にやれば、いいプログラムになる",
+      "speaker_name": "Shoichi Kaji",
+      "speaker_url": "https://github.com/shoichikaji",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/1589550?v=3",
       "hatena": 22,
-      "twitter": 32,
-      "total": 124
+      "twitter": 33,
+      "total": 125
     },
     {
       "path": "/2015/talk/show/b396e912-091a-11e5-8d2d-67dc7d574c3a",
@@ -592,14 +592,14 @@
       "total": 123
     },
     {
-      "path": "/2015/talk/show/cc8f1b48-0e32-11e5-9147-67dc7d574c3a",
-      "title": "普通のことを普通にやれば、いいプログラムになる",
-      "speaker_name": "Shoichi Kaji",
-      "speaker_url": "https://github.com/shoichikaji",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/1589550?v=3",
-      "hatena": 21,
-      "twitter": 33,
-      "total": 122
+      "path": "/2015/talk/show/a636430c-0fbf-11e5-8a02-43ec7d574c3a",
+      "title": "メリークリスマス！",
+      "speaker_name": "Larry Wall",
+      "speaker_url": "https://github.com/TimToady",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/162146?v=3",
+      "hatena": 22,
+      "twitter": 32,
+      "total": 123
     },
     {
       "path": "/2015/talk/show/cf39f7fc-ff44-11e4-9264-66c47d574c3a",
@@ -632,16 +632,6 @@
       "total": 116
     },
     {
-      "path": "/2015/talk/show/d78f1c60-0814-11e5-b740-79c97d574c3a",
-      "title": "POSIX原理主義 ― どこでも動く、20年動く、コピー一発デプロイ完了、な理想郷はシェルスクリプトで築かれる",
-      "speaker_name": "Rich Mikan",
-      "speaker_url": "https://github.com/richmikan",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/1249622?v=3",
-      "hatena": 22,
-      "twitter": 27,
-      "total": 115
-    },
-    {
       "path": "/2015/talk/show/0af26fe4-0b7b-11e5-a29c-67dc7d574c3a",
       "title": "MySQLで2億件のシリアルデータと格闘したチューニングの話",
       "speaker_name": "さいけん",
@@ -649,16 +639,6 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/1205361823/img_791544_45327987_0_normal.jpg",
       "hatena": 18,
       "twitter": 34,
-      "total": 115
-    },
-    {
-      "path": "/2015/talk/show/f279d804-0efd-11e5-bc53-43ec7d574c3a",
-      "title": "尋常じゃない速度でドッグフードを食べる方法",
-      "speaker_name": "Yuta Kurotaki",
-      "speaker_url": "https://github.com/kurotaky",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/866589?v=3",
-      "hatena": 19,
-      "twitter": 32,
       "total": 115
     },
     {
@@ -670,6 +650,26 @@
       "hatena": 21,
       "twitter": 29,
       "total": 115
+    },
+    {
+      "path": "/2015/talk/show/d78f1c60-0814-11e5-b740-79c97d574c3a",
+      "title": "POSIX原理主義 ― どこでも動く、20年動く、コピー一発デプロイ完了、な理想郷はシェルスクリプトで築かれる",
+      "speaker_name": "Rich Mikan",
+      "speaker_url": "https://github.com/richmikan",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/1249622?v=3",
+      "hatena": 22,
+      "twitter": 27,
+      "total": 114
+    },
+    {
+      "path": "/2015/talk/show/f279d804-0efd-11e5-bc53-43ec7d574c3a",
+      "title": "尋常じゃない速度でドッグフードを食べる方法",
+      "speaker_name": "Yuta Kurotaki",
+      "speaker_url": "https://github.com/kurotaky",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/866589?v=3",
+      "hatena": 19,
+      "twitter": 32,
+      "total": 114
     },
     {
       "path": "/2015/talk/show/c495bb3c-1340-11e5-b434-d9f87d574c3a",
@@ -822,6 +822,16 @@
       "total": 93
     },
     {
+      "path": "/2015/talk/show/16b65b5a-0064-11e5-9c42-89c77d574c3a",
+      "title": "技術系同人誌を作ってコミケで頒布しよう ――「Steins;Gate の世界観を使って Git を説明する本」Steins;Git の実例",
+      "speaker_name": "Shota Kubota",
+      "speaker_url": "https://twitter.com/kubosho_",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/501586383790563328/rwTNO_Cj_normal.jpeg",
+      "hatena": 6,
+      "twitter": 41,
+      "total": 92
+    },
+    {
       "path": "/2015/talk/show/86fa062e-135a-11e5-a432-d9f87d574c3a",
       "title": "SQL Programming with PostgreSQL",
       "speaker_name": "yancya",
@@ -830,16 +840,6 @@
       "hatena": 15,
       "twitter": 25,
       "total": 90
-    },
-    {
-      "path": "/2015/talk/show/16b65b5a-0064-11e5-9c42-89c77d574c3a",
-      "title": "技術系同人誌を作ってコミケで頒布しよう ――「Steins;Gate の世界観を使って Git を説明する本」Steins;Git の実例",
-      "speaker_name": "Shota Kubota",
-      "speaker_url": "https://twitter.com/kubosho_",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/501586383790563328/rwTNO_Cj_normal.jpeg",
-      "hatena": 5,
-      "twitter": 41,
-      "total": 89
     },
     {
       "path": "/2015/talk/show/3fe49c10-fa67-11e4-9e02-8ab37d574c3a",
@@ -858,8 +858,8 @@
       "speaker_url": "https://twitter.com/hoto17296",
       "speaker_icon": "http://pbs.twimg.com/profile_images/574083036834197507/yeKZlpd4_normal.png",
       "hatena": 12,
-      "twitter": 28,
-      "total": 86
+      "twitter": 29,
+      "total": 88
     },
     {
       "path": "/2015/talk/show/909af06e-05ed-11e5-8e9a-79c97d574c3a",
@@ -929,7 +929,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/54422?v=3",
       "hatena": 10,
       "twitter": 26,
-      "total": 77
+      "total": 76
     },
     {
       "path": "/2015/talk/show/a0044cc4-130a-11e5-b0c6-d9f87d574c3a",
@@ -1029,7 +1029,7 @@
       "speaker_icon": "http://graph.facebook.com/840773865999476/picture",
       "hatena": 11,
       "twitter": 16,
-      "total": 62
+      "total": 61
     },
     {
       "path": "/2015/talk/show/5d70d0da-1346-11e5-8d94-d9f87d574c3a",
@@ -1039,7 +1039,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/1716463?v=3",
       "hatena": 8,
       "twitter": 21,
-      "total": 62
+      "total": 61
     },
     {
       "path": "/2015/talk/show/20dd3ec6-1367-11e5-8295-d9f87d574c3a",
@@ -1761,6 +1761,16 @@
       "total": 6
     },
     {
+      "path": "/2015/talk/show/cbe92afe-12a5-11e5-8fc1-d9f87d574c3a",
+      "title": "Support Ingress Agents! YAPC-Driven Development",
+      "speaker_name": "Takatsugu Shigeta",
+      "speaker_url": "https://github.com/comewalk",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/2808?v=3",
+      "hatena": 1,
+      "twitter": 2,
+      "total": 6
+    },
+    {
       "path": "/2015/talk/show/8eae34ac-136a-11e5-bf05-d9f87d574c3a",
       "title": "WEBサービスプログラマーが０から考えたネイティブアプリのセキュアなAPI設計について",
       "speaker_name": "gomadango",
@@ -1806,16 +1816,6 @@
       "speaker_name": "Mike Accardo",
       "speaker_url": "https://github.com/mixedconnections",
       "speaker_icon": "https://avatars.githubusercontent.com/u/833824?v=3",
-      "hatena": 1,
-      "twitter": 1,
-      "total": 4
-    },
-    {
-      "path": "/2015/talk/show/cbe92afe-12a5-11e5-8fc1-d9f87d574c3a",
-      "title": "Support Ingress Agents! YAPC-Driven Development",
-      "speaker_name": "Takatsugu Shigeta",
-      "speaker_url": "https://github.com/comewalk",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/2808?v=3",
       "hatena": 1,
       "twitter": 1,
       "total": 4
