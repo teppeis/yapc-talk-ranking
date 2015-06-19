@@ -27,7 +27,7 @@
 
 },{}],2:[function(require,module,exports){
 module.exports={
-  "date": 1434718849117,
+  "date": 1434722449579,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -35,9 +35,9 @@ module.exports={
       "speaker_name": "趣味はマリンスポーツです",
       "speaker_url": "https://twitter.com/hitode909",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1753788808/sushi_r_normal.gif",
-      "twitter": 163,
       "hatena": 143,
-      "total": 723
+      "twitter": 163,
+      "total": 722
     },
     {
       "path": "/2015/talk/show/c191c08a-0a98-11e5-be34-67dc7d574c3a",
@@ -170,6 +170,16 @@ module.exports={
       "total": 270
     },
     {
+      "path": "/2015/talk/show/7d62caf8-12f4-11e5-881c-d9f87d574c3a",
+      "title": "The Art of Blogging Technologies",
+      "speaker_name": "yuuki",
+      "speaker_url": "https://twitter.com/y_uuk1",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/3279630066/5fec6321a3aca8de271ccb3fae606d2a_normal.png",
+      "hatena": 51,
+      "twitter": 62,
+      "total": 264
+    },
+    {
       "path": "/2015/talk/show/3cc6d49c-faa0-11e4-b634-8ab37d574c3a",
       "title": "Inside of \"Bokete\" Japanese famous entertainment web - Team, Architecture, Implementation",
       "speaker_name": "Yusuke Wada",
@@ -178,16 +188,6 @@ module.exports={
       "hatena": 34,
       "twitter": 89,
       "total": 262
-    },
-    {
-      "path": "/2015/talk/show/7d62caf8-12f4-11e5-881c-d9f87d574c3a",
-      "title": "The Art of Blogging Technologies",
-      "speaker_name": "yuuki",
-      "speaker_url": "https://twitter.com/y_uuk1",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/3279630066/5fec6321a3aca8de271ccb3fae606d2a_normal.png",
-      "hatena": 51,
-      "twitter": 60,
-      "total": 261
     },
     {
       "path": "/2015/talk/show/607595a2-0df3-11e5-b447-67dc7d574c3a",
@@ -375,8 +375,8 @@ module.exports={
       "speaker_name": "chezou",
       "speaker_url": "https://twitter.com/chezou",
       "speaker_icon": "http://pbs.twimg.com/profile_images/3512660657/c7724f0f2022e87c568dec7af95909a6_normal.jpeg",
-      "twitter": 48,
       "hatena": 31,
+      "twitter": 48,
       "total": 179
     },
     {
@@ -595,8 +595,8 @@ module.exports={
       "speaker_name": "ダメレオン",
       "speaker_url": "https://twitter.com/damele0n",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1323645880/Icon-rainbow_reasonably_small_normal.jpeg",
-      "twitter": 35,
       "hatena": 21,
+      "twitter": 35,
       "total": 126
     },
     {
@@ -715,8 +715,8 @@ module.exports={
       "speaker_name": "Kensuke Nagae",
       "speaker_url": "https://www.facebook.com/543316027",
       "speaker_icon": "http://graph.facebook.com/543316027/picture",
-      "twitter": 32,
       "hatena": 19,
+      "twitter": 32,
       "total": 114
     },
     {
@@ -735,8 +735,8 @@ module.exports={
       "speaker_name": "makamaka@どんぞこ楽屋",
       "speaker_url": "https://twitter.com/maka2_donzoko",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1094520798/icon2010_normal.png",
-      "twitter": 40,
       "hatena": 13,
+      "twitter": 40,
       "total": 111
     },
     {
@@ -835,8 +835,8 @@ module.exports={
       "speaker_name": "Jiro Nishiguchi",
       "speaker_url": "https://github.com/spiritloose",
       "speaker_icon": "https://avatars.githubusercontent.com/u/13047?v=3",
-      "twitter": 26,
       "hatena": 16,
+      "twitter": 26,
       "total": 94
     },
     {
@@ -875,8 +875,8 @@ module.exports={
       "speaker_name": "yancya",
       "speaker_url": "https://twitter.com/yancya",
       "speaker_icon": "http://pbs.twimg.com/profile_images/449541105894174721/Tmgr9zRN_normal.jpeg",
-      "twitter": 25,
       "hatena": 15,
+      "twitter": 25,
       "total": 90
     },
     {
@@ -905,8 +905,8 @@ module.exports={
       "speaker_name": "songmu",
       "speaker_url": "https://twitter.com/songmu",
       "speaker_icon": "http://pbs.twimg.com/profile_images/538947384420483072/5WmJP-fh_normal.jpeg",
-      "twitter": 25,
       "hatena": 13,
+      "twitter": 25,
       "total": 84
     },
     {
@@ -915,8 +915,8 @@ module.exports={
       "speaker_name": "Shinichiro Aska",
       "speaker_url": "https://github.com/s-aska",
       "speaker_icon": "https://avatars.githubusercontent.com/u/140584?v=3",
-      "twitter": 27,
       "hatena": 11,
+      "twitter": 27,
       "total": 81
     },
     {
@@ -935,8 +935,8 @@ module.exports={
       "speaker_name": "Yohei Yasukawa",
       "speaker_url": "https://twitter.com/yasulab",
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000445530232/35d0d14c355a5d926fe42f4c5d3ab91b_normal.png",
-      "twitter": 30,
       "hatena": 8,
+      "twitter": 30,
       "total": 78
     },
     {
@@ -1075,8 +1075,8 @@ module.exports={
       "speaker_name": "Satoshi.S",
       "speaker_url": "https://twitter.com/studio3104",
       "speaker_icon": "http://pbs.twimg.com/profile_images/520265668403294211/JxYDX9-P_normal.jpeg",
-      "twitter": 25,
       "hatena": 5,
+      "twitter": 25,
       "total": 60
     },
     {
@@ -1154,8 +1154,8 @@ module.exports={
       "speaker_name": "アオヤマ ミント",
       "speaker_url": "https://twitter.com/MintoAoyama",
       "speaker_icon": "http://pbs.twimg.com/profile_images/601767800172978176/Ax16wsjG_normal.jpg",
-      "twitter": 16,
       "hatena": 8,
+      "twitter": 16,
       "total": 52
     },
     {
@@ -1174,8 +1174,8 @@ module.exports={
       "speaker_name": "Miki Horiuchi Kabe",
       "speaker_url": "https://www.facebook.com/951266011604370",
       "speaker_icon": "http://graph.facebook.com/951266011604370/picture",
-      "twitter": 12,
       "hatena": 9,
+      "twitter": 12,
       "total": 48
     },
     {
@@ -1384,8 +1384,8 @@ module.exports={
       "speaker_name": "Takumi Sakamoto",
       "speaker_url": "https://twitter.com/takus",
       "speaker_icon": "http://pbs.twimg.com/profile_images/695932190/me_normal.jpg",
-      "twitter": 9,
       "hatena": 5,
+      "twitter": 9,
       "total": 31
     },
     {
@@ -1414,8 +1414,8 @@ module.exports={
       "speaker_name": "OGATA Tetsuji",
       "speaker_url": "https://twitter.com/xtetsuji",
       "speaker_icon": "http://pbs.twimg.com/profile_images/404805662/min_x40_mini_normal.png",
-      "twitter": 10,
       "hatena": 4,
+      "twitter": 10,
       "total": 30
     },
     {
@@ -1564,8 +1564,8 @@ module.exports={
       "speaker_name": "syunsuke",
       "speaker_url": "https://twitter.com/i47_rozary",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1707414486/21_-_1_normal.jpg",
-      "twitter": 6,
       "hatena": 3,
+      "twitter": 6,
       "total": 19
     },
     {
@@ -1584,8 +1584,8 @@ module.exports={
       "speaker_name": "Masayuki Ishikawa",
       "speaker_url": "https://www.facebook.com/100001054610433",
       "speaker_icon": "http://graph.facebook.com/100001054610433/picture",
-      "twitter": 7,
       "hatena": 2,
+      "twitter": 7,
       "total": 18
     },
     {
@@ -1599,6 +1599,16 @@ module.exports={
       "total": 16
     },
     {
+      "path": "/2015/talk/show/ad57ca84-13e9-11e5-aca1-525412004261",
+      "title": "【特別企画】YAPCあるある（仮）",
+      "speaker_name": "鎌田武俊",
+      "speaker_url": "https://www.facebook.com/1261488582",
+      "speaker_icon": "http://graph.facebook.com/1261488582/picture",
+      "hatena": 2,
+      "twitter": 6,
+      "total": 16
+    },
+    {
       "path": "/2015/talk/show/e5f171e4-133c-11e5-b836-d9f87d574c3a",
       "title": "Machi-P FM in YAPC::Asia",
       "speaker_name": "あずまさとし",
@@ -1606,16 +1616,6 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000466143858/93673f957eb413a7a34410d930afa5f7_normal.png",
       "hatena": 1,
       "twitter": 7,
-      "total": 15
-    },
-    {
-      "path": "/2015/talk/show/ad57ca84-13e9-11e5-aca1-525412004261",
-      "title": "【特別企画】YAPCあるある（仮）",
-      "speaker_name": "鎌田武俊",
-      "speaker_url": "https://www.facebook.com/1261488582",
-      "speaker_icon": "http://graph.facebook.com/1261488582/picture",
-      "twitter": 5,
-      "hatena": 2,
       "total": 15
     },
     {
@@ -1644,8 +1644,8 @@ module.exports={
       "speaker_name": "zuqqhi2",
       "speaker_url": "https://twitter.com/zuqqhi2",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1394079624/26852578_1874744136_normal.jpg",
-      "twitter": 4,
       "hatena": 2,
+      "twitter": 4,
       "total": 13
     },
     {
@@ -1654,8 +1654,8 @@ module.exports={
       "speaker_name": "Yusuke Kawasaki",
       "speaker_url": "https://www.facebook.com/731850967",
       "speaker_icon": "http://graph.facebook.com/731850967/picture",
-      "twitter": 1,
       "hatena": 4,
+      "twitter": 1,
       "total": 13
     },
     {
@@ -1699,16 +1699,6 @@ module.exports={
       "total": 9
     },
     {
-      "path": "/2015/talk/show/32b918ee-1304-11e5-94b1-d9f87d574c3a",
-      "title": "print \"Hello, Real-World\\n\"; # Real-Worldに差し込み始めるWeb技術の展望",
-      "speaker_name": "Lyo Kato",
-      "speaker_url": "https://github.com/lyokato",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/30877?v=3",
-      "hatena": 0,
-      "twitter": 5,
-      "total": 9
-    },
-    {
       "path": "/2015/talk/show/c9546112-1347-11e5-ad02-d9f87d574c3a",
       "title": "10年動き続けているブログサービスのエンドツーエンドを書いた記録",
       "speaker_name": "Kenichi TAKAHASHI",
@@ -1724,8 +1714,8 @@ module.exports={
       "speaker_name": "ガーデン",
       "speaker_url": "https://twitter.com/glkame",
       "speaker_icon": "http://pbs.twimg.com/profile_images/505371986139160576/jXTLTlds_normal.jpeg",
-      "twitter": 2,
       "hatena": 2,
+      "twitter": 2,
       "total": 9
     },
     {
@@ -1734,8 +1724,8 @@ module.exports={
       "speaker_name": "hirobanex",
       "speaker_url": "https://twitter.com/hirobanex",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1098249211/niku_normal.jpg",
-      "twitter": 2,
       "hatena": 2,
+      "twitter": 2,
       "total": 9
     },
     {
@@ -1749,13 +1739,23 @@ module.exports={
       "total": 8
     },
     {
+      "path": "/2015/talk/show/32b918ee-1304-11e5-94b1-d9f87d574c3a",
+      "title": "print \"Hello, Real-World\\n\"; # Real-Worldに差し込み始めるWeb技術の展望",
+      "speaker_name": "Lyo Kato",
+      "speaker_url": "https://github.com/lyokato",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/30877?v=3",
+      "hatena": 0,
+      "twitter": 5,
+      "total": 8
+    },
+    {
       "path": "/2015/talk/show/3d46659a-136e-11e5-b36d-d9f87d574c3a",
       "title": "Startup exit strategies and technology selection",
       "speaker_name": "tnir",
       "speaker_url": "https://github.com/tnir",
       "speaker_icon": "https://avatars.githubusercontent.com/u/10229505?v=3",
-      "twitter": 3,
       "hatena": 1,
+      "twitter": 3,
       "total": 8
     },
     {
@@ -1804,8 +1804,8 @@ module.exports={
       "speaker_name": "gomadango",
       "speaker_url": "https://github.com/gomadango",
       "speaker_icon": "https://avatars.githubusercontent.com/u/12896099?v=3",
-      "twitter": 2,
       "hatena": 1,
+      "twitter": 2,
       "total": 6
     },
     {
@@ -1814,8 +1814,8 @@ module.exports={
       "speaker_name": "SHIRAKATA Kentaro",
       "speaker_url": "https://github.com/argrath",
       "speaker_icon": "https://avatars.githubusercontent.com/u/53912?v=3",
-      "twitter": 2,
       "hatena": 1,
+      "twitter": 2,
       "total": 6
     },
     {
@@ -1824,8 +1824,8 @@ module.exports={
       "speaker_name": "sojiro",
       "speaker_url": "https://twitter.com/sojiro14",
       "speaker_icon": "http://pbs.twimg.com/profile_images/595286077985804288/mIsprLuz_normal.jpg",
-      "twitter": 3,
       "hatena": 0,
+      "twitter": 3,
       "total": 5
     },
     {
@@ -1834,8 +1834,8 @@ module.exports={
       "speaker_name": "Kelsey Hightower",
       "speaker_url": "https://github.com/kelseyhightower",
       "speaker_icon": "https://avatars.githubusercontent.com/u/1123322?v=3",
-      "twitter": 3,
       "hatena": 0,
+      "twitter": 3,
       "total": 5
     },
     {
@@ -1854,8 +1854,8 @@ module.exports={
       "speaker_name": "sojiro",
       "speaker_url": "https://twitter.com/sojiro14",
       "speaker_icon": "http://pbs.twimg.com/profile_images/595286077985804288/mIsprLuz_normal.jpg",
-      "twitter": 1,
       "hatena": 1,
+      "twitter": 1,
       "total": 4
     },
     {
@@ -1954,8 +1954,8 @@ module.exports={
       "speaker_name": "Yuichi Suzuki",
       "speaker_url": "https://www.facebook.com/927473347309272",
       "speaker_icon": "http://graph.facebook.com/927473347309272/picture",
-      "twitter": 1,
       "hatena": 0,
+      "twitter": 1,
       "total": 1
     }
   ]
