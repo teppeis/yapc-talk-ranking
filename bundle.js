@@ -27,7 +27,7 @@
 
 },{}],2:[function(require,module,exports){
 module.exports={
-  "date": 1434722449579,
+  "date": 1434726052622,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -175,9 +175,9 @@ module.exports={
       "speaker_name": "yuuki",
       "speaker_url": "https://twitter.com/y_uuk1",
       "speaker_icon": "http://pbs.twimg.com/profile_images/3279630066/5fec6321a3aca8de271ccb3fae606d2a_normal.png",
-      "hatena": 51,
+      "hatena": 52,
       "twitter": 62,
-      "total": 264
+      "total": 267
     },
     {
       "path": "/2015/talk/show/3cc6d49c-faa0-11e4-b634-8ab37d574c3a",
@@ -195,9 +195,9 @@ module.exports={
       "speaker_name": "Naotoshi Seo",
       "speaker_url": "https://github.com/sonots",
       "speaker_icon": "https://avatars.githubusercontent.com/u/2290461?v=3",
-      "hatena": 50,
+      "hatena": 51,
       "twitter": 57,
-      "total": 252
+      "total": 255
     },
     {
       "path": "/2015/talk/show/5b1cd536-07ed-11e5-9e42-79c97d574c3a",
@@ -1070,6 +1070,15 @@ module.exports={
       "total": 61
     },
     {
+      "path": "/2015/talk/show/4491bfc8-11d6-11e5-ac0f-d7f07d574c3a",
+      "title": "僕がwebアプリケーションのコードを書く時に考えていること 〜完全版〜",
+      "speaker_name": "ダメ人間",
+      "speaker_url": "https://twitter.com/dameninngenn",
+      "hatena": 9,
+      "twitter": 18,
+      "total": 59
+    },
+    {
       "path": "/2015/talk/show/20dd3ec6-1367-11e5-8295-d9f87d574c3a",
       "title": "ある程度大きな開発現場における DevOps の在り方にまつわる私見",
       "speaker_name": "Satoshi.S",
@@ -1077,15 +1086,6 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/520265668403294211/JxYDX9-P_normal.jpeg",
       "hatena": 5,
       "twitter": 25,
-      "total": 60
-    },
-    {
-      "path": "/2015/talk/show/4491bfc8-11d6-11e5-ac0f-d7f07d574c3a",
-      "title": "僕がwebアプリケーションのコードを書く時に考えていること 〜完全版〜",
-      "speaker_name": "ダメ人間",
-      "speaker_url": "https://twitter.com/dameninngenn",
-      "hatena": 9,
-      "twitter": 18,
       "total": 59
     },
     {
@@ -1659,16 +1659,6 @@ module.exports={
       "total": 13
     },
     {
-      "path": "/2015/talk/show/5d081e66-fedb-11e4-956f-66c47d574c3a",
-      "title": "Hashids: Porting from Javascript/PHP to Perl",
-      "speaker_name": "Zak B. Elep",
-      "speaker_url": "https://github.com/zakame",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/110625?v=3",
-      "hatena": 1,
-      "twitter": 5,
-      "total": 12
-    },
-    {
       "path": "/2015/talk/show/1cf18e70-1100-11e5-a394-d7f07d574c3a",
       "title": "Introduction to Sereal and its tooling",
       "speaker_name": "Ivan Kruglov",
@@ -1677,6 +1667,16 @@ module.exports={
       "hatena": 3,
       "twitter": 2,
       "total": 12
+    },
+    {
+      "path": "/2015/talk/show/5d081e66-fedb-11e4-956f-66c47d574c3a",
+      "title": "Hashids: Porting from Javascript/PHP to Perl",
+      "speaker_name": "Zak B. Elep",
+      "speaker_url": "https://github.com/zakame",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/110625?v=3",
+      "hatena": 1,
+      "twitter": 5,
+      "total": 11
     },
     {
       "path": "/2015/talk/show/f9d63700-0d22-11e5-ae59-67dc7d574c3a",
