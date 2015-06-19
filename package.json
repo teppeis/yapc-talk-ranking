@@ -6,7 +6,7 @@
   "scripts": {
     "build": "browserify script.js -t babelify --outfile bundle.js",
     "crawl": "node ./crawl.js > ./ranking.json",
-    "update": "npm run crawl && npm run build && git add . && git ci -m 'update ranking' && git push"
+    "update": "npm run crawl && npm run build && git add . && git ci -m 'update ranking'"
   },
   "author": "Teppei Sato <teppeis@gmail.com>",
   "license": "MIT",
