@@ -27,7 +27,7 @@
 
 },{}],2:[function(require,module,exports){
 module.exports={
-  "date": 1434693647989,
+  "date": 1434697276857,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -37,7 +37,7 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1753788808/sushi_r_normal.gif",
       "hatena": 143,
       "twitter": 163,
-      "total": 725
+      "total": 724
     },
     {
       "path": "/2015/talk/show/c191c08a-0a98-11e5-be34-67dc7d574c3a",
@@ -77,7 +77,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/46764?v=3",
       "hatena": 64,
       "twitter": 123,
-      "total": 415
+      "total": 414
     },
     {
       "path": "/2015/talk/show/c5ea5428-fac9-11e4-88c1-8ab37d574c3a",
@@ -185,9 +185,9 @@ module.exports={
       "speaker_name": "yuuki",
       "speaker_url": "https://twitter.com/y_uuk1",
       "speaker_icon": "http://pbs.twimg.com/profile_images/3279630066/5fec6321a3aca8de271ccb3fae606d2a_normal.png",
-      "hatena": 50,
-      "twitter": 59,
-      "total": 257
+      "hatena": 51,
+      "twitter": 60,
+      "total": 261
     },
     {
       "path": "/2015/talk/show/607595a2-0df3-11e5-b447-67dc7d574c3a",
@@ -287,7 +287,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/26476?v=3",
       "hatena": 26,
       "twitter": 74,
-      "total": 212
+      "total": 211
     },
     {
       "path": "/2015/talk/show/a7e23d1c-fd42-11e4-ab7e-bdc07d574c3a",
@@ -447,7 +447,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/49303?v=3",
       "hatena": 27,
       "twitter": 43,
-      "total": 159
+      "total": 158
     },
     {
       "path": "/2015/talk/show/94051590-fb11-11e4-a39d-8ab37d574c3a",
@@ -457,7 +457,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/250407?v=3",
       "hatena": 26,
       "twitter": 43,
-      "total": 156
+      "total": 155
     },
     {
       "path": "/2015/talk/show/93f39c88-ffa4-11e4-aa4d-66c47d574c3a",
@@ -487,7 +487,7 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/604586076024340480/EIbpIzsF_normal.jpg",
       "hatena": 24,
       "twitter": 43,
-      "total": 150
+      "total": 149
     },
     {
       "path": "/2015/talk/show/9f7059dc-003c-11e5-a00c-89c77d574c3a",
@@ -497,7 +497,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/876988?v=3",
       "hatena": 32,
       "twitter": 28,
-      "total": 147
+      "total": 146
     },
     {
       "path": "/2015/talk/show/cd2c903e-1333-11e5-898e-d9f87d574c3a",
@@ -700,16 +700,6 @@ module.exports={
       "total": 115
     },
     {
-      "path": "/2015/talk/show/23fa9706-0e40-11e5-829d-67dc7d574c3a",
-      "title": "レガシーなperlのweb開発から少しだけ今風なperlのweb開発へ。継続可能な開発へ。",
-      "speaker_name": "SUZUKI Masashi",
-      "speaker_url": "https://github.com/masasuzu",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/271100?v=3",
-      "hatena": 15,
-      "twitter": 37,
-      "total": 112
-    },
-    {
       "path": "/2015/talk/show/c495bb3c-1340-11e5-b434-d9f87d574c3a",
       "title": "What's \"Engineer Exchange\"",
       "speaker_name": "Toshiaki Koshiba",
@@ -718,6 +708,16 @@ module.exports={
       "hatena": 14,
       "twitter": 39,
       "total": 112
+    },
+    {
+      "path": "/2015/talk/show/23fa9706-0e40-11e5-829d-67dc7d574c3a",
+      "title": "レガシーなperlのweb開発から少しだけ今風なperlのweb開発へ。継続可能な開発へ。",
+      "speaker_name": "SUZUKI Masashi",
+      "speaker_url": "https://github.com/masasuzu",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/271100?v=3",
+      "hatena": 15,
+      "twitter": 37,
+      "total": 111
     },
     {
       "path": "/2015/talk/show/ad84b028-136e-11e5-b676-d9f87d574c3a",
@@ -750,16 +750,6 @@ module.exports={
       "total": 104
     },
     {
-      "path": "/2015/talk/show/6b582f7e-0228-11e5-b3ca-79c97d574c3a",
-      "title": "Online games  / smartphone games \"supporting technology\" and \"Story\"",
-      "speaker_name": "Yoshikazu Fukushima",
-      "speaker_url": "https://www.facebook.com/10206549291592204",
-      "speaker_icon": "http://graph.facebook.com/10206549291592204/picture",
-      "hatena": 18,
-      "twitter": 27,
-      "total": 103
-    },
-    {
       "path": "/2015/talk/show/66960c2c-1330-11e5-9c0d-d9f87d574c3a",
       "title": "はてなインターンの作り方",
       "speaker_name": "大西康裕",
@@ -768,6 +758,16 @@ module.exports={
       "hatena": 20,
       "twitter": 24,
       "total": 103
+    },
+    {
+      "path": "/2015/talk/show/6b582f7e-0228-11e5-b3ca-79c97d574c3a",
+      "title": "Online games  / smartphone games \"supporting technology\" and \"Story\"",
+      "speaker_name": "Yoshikazu Fukushima",
+      "speaker_url": "https://www.facebook.com/10206549291592204",
+      "speaker_icon": "http://graph.facebook.com/10206549291592204/picture",
+      "hatena": 18,
+      "twitter": 27,
+      "total": 102
     },
     {
       "path": "/2015/talk/show/7d66b640-0a6b-11e5-b1a0-67dc7d574c3a",
@@ -920,6 +920,16 @@ module.exports={
       "total": 81
     },
     {
+      "path": "/2015/talk/show/034c0d1e-10d4-11e5-9c9b-d7f07d574c3a",
+      "title": "perl/go での開発の比較",
+      "speaker_name": "soh335",
+      "speaker_url": "https://github.com/soh335",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/31937?v=3",
+      "hatena": 15,
+      "twitter": 19,
+      "total": 79
+    },
+    {
       "path": "/2015/talk/show/32e7a270-1360-11e5-b2ec-d9f87d574c3a",
       "title": "Design and Implementation of Continuous Translation System",
       "speaker_name": "Yohei Yasukawa",
@@ -947,16 +957,6 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/54422?v=3",
       "hatena": 10,
       "twitter": 26,
-      "total": 77
-    },
-    {
-      "path": "/2015/talk/show/034c0d1e-10d4-11e5-9c9b-d7f07d574c3a",
-      "title": "perl/go での開発の比較",
-      "speaker_name": "soh335",
-      "speaker_url": "https://github.com/soh335",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/31937?v=3",
-      "hatena": 15,
-      "twitter": 18,
       "total": 77
     },
     {
@@ -1146,7 +1146,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/12676?v=3",
       "hatena": 5,
       "twitter": 21,
-      "total": 53
+      "total": 52
     },
     {
       "path": "/2015/talk/show/0f62694a-1354-11e5-8eb4-d9f87d574c3a",
@@ -1156,7 +1156,7 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/601767800172978176/Ax16wsjG_normal.jpg",
       "hatena": 8,
       "twitter": 16,
-      "total": 53
+      "total": 52
     },
     {
       "path": "/2015/talk/show/c68136f6-fd51-11e4-9e4f-bdc07d574c3a",
@@ -1729,6 +1729,16 @@ module.exports={
       "total": 9
     },
     {
+      "path": "/2015/talk/show/ad57ca84-13e9-11e5-aca1-525412004261",
+      "title": "【特別企画】YAPCあるある（仮）",
+      "speaker_name": "鎌田武俊",
+      "speaker_url": "https://www.facebook.com/1261488582",
+      "speaker_icon": "http://graph.facebook.com/1261488582/picture",
+      "hatena": 2,
+      "twitter": 2,
+      "total": 9
+    },
+    {
       "path": "/2015/talk/show/c77d5164-1301-11e5-910c-d9f87d574c3a",
       "title": "CDPはもう古い？これからはMCDP",
       "speaker_name": "Masashi Terui",
@@ -1844,16 +1854,6 @@ module.exports={
       "speaker_name": "sojiro",
       "speaker_url": "https://twitter.com/sojiro14",
       "speaker_icon": "http://pbs.twimg.com/profile_images/595286077985804288/mIsprLuz_normal.jpg",
-      "hatena": 1,
-      "twitter": 1,
-      "total": 4
-    },
-    {
-      "path": "/2015/talk/show/ad57ca84-13e9-11e5-aca1-525412004261",
-      "title": "【特別企画】YAPCあるある（仮）",
-      "speaker_name": "鎌田武俊",
-      "speaker_url": "https://www.facebook.com/1261488582",
-      "speaker_icon": "http://graph.facebook.com/1261488582/picture",
       "hatena": 1,
       "twitter": 1,
       "total": 4
