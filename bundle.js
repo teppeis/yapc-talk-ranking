@@ -27,7 +27,7 @@
 
 },{}],2:[function(require,module,exports){
 module.exports={
-  "date": 1434682048554,
+  "date": 1434682863849,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -57,7 +57,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/87649?v=3",
       "hatena": 107,
       "twitter": 140,
-      "total": 580
+      "total": 579
     },
     {
       "path": "/2015/talk/show/f2816038-10ec-11e5-89bf-d7f07d574c3a",
@@ -97,7 +97,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/8991?v=3",
       "hatena": 76,
       "twitter": 67,
-      "total": 353
+      "total": 352
     },
     {
       "path": "/2015/talk/show/4bab2728-00fa-11e5-9931-79c97d574c3a",
@@ -190,6 +190,16 @@ module.exports={
       "total": 259
     },
     {
+      "path": "/2015/talk/show/607595a2-0df3-11e5-b447-67dc7d574c3a",
+      "title": "運用を楽にするためのアプリケーションコードを書く技術",
+      "speaker_name": "Naotoshi Seo",
+      "speaker_url": "https://github.com/sonots",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/2290461?v=3",
+      "hatena": 50,
+      "twitter": 57,
+      "total": 255
+    },
+    {
       "path": "/2015/talk/show/5b1cd536-07ed-11e5-9e42-79c97d574c3a",
       "title": "Mackerel開発におけるScalaとGo、そしてPerl",
       "speaker_name": "songmu",
@@ -198,16 +208,6 @@ module.exports={
       "hatena": 45,
       "twitter": 64,
       "total": 253
-    },
-    {
-      "path": "/2015/talk/show/607595a2-0df3-11e5-b447-67dc7d574c3a",
-      "title": "運用を楽にするためのアプリケーションコードを書く技術",
-      "speaker_name": "Naotoshi Seo",
-      "speaker_url": "https://github.com/sonots",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/2290461?v=3",
-      "hatena": 49,
-      "twitter": 57,
-      "total": 252
     },
     {
       "path": "/2015/talk/show/39a15ad4-0ff5-11e5-a984-d7f07d574c3a",
@@ -255,9 +255,9 @@ module.exports={
       "speaker_name": "Shinji Tanaka",
       "speaker_url": "https://github.com/stanaka",
       "speaker_icon": "https://avatars.githubusercontent.com/u/10042?v=3",
-      "hatena": 45,
+      "hatena": 46,
       "twitter": 48,
-      "total": 224
+      "total": 227
     },
     {
       "path": "/2015/talk/show/ce0167b6-10f7-11e5-8178-d7f07d574c3a",
@@ -337,7 +337,17 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/525991223060746241/_ORoKYuX_normal.png",
       "hatena": 30,
       "twitter": 51,
-      "total": 184
+      "total": 183
+    },
+    {
+      "path": "/2015/talk/show/a80e57c8-133e-11e5-93ad-d9f87d574c3a",
+      "title": "MySQLを使って開発をはじめるときに気をつけておきたいこと",
+      "speaker_name": "Ryuta Kamizono",
+      "speaker_url": "https://twitter.com/kamipo",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/378800000433176090/1178e800687095ff11c540ddead1f4ff_normal.png",
+      "hatena": 28,
+      "twitter": 54,
+      "total": 183
     },
     {
       "path": "/2015/talk/show/82e93a96-f60e-11e4-907e-8ab37d574c3a",
@@ -347,16 +357,6 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/206948941/wall-e_normal.jpg",
       "hatena": 29,
       "twitter": 51,
-      "total": 180
-    },
-    {
-      "path": "/2015/talk/show/a80e57c8-133e-11e5-93ad-d9f87d574c3a",
-      "title": "MySQLを使って開発をはじめるときに気をつけておきたいこと",
-      "speaker_name": "Ryuta Kamizono",
-      "speaker_url": "https://twitter.com/kamipo",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/378800000433176090/1178e800687095ff11c540ddead1f4ff_normal.png",
-      "hatena": 27,
-      "twitter": 54,
       "total": 180
     },
     {
@@ -407,7 +407,7 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/1121132103/picture",
       "hatena": 27,
       "twitter": 50,
-      "total": 173
+      "total": 172
     },
     {
       "path": "/2015/talk/show/a668ef3e-080b-11e5-b2b4-79c97d574c3a",
@@ -517,7 +517,7 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/599568269507342336/jb_Rk7sX_normal.jpg",
       "hatena": 22,
       "twitter": 38,
-      "total": 136
+      "total": 135
     },
     {
       "path": "/2015/talk/show/ec228764-1329-11e5-953f-d9f87d574c3a",
@@ -537,7 +537,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/3092?v=3",
       "hatena": 24,
       "twitter": 33,
-      "total": 133
+      "total": 132
     },
     {
       "path": "/2015/talk/show/9e9ae188-fb20-11e4-9a97-8ab37d574c3a",
@@ -907,7 +907,7 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/538947384420483072/5WmJP-fh_normal.jpeg",
       "hatena": 13,
       "twitter": 25,
-      "total": 85
+      "total": 84
     },
     {
       "path": "/2015/talk/show/4e5bf7f2-1362-11e5-8e54-d9f87d574c3a",
