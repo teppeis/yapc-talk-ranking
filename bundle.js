@@ -27,7 +27,7 @@
 
 },{}],2:[function(require,module,exports){
 module.exports={
-  "date": 1434736846865,
+  "date": 1434740452504,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -1084,6 +1084,7 @@ module.exports={
       "title": "僕がwebアプリケーションのコードを書く時に考えていること 〜完全版〜",
       "speaker_name": "ダメ人間",
       "speaker_url": "https://twitter.com/dameninngenn",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/2700412500/9d84ff30d1cb4fd7ceb67411046ccfbe_normal.jpeg",
       "hatena": 9,
       "twitter": 18,
       "total": 59
