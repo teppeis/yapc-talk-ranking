@@ -1,5 +1,5 @@
 {
-  "date": 1434700854060,
+  "date": 1434704448918,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -9,7 +9,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/1753788808/sushi_r_normal.gif",
       "hatena": 143,
       "twitter": 163,
-      "total": 724
+      "total": 723
     },
     {
       "path": "/2015/talk/show/c191c08a-0a98-11e5-be34-67dc7d574c3a",
@@ -109,7 +109,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/12301?v=3",
       "hatena": 55,
       "twitter": 63,
-      "total": 279
+      "total": 278
     },
     {
       "path": "/2015/talk/show/621948f2-0d46-11e5-a403-67dc7d574c3a",
@@ -119,7 +119,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000122330373/c9162e04e2a5fb779758cc4f0a13c2c0_normal.jpeg",
       "hatena": 45,
       "twitter": 78,
-      "total": 276
+      "total": 275
     },
     {
       "path": "/2015/talk/show/523b9508-0d77-11e5-8174-67dc7d574c3a",
@@ -129,7 +129,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/374550?v=3",
       "hatena": 56,
       "twitter": 58,
-      "total": 273
+      "total": 272
     },
     {
       "path": "/2015/talk/show/0dcfc436-133d-11e5-9f77-d9f87d574c3a",
@@ -209,7 +209,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/1422834?v=3",
       "hatena": 39,
       "twitter": 63,
-      "total": 231
+      "total": 230
     },
     {
       "path": "/2015/talk/show/53aacc02-faca-11e4-8c2e-8ab37d574c3a",
@@ -229,7 +229,17 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/10042?v=3",
       "hatena": 46,
       "twitter": 48,
-      "total": 225
+      "total": 224
+    },
+    {
+      "path": "/2015/talk/show/82e93a96-f60e-11e4-907e-8ab37d574c3a",
+      "title": "Node/io.js past, present, future.",
+      "speaker_name": "Yosuke FURUKAWA",
+      "speaker_url": "https://twitter.com/yosuke_furukawa",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/206948941/wall-e_normal.jpg",
+      "hatena": 38,
+      "twitter": 59,
+      "total": 220
     },
     {
       "path": "/2015/talk/show/ce0167b6-10f7-11e5-8178-d7f07d574c3a",
@@ -242,24 +252,14 @@
       "total": 219
     },
     {
-      "path": "/2015/talk/show/82e93a96-f60e-11e4-907e-8ab37d574c3a",
-      "title": "Node/io.js past, present, future.",
-      "speaker_name": "Yosuke FURUKAWA",
-      "speaker_url": "https://twitter.com/yosuke_furukawa",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/206948941/wall-e_normal.jpg",
-      "hatena": 38,
-      "twitter": 58,
-      "total": 218
-    },
-    {
       "path": "/2015/talk/show/44721562-10e4-11e5-88a0-d7f07d574c3a",
       "title": "Effective ES6",
       "speaker_name": "Teppei Sato",
       "speaker_url": "https://github.com/teppeis",
       "speaker_icon": "https://avatars.githubusercontent.com/u/26476?v=3",
       "hatena": 26,
-      "twitter": 74,
-      "total": 211
+      "twitter": 75,
+      "total": 213
     },
     {
       "path": "/2015/talk/show/a7e23d1c-fd42-11e4-ab7e-bdc07d574c3a",
@@ -322,16 +322,6 @@
       "total": 182
     },
     {
-      "path": "/2015/talk/show/c2f85686-0df5-11e5-9e74-67dc7d574c3a",
-      "title": "スタートアップの創業期を支える技術",
-      "speaker_name": "Tatsuya Arai",
-      "speaker_url": "https://twitter.com/cutmail",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/565897212085800963/VhOCE-By_normal.jpeg",
-      "hatena": 35,
-      "twitter": 42,
-      "total": 181
-    },
-    {
       "path": "/2015/talk/show/a80e57c8-133e-11e5-93ad-d9f87d574c3a",
       "title": "MySQLを使って開発をはじめるときに気をつけておきたいこと",
       "speaker_name": "Ryuta Kamizono",
@@ -340,6 +330,16 @@
       "hatena": 28,
       "twitter": 54,
       "total": 181
+    },
+    {
+      "path": "/2015/talk/show/c2f85686-0df5-11e5-9e74-67dc7d574c3a",
+      "title": "スタートアップの創業期を支える技術",
+      "speaker_name": "Tatsuya Arai",
+      "speaker_url": "https://twitter.com/cutmail",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/565897212085800963/VhOCE-By_normal.jpeg",
+      "hatena": 35,
+      "twitter": 42,
+      "total": 180
     },
     {
       "path": "/2015/talk/show/2a4efafe-136b-11e5-9923-d9f87d574c3a",
@@ -399,7 +399,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/419456734264954880/FYDksW9H_normal.jpeg",
       "hatena": 27,
       "twitter": 47,
-      "total": 166
+      "total": 165
     },
     {
       "path": "/2015/talk/show/c2c7b8a4-faaa-11e4-a8be-8ab37d574c3a",
@@ -409,7 +409,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/3420?v=3",
       "hatena": 26,
       "twitter": 47,
-      "total": 163
+      "total": 162
     },
     {
       "path": "/2015/talk/show/897abeb2-1007-11e5-a760-d7f07d574c3a",
@@ -662,6 +662,16 @@
       "total": 114
     },
     {
+      "path": "/2015/talk/show/23fa9706-0e40-11e5-829d-67dc7d574c3a",
+      "title": "レガシーなperlのweb開発から少しだけ今風なperlのweb開発へ。継続可能な開発へ。",
+      "speaker_name": "SUZUKI Masashi",
+      "speaker_url": "https://github.com/masasuzu",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/271100?v=3",
+      "hatena": 16,
+      "twitter": 37,
+      "total": 114
+    },
+    {
       "path": "/2015/talk/show/f279d804-0efd-11e5-bc53-43ec7d574c3a",
       "title": "尋常じゃない速度でドッグフードを食べる方法",
       "speaker_name": "Yuta Kurotaki",
@@ -680,16 +690,6 @@
       "hatena": 14,
       "twitter": 39,
       "total": 112
-    },
-    {
-      "path": "/2015/talk/show/23fa9706-0e40-11e5-829d-67dc7d574c3a",
-      "title": "レガシーなperlのweb開発から少しだけ今風なperlのweb開発へ。継続可能な開発へ。",
-      "speaker_name": "SUZUKI Masashi",
-      "speaker_url": "https://github.com/masasuzu",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/271100?v=3",
-      "hatena": 15,
-      "twitter": 37,
-      "total": 111
     },
     {
       "path": "/2015/talk/show/ad84b028-136e-11e5-b676-d9f87d574c3a",
@@ -809,7 +809,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/13047?v=3",
       "hatena": 16,
       "twitter": 26,
-      "total": 95
+      "total": 94
     },
     {
       "path": "/2015/talk/show/20489b5c-05a4-11e5-81d9-79c97d574c3a",
@@ -829,7 +829,17 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/501586383790563328/rwTNO_Cj_normal.jpeg",
       "hatena": 6,
       "twitter": 41,
-      "total": 92
+      "total": 91
+    },
+    {
+      "path": "/2015/talk/show/69b973e2-0de2-11e5-918e-67dc7d574c3a",
+      "title": "最新技術はいかにして業務に取り入れうるか",
+      "speaker_name": "ほと",
+      "speaker_url": "https://twitter.com/hoto17296",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/574083036834197507/yeKZlpd4_normal.png",
+      "hatena": 13,
+      "twitter": 29,
+      "total": 91
     },
     {
       "path": "/2015/talk/show/86fa062e-135a-11e5-a432-d9f87d574c3a",
@@ -847,16 +857,6 @@
       "speaker_name": "Ricardo Signes",
       "speaker_url": "https://github.com/rjbs",
       "speaker_icon": "https://avatars.githubusercontent.com/u/30682?v=3",
-      "hatena": 12,
-      "twitter": 29,
-      "total": 88
-    },
-    {
-      "path": "/2015/talk/show/69b973e2-0de2-11e5-918e-67dc7d574c3a",
-      "title": "最新技術はいかにして業務に取り入れうるか",
-      "speaker_name": "ほと",
-      "speaker_url": "https://twitter.com/hoto17296",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/574083036834197507/yeKZlpd4_normal.png",
       "hatena": 12,
       "twitter": 29,
       "total": 88
@@ -919,7 +919,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000732873806/db63a0f75f9a217a875fa02d2ce34c04_normal.png",
       "hatena": 16,
       "twitter": 16,
-      "total": 77
+      "total": 76
     },
     {
       "path": "/2015/talk/show/a06d9970-0d7b-11e5-aaf9-67dc7d574c3a",
@@ -929,6 +929,16 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/54422?v=3",
       "hatena": 10,
       "twitter": 26,
+      "total": 76
+    },
+    {
+      "path": "/2015/talk/show/46f6e730-0f14-11e5-ac41-43ec7d574c3a",
+      "title": "From Perl to Haskell",
+      "speaker_name": "Masahiro Honma",
+      "speaker_url": "https://github.com/hiratara",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/45287?v=3",
+      "hatena": 14,
+      "twitter": 19,
       "total": 76
     },
     {
@@ -949,16 +959,6 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/21084?v=3",
       "hatena": 15,
       "twitter": 16,
-      "total": 74
-    },
-    {
-      "path": "/2015/talk/show/46f6e730-0f14-11e5-ac41-43ec7d574c3a",
-      "title": "From Perl to Haskell",
-      "speaker_name": "Masahiro Honma",
-      "speaker_url": "https://github.com/hiratara",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/45287?v=3",
-      "hatena": 13,
-      "twitter": 19,
       "total": 73
     },
     {
