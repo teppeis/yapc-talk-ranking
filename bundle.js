@@ -27,7 +27,7 @@
 
 },{}],2:[function(require,module,exports){
 module.exports={
-  "date": 1434726052622,
+  "date": 1434729648759,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -47,7 +47,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/1041857?v=3",
       "hatena": 110,
       "twitter": 170,
-      "total": 636
+      "total": 635
     },
     {
       "path": "/2015/talk/show/9ec2791c-05e5-11e5-81fa-79c97d574c3a",
@@ -57,7 +57,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/87649?v=3",
       "hatena": 107,
       "twitter": 140,
-      "total": 573
+      "total": 572
     },
     {
       "path": "/2015/talk/show/f2816038-10ec-11e5-89bf-d7f07d574c3a",
@@ -127,7 +127,7 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/419164963416985600/QtvOEPl5_normal.jpeg",
       "hatena": 48,
       "twitter": 95,
-      "total": 315
+      "total": 314
     },
     {
       "path": "/2015/talk/show/4f85e87a-f9ec-11e4-8262-8ab37d574c3a",
@@ -277,7 +277,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/51196?v=3",
       "hatena": 40,
       "twitter": 55,
-      "total": 219
+      "total": 218
     },
     {
       "path": "/2015/talk/show/44721562-10e4-11e5-88a0-d7f07d574c3a",
@@ -307,17 +307,7 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1094520798/icon2010_normal.png",
       "hatena": 34,
       "twitter": 55,
-      "total": 201
-    },
-    {
-      "path": "/2015/talk/show/bbb0162a-0350-11e5-bb2f-79c97d574c3a",
-      "title": "After that building development environments in Docker",
-      "speaker_name": "こんぼい。",
-      "speaker_url": "https://twitter.com/Konboi",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/378800000795654240/88bfe7df3471f3264c38ad407ce020e0_normal.png",
-      "hatena": 36,
-      "twitter": 45,
-      "total": 189
+      "total": 200
     },
     {
       "path": "/2015/talk/show/dd8ce20e-fad2-11e4-b6e7-8ab37d574c3a",
@@ -327,6 +317,16 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/16928?v=3",
       "hatena": 28,
       "twitter": 58,
+      "total": 188
+    },
+    {
+      "path": "/2015/talk/show/bbb0162a-0350-11e5-bb2f-79c97d574c3a",
+      "title": "After that building development environments in Docker",
+      "speaker_name": "こんぼい。",
+      "speaker_url": "https://twitter.com/Konboi",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/378800000795654240/88bfe7df3471f3264c38ad407ce020e0_normal.png",
+      "hatena": 36,
+      "twitter": 45,
       "total": 188
     },
     {
@@ -407,7 +407,7 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/1121132103/picture",
       "hatena": 27,
       "twitter": 50,
-      "total": 171
+      "total": 170
     },
     {
       "path": "/2015/talk/show/0974fb38-facc-11e4-9382-8ab37d574c3a",
@@ -587,17 +587,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/56752?v=3",
       "hatena": 27,
       "twitter": 25,
-      "total": 126
-    },
-    {
-      "path": "/2015/talk/show/b9e8b650-135c-11e5-bd7f-d9f87d574c3a",
-      "title": "ケーススタディで考えるウェブフロントエンドパフォーマンスチューニング",
-      "speaker_name": "ダメレオン",
-      "speaker_url": "https://twitter.com/damele0n",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/1323645880/Icon-rainbow_reasonably_small_normal.jpeg",
-      "hatena": 21,
-      "twitter": 35,
-      "total": 126
+      "total": 125
     },
     {
       "path": "/2015/talk/show/cc8f1b48-0e32-11e5-9147-67dc7d574c3a",
@@ -610,14 +600,14 @@ module.exports={
       "total": 125
     },
     {
-      "path": "/2015/talk/show/b396e912-091a-11e5-8d2d-67dc7d574c3a",
-      "title": "How to develop microservices with Perl",
-      "speaker_name": "Kazuhiro Osawa",
-      "speaker_url": "https://github.com/yappo",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/9958?v=3",
-      "hatena": 23,
-      "twitter": 30,
-      "total": 123
+      "path": "/2015/talk/show/b9e8b650-135c-11e5-bd7f-d9f87d574c3a",
+      "title": "ケーススタディで考えるウェブフロントエンドパフォーマンスチューニング",
+      "speaker_name": "ダメレオン",
+      "speaker_url": "https://twitter.com/damele0n",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/1323645880/Icon-rainbow_reasonably_small_normal.jpeg",
+      "hatena": 21,
+      "twitter": 35,
+      "total": 125
     },
     {
       "path": "/2015/talk/show/a636430c-0fbf-11e5-8a02-43ec7d574c3a",
@@ -628,6 +618,16 @@ module.exports={
       "hatena": 22,
       "twitter": 32,
       "total": 123
+    },
+    {
+      "path": "/2015/talk/show/b396e912-091a-11e5-8d2d-67dc7d574c3a",
+      "title": "How to develop microservices with Perl",
+      "speaker_name": "Kazuhiro Osawa",
+      "speaker_url": "https://github.com/yappo",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/9958?v=3",
+      "hatena": 23,
+      "twitter": 30,
+      "total": 122
     },
     {
       "path": "/2015/talk/show/cf39f7fc-ff44-11e4-9264-66c47d574c3a",
@@ -737,7 +737,7 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1094520798/icon2010_normal.png",
       "hatena": 13,
       "twitter": 40,
-      "total": 111
+      "total": 110
     },
     {
       "path": "/2015/talk/show/66960c2c-1330-11e5-9c0d-d9f87d574c3a",
@@ -807,7 +807,7 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/582905163389632513/unVsV-wC_normal.jpg",
       "hatena": 18,
       "twitter": 25,
-      "total": 99
+      "total": 98
     },
     {
       "path": "/2015/talk/show/4d9157b2-110b-11e5-9b5f-d7f07d574c3a",
@@ -877,7 +877,7 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/449541105894174721/Tmgr9zRN_normal.jpeg",
       "hatena": 15,
       "twitter": 25,
-      "total": 90
+      "total": 89
     },
     {
       "path": "/2015/talk/show/3fe49c10-fa67-11e4-9e02-8ab37d574c3a",
@@ -907,7 +907,7 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/538947384420483072/5WmJP-fh_normal.jpeg",
       "hatena": 13,
       "twitter": 25,
-      "total": 84
+      "total": 83
     },
     {
       "path": "/2015/talk/show/4e5bf7f2-1362-11e5-8e54-d9f87d574c3a",
@@ -937,7 +937,7 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000445530232/35d0d14c355a5d926fe42f4c5d3ab91b_normal.png",
       "hatena": 8,
       "twitter": 30,
-      "total": 78
+      "total": 77
     },
     {
       "path": "/2015/talk/show/32a684e8-fd21-11e4-94eb-bdc07d574c3a",
@@ -977,7 +977,7 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/593648937413685248/81DdisOn_normal.png",
       "hatena": 16,
       "twitter": 15,
-      "total": 75
+      "total": 74
     },
     {
       "path": "/2015/talk/show/53944d48-09ba-11e5-998a-67dc7d574c3a",
@@ -1017,7 +1017,7 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/599475415766302720/IrXs2kkC_normal.png",
       "hatena": 11,
       "twitter": 20,
-      "total": 69
+      "total": 68
     },
     {
       "path": "/2015/talk/show/53507dd6-1101-11e5-b6f3-d7f07d574c3a",
@@ -1048,6 +1048,16 @@ module.exports={
       "hatena": 10,
       "twitter": 19,
       "total": 64
+    },
+    {
+      "path": "/2015/talk/show/7e6296c4-f95c-11e4-b00c-8ab37d574c3a",
+      "title": "The Art of Method Dispatch (of Ruby)",
+      "speaker_name": "Koichi Sasada",
+      "speaker_url": "https://github.com/ko1",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/9558?v=3",
+      "hatena": 10,
+      "twitter": 18,
+      "total": 62
     },
     {
       "path": "/2015/talk/show/fbb5d464-1000-11e5-8165-d7f07d574c3a",
@@ -1087,16 +1097,6 @@ module.exports={
       "hatena": 5,
       "twitter": 25,
       "total": 59
-    },
-    {
-      "path": "/2015/talk/show/7e6296c4-f95c-11e4-b00c-8ab37d574c3a",
-      "title": "The Art of Method Dispatch (of Ruby)",
-      "speaker_name": "Koichi Sasada",
-      "speaker_url": "https://github.com/ko1",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/9558?v=3",
-      "hatena": 9,
-      "twitter": 17,
-      "total": 57
     },
     {
       "path": "/2015/talk/show/4a44467a-0c5e-11e5-86eb-67dc7d574c3a",
@@ -1159,16 +1159,6 @@ module.exports={
       "total": 52
     },
     {
-      "path": "/2015/talk/show/c68136f6-fd51-11e4-9e4f-bdc07d574c3a",
-      "title": "The challenge of the growth-hacking newbie",
-      "speaker_name": "あずまさとし",
-      "speaker_url": "https://twitter.com/ytnobody",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/378800000466143858/93673f957eb413a7a34410d930afa5f7_normal.png",
-      "hatena": 7,
-      "twitter": 15,
-      "total": 48
-    },
-    {
       "path": "/2015/talk/show/268d730e-136c-11e5-ac8f-d9f87d574c3a",
       "title": "Build your own container from scratch with Perl",
       "speaker_name": "Miki Horiuchi Kabe",
@@ -1177,6 +1167,16 @@ module.exports={
       "hatena": 9,
       "twitter": 12,
       "total": 48
+    },
+    {
+      "path": "/2015/talk/show/c68136f6-fd51-11e4-9e4f-bdc07d574c3a",
+      "title": "The challenge of the growth-hacking newbie",
+      "speaker_name": "あずまさとし",
+      "speaker_url": "https://twitter.com/ytnobody",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/378800000466143858/93673f957eb413a7a34410d930afa5f7_normal.png",
+      "hatena": 7,
+      "twitter": 15,
+      "total": 47
     },
     {
       "path": "/2015/talk/show/3a368550-1301-11e5-9668-d9f87d574c3a",
@@ -1259,6 +1259,16 @@ module.exports={
       "total": 40
     },
     {
+      "path": "/2015/talk/show/a9d3d0ba-0d1c-11e5-bb9e-67dc7d574c3a",
+      "title": "ドキュメントのこと考えてますか？〜より良いドキュメントを書くための第一歩",
+      "speaker_name": "丸山 亮",
+      "speaker_url": "https://twitter.com/h13i32maru",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/577452163099553792/XoOX_Ioa_normal.jpeg",
+      "hatena": 8,
+      "twitter": 9,
+      "total": 40
+    },
+    {
       "path": "/2015/talk/show/94d4e442-0f56-11e5-9049-43ec7d574c3a",
       "title": "'エンジニア１人＆小規模な環境'から'複数人同時開発＆中規模な環境'を実現するまでにやったこと",
       "speaker_name": "Daisuke Tamada",
@@ -1274,16 +1284,6 @@ module.exports={
       "speaker_name": "muddydixon",
       "speaker_url": "https://github.com/muddydixon",
       "speaker_icon": "https://avatars.githubusercontent.com/u/10035?v=3",
-      "hatena": 8,
-      "twitter": 8,
-      "total": 38
-    },
-    {
-      "path": "/2015/talk/show/a9d3d0ba-0d1c-11e5-bb9e-67dc7d574c3a",
-      "title": "ドキュメントのこと考えてますか？〜より良いドキュメントを書くための第一歩",
-      "speaker_name": "丸山 亮",
-      "speaker_url": "https://twitter.com/h13i32maru",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/577452163099553792/XoOX_Ioa_normal.jpeg",
       "hatena": 8,
       "twitter": 8,
       "total": 38
@@ -1409,16 +1409,6 @@ module.exports={
       "total": 30
     },
     {
-      "path": "/2015/talk/show/d8e842be-1366-11e5-b262-d9f87d574c3a",
-      "title": "A mod_perl programmer talks development method on legacy middleware.",
-      "speaker_name": "OGATA Tetsuji",
-      "speaker_url": "https://twitter.com/xtetsuji",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/404805662/min_x40_mini_normal.png",
-      "hatena": 4,
-      "twitter": 10,
-      "total": 30
-    },
-    {
       "path": "/2015/talk/show/885d66a2-f607-11e4-b5a3-8ab37d574c3a",
       "title": "I can not find the reason why we do not use Presto -MySQL loves PostgreSQL-",
       "speaker_name": "にいやん",
@@ -1426,6 +1416,16 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/701274503/515145_584452466_normal.jpg",
       "hatena": 5,
       "twitter": 8,
+      "total": 29
+    },
+    {
+      "path": "/2015/talk/show/d8e842be-1366-11e5-b262-d9f87d574c3a",
+      "title": "A mod_perl programmer talks development method on legacy middleware.",
+      "speaker_name": "OGATA Tetsuji",
+      "speaker_url": "https://twitter.com/xtetsuji",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/404805662/min_x40_mini_normal.png",
+      "hatena": 4,
+      "twitter": 10,
       "total": 29
     },
     {
@@ -1446,7 +1446,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/97260?v=3",
       "hatena": 3,
       "twitter": 10,
-      "total": 27
+      "total": 26
     },
     {
       "path": "/2015/talk/show/daf93c2a-0849-11e5-b626-79c97d574c3a",
@@ -1499,16 +1499,6 @@ module.exports={
       "total": 25
     },
     {
-      "path": "/2015/talk/show/b355fa20-122e-11e5-8ba5-d9f87d574c3a",
-      "title": "The story of language development",
-      "speaker_name": "SHIBATA Hiroshi",
-      "speaker_url": "https://github.com/hsbt",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/12301?v=3",
-      "hatena": 5,
-      "twitter": 5,
-      "total": 24
-    },
-    {
       "path": "/2015/talk/show/7db44b58-12a4-11e5-bcba-d9f87d574c3a",
       "title": "ブラウザの世界を覗いてみよう",
       "speaker_name": "kiyoshi nomo",
@@ -1526,6 +1516,16 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/72997?v=3",
       "hatena": 3,
       "twitter": 8,
+      "total": 23
+    },
+    {
+      "path": "/2015/talk/show/b355fa20-122e-11e5-8ba5-d9f87d574c3a",
+      "title": "The story of language development",
+      "speaker_name": "SHIBATA Hiroshi",
+      "speaker_url": "https://github.com/hsbt",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/12301?v=3",
+      "hatena": 5,
+      "twitter": 5,
       "total": 23
     },
     {
@@ -1589,6 +1589,16 @@ module.exports={
       "total": 18
     },
     {
+      "path": "/2015/talk/show/ad57ca84-13e9-11e5-aca1-525412004261",
+      "title": "【特別企画】YAPCあるある（仮）",
+      "speaker_name": "鎌田武俊",
+      "speaker_url": "https://www.facebook.com/1261488582",
+      "speaker_icon": "http://graph.facebook.com/1261488582/picture",
+      "hatena": 2,
+      "twitter": 7,
+      "total": 18
+    },
+    {
       "path": "/2015/talk/show/7d7cb9a2-12d8-11e5-9e81-d9f87d574c3a",
       "title": "レガシーな開発体制・開発環境改善のために取り組んできたこと",
       "speaker_name": "YS",
@@ -1596,16 +1606,6 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/521480305421471744/DLC7h26z_normal.png",
       "hatena": 3,
       "twitter": 4,
-      "total": 16
-    },
-    {
-      "path": "/2015/talk/show/ad57ca84-13e9-11e5-aca1-525412004261",
-      "title": "【特別企画】YAPCあるある（仮）",
-      "speaker_name": "鎌田武俊",
-      "speaker_url": "https://www.facebook.com/1261488582",
-      "speaker_icon": "http://graph.facebook.com/1261488582/picture",
-      "hatena": 2,
-      "twitter": 6,
       "total": 16
     },
     {
