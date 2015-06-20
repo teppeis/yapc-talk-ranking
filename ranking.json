@@ -1,5 +1,5 @@
 {
-  "date": 1434780048270,
+  "date": 1434787248534,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -19,7 +19,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/1041857?v=3",
       "hatena": 110,
       "twitter": 170,
-      "total": 635
+      "total": 634
     },
     {
       "path": "/2015/talk/show/9ec2791c-05e5-11e5-81fa-79c97d574c3a",
@@ -69,7 +69,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/8991?v=3",
       "hatena": 77,
       "twitter": 68,
-      "total": 353
+      "total": 352
     },
     {
       "path": "/2015/talk/show/b335dee0-09ad-11e5-8d7a-67dc7d574c3a",
@@ -79,7 +79,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/1295745651/fujiwara-icon-s_normal.png",
       "hatena": 60,
       "twitter": 83,
-      "total": 329
+      "total": 328
     },
     {
       "path": "/2015/talk/show/4bab2728-00fa-11e5-9931-79c97d574c3a",
@@ -109,7 +109,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/12301?v=3",
       "hatena": 55,
       "twitter": 63,
-      "total": 278
+      "total": 277
     },
     {
       "path": "/2015/talk/show/621948f2-0d46-11e5-a403-67dc7d574c3a",
@@ -352,6 +352,16 @@
       "total": 179
     },
     {
+      "path": "/2015/talk/show/92a7bb60-1323-11e5-a252-d9f87d574c3a",
+      "title": "Fight the RTB market using Perl",
+      "speaker_name": "Satoshi Ohkubo",
+      "speaker_url": "https://www.facebook.com/1121132103",
+      "speaker_icon": "http://graph.facebook.com/1121132103/picture",
+      "hatena": 28,
+      "twitter": 51,
+      "total": 175
+    },
+    {
       "path": "/2015/talk/show/04a4c95c-0fea-11e5-9a0f-d7f07d574c3a",
       "title": "Ready for newest MySQL 5.7 from now",
       "speaker_name": "yoku0825",
@@ -360,16 +370,6 @@
       "hatena": 29,
       "twitter": 49,
       "total": 174
-    },
-    {
-      "path": "/2015/talk/show/92a7bb60-1323-11e5-a252-d9f87d574c3a",
-      "title": "Fight the RTB market using Perl",
-      "speaker_name": "Satoshi Ohkubo",
-      "speaker_url": "https://www.facebook.com/1121132103",
-      "speaker_icon": "http://graph.facebook.com/1121132103/picture",
-      "hatena": 28,
-      "twitter": 50,
-      "total": 173
     },
     {
       "path": "/2015/talk/show/9d2d46c8-0dcd-11e5-b407-67dc7d574c3a",
@@ -609,7 +609,7 @@
       "speaker_icon": "http://graph.facebook.com/631255029/picture",
       "hatena": 17,
       "twitter": 39,
-      "total": 121
+      "total": 120
     },
     {
       "path": "/2015/talk/show/f5aa5054-12fd-11e5-b4c9-d9f87d574c3a",
@@ -632,16 +632,6 @@
       "total": 116
     },
     {
-      "path": "/2015/talk/show/0af26fe4-0b7b-11e5-a29c-67dc7d574c3a",
-      "title": "MySQLで2億件のシリアルデータと格闘したチューニングの話",
-      "speaker_name": "さいけん",
-      "speaker_url": "https://twitter.com/saiken3110",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/1205361823/img_791544_45327987_0_normal.jpg",
-      "hatena": 18,
-      "twitter": 34,
-      "total": 115
-    },
-    {
       "path": "/2015/talk/show/20a090d0-1113-11e5-bbd3-d7f07d574c3a",
       "title": "非エンジニア参加型 ChatOps でソシャゲ運用",
       "speaker_name": "Makoto Shiga",
@@ -659,6 +649,16 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/1249622?v=3",
       "hatena": 22,
       "twitter": 27,
+      "total": 114
+    },
+    {
+      "path": "/2015/talk/show/0af26fe4-0b7b-11e5-a29c-67dc7d574c3a",
+      "title": "MySQLで2億件のシリアルデータと格闘したチューニングの話",
+      "speaker_name": "さいけん",
+      "speaker_url": "https://twitter.com/saiken3110",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/1205361823/img_791544_45327987_0_normal.jpg",
+      "hatena": 18,
+      "twitter": 34,
       "total": 114
     },
     {
@@ -699,7 +699,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/137741?v=3",
       "hatena": 14,
       "twitter": 39,
-      "total": 112
+      "total": 111
     },
     {
       "path": "/2015/talk/show/ad84b028-136e-11e5-b676-d9f87d574c3a",
@@ -710,6 +710,16 @@
       "hatena": 13,
       "twitter": 40,
       "total": 110
+    },
+    {
+      "path": "/2015/talk/show/1da55daa-0deb-11e5-944c-67dc7d574c3a",
+      "title": "PietでLISP処理系を書くのは難しい",
+      "speaker_name": "Hideaki Nagamine",
+      "speaker_url": "https://github.com/1995hnagamin",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/7394250?v=3",
+      "hatena": 12,
+      "twitter": 38,
+      "total": 104
     },
     {
       "path": "/2015/talk/show/66960c2c-1330-11e5-9c0d-d9f87d574c3a",
@@ -749,16 +759,6 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/69169?v=3",
       "hatena": 14,
       "twitter": 33,
-      "total": 101
-    },
-    {
-      "path": "/2015/talk/show/1da55daa-0deb-11e5-944c-67dc7d574c3a",
-      "title": "PietでLISP処理系を書くのは難しい",
-      "speaker_name": "Hideaki Nagamine",
-      "speaker_url": "https://github.com/1995hnagamin",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/7394250?v=3",
-      "hatena": 11,
-      "twitter": 38,
       "total": 101
     },
     {
@@ -942,6 +942,16 @@
       "total": 76
     },
     {
+      "path": "/2015/talk/show/0c1ab872-0ac7-11e5-acee-67dc7d574c3a",
+      "title": "Perlで支える社内基盤 〜総集編〜",
+      "speaker_name": "papix",
+      "speaker_url": "https://twitter.com/__papix__",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/596297145994481664/KWANlRTk_normal.png",
+      "hatena": 14,
+      "twitter": 18,
+      "total": 74
+    },
+    {
       "path": "/2015/talk/show/a0044cc4-130a-11e5-b0c6-d9f87d574c3a",
       "title": "いい技術文書とは何か",
       "speaker_name": "yuku takahashi",
@@ -960,16 +970,6 @@
       "hatena": 15,
       "twitter": 16,
       "total": 73
-    },
-    {
-      "path": "/2015/talk/show/0c1ab872-0ac7-11e5-acee-67dc7d574c3a",
-      "title": "Perlで支える社内基盤 〜総集編〜",
-      "speaker_name": "papix",
-      "speaker_url": "https://twitter.com/__papix__",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/596297145994481664/KWANlRTk_normal.png",
-      "hatena": 14,
-      "twitter": 17,
-      "total": 72
     },
     {
       "path": "/2015/talk/show/21cb8176-065b-11e5-9492-79c97d574c3a",
@@ -1402,6 +1402,16 @@
       "total": 29
     },
     {
+      "path": "/2015/talk/show/109c01fa-0e58-11e5-b553-67dc7d574c3a",
+      "title": "dockerでローカル環境を構築",
+      "speaker_name": "goodnext",
+      "speaker_url": "https://twitter.com/runners_high777",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/1790006063/IMG_0575_normal.JPG",
+      "hatena": 3,
+      "twitter": 11,
+      "total": 28
+    },
+    {
       "path": "/2015/talk/show/315b6296-134e-11e5-a45c-d9f87d574c3a",
       "title": "WebRTCを活用したサービスを開発する上で知っておくべきこと",
       "speaker_name": "Yusuke Naka",
@@ -1429,16 +1439,6 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000057979446/39eb8dbe5c61459b6bc1377f54587c52_normal.jpeg",
       "hatena": 4,
       "twitter": 8,
-      "total": 26
-    },
-    {
-      "path": "/2015/talk/show/109c01fa-0e58-11e5-b553-67dc7d574c3a",
-      "title": "dockerでローカル環境を構築",
-      "speaker_name": "goodnext",
-      "speaker_url": "https://twitter.com/runners_high777",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/1790006063/IMG_0575_normal.JPG",
-      "hatena": 3,
-      "twitter": 10,
       "total": 26
     },
     {
