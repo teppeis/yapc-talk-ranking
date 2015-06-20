@@ -27,7 +27,7 @@
 
 },{}],2:[function(require,module,exports){
 module.exports={
-  "date": 1434790848696,
+  "date": 1434794457368,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -117,7 +117,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/849165?v=3",
       "hatena": 51,
       "twitter": 97,
-      "total": 327
+      "total": 326
     },
     {
       "path": "/2015/talk/show/3d2d946a-0979-11e5-9800-67dc7d574c3a",
@@ -157,7 +157,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/374550?v=3",
       "hatena": 56,
       "twitter": 58,
-      "total": 272
+      "total": 271
     },
     {
       "path": "/2015/talk/show/0dcfc436-133d-11e5-9f77-d9f87d574c3a",
@@ -390,6 +390,16 @@ module.exports={
       "total": 175
     },
     {
+      "path": "/2015/talk/show/9d2d46c8-0dcd-11e5-b407-67dc7d574c3a",
+      "title": "Introduction of Media Art for web engineers",
+      "speaker_name": "あらたま",
+      "speaker_url": "https://twitter.com/ar_tama",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/510471574445510658/GKytGPut_normal.jpeg",
+      "hatena": 27,
+      "twitter": 52,
+      "total": 174
+    },
+    {
       "path": "/2015/talk/show/04a4c95c-0fea-11e5-9a0f-d7f07d574c3a",
       "title": "Ready for newest MySQL 5.7 from now",
       "speaker_name": "yoku0825",
@@ -398,16 +408,6 @@ module.exports={
       "hatena": 29,
       "twitter": 49,
       "total": 174
-    },
-    {
-      "path": "/2015/talk/show/9d2d46c8-0dcd-11e5-b407-67dc7d574c3a",
-      "title": "Introduction of Media Art for web engineers",
-      "speaker_name": "あらたま",
-      "speaker_url": "https://twitter.com/ar_tama",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/510471574445510658/GKytGPut_normal.jpeg",
-      "hatena": 27,
-      "twitter": 51,
-      "total": 172
     },
     {
       "path": "/2015/talk/show/0974fb38-facc-11e4-9382-8ab37d574c3a",
@@ -560,16 +560,6 @@ module.exports={
       "total": 129
     },
     {
-      "path": "/2015/talk/show/d7d148f0-f66d-11e4-8734-8ab37d574c3a",
-      "title": "とある会社の新人研修 〜GaiaXにおける新人研修の取り組み, 或いはPerlを主軸とした｢知の高速道路｣について〜",
-      "speaker_name": "papix",
-      "speaker_url": "https://twitter.com/__papix__",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/596297145994481664/KWANlRTk_normal.png",
-      "hatena": 25,
-      "twitter": 29,
-      "total": 127
-    },
-    {
       "path": "/2015/talk/show/96ce1990-fa38-11e4-83b7-8ab37d574c3a",
       "title": "Bridge of peace of mind from the past to the modern.",
       "speaker_name": "Wataru MIYAGUNI",
@@ -578,6 +568,16 @@ module.exports={
       "hatena": 12,
       "twitter": 51,
       "total": 127
+    },
+    {
+      "path": "/2015/talk/show/d7d148f0-f66d-11e4-8734-8ab37d574c3a",
+      "title": "とある会社の新人研修 〜GaiaXにおける新人研修の取り組み, 或いはPerlを主軸とした｢知の高速道路｣について〜",
+      "speaker_name": "papix",
+      "speaker_url": "https://twitter.com/__papix__",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/596297145994481664/KWANlRTk_normal.png",
+      "hatena": 25,
+      "twitter": 29,
+      "total": 126
     },
     {
       "path": "/2015/talk/show/a4318242-f5f2-11e4-afb7-49b37d574c3a",
