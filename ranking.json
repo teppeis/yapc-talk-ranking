@@ -1,5 +1,5 @@
 {
-  "date": 1434837650549,
+  "date": 1434841260842,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -7,9 +7,9 @@
       "speaker_name": "趣味はマリンスポーツです",
       "speaker_url": "https://twitter.com/hitode909",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1753788808/sushi_r_normal.gif",
-      "hatena": 144,
+      "hatena": 145,
       "twitter": 164,
-      "total": 720
+      "total": 723
     },
     {
       "path": "/2015/talk/show/c191c08a-0a98-11e5-be34-67dc7d574c3a",
@@ -279,7 +279,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/1094520798/icon2010_normal.png",
       "hatena": 34,
       "twitter": 55,
-      "total": 199
+      "total": 198
     },
     {
       "path": "/2015/talk/show/dd8ce20e-fad2-11e4-b6e7-8ab37d574c3a",
@@ -352,16 +352,6 @@
       "total": 177
     },
     {
-      "path": "/2015/talk/show/92a7bb60-1323-11e5-a252-d9f87d574c3a",
-      "title": "Perl で RTB の最前線を闘い抜く",
-      "speaker_name": "Satoshi Ohkubo",
-      "speaker_url": "https://www.facebook.com/1121132103",
-      "speaker_icon": "http://graph.facebook.com/1121132103/picture",
-      "hatena": 28,
-      "twitter": 51,
-      "total": 174
-    },
-    {
       "path": "/2015/talk/show/04a4c95c-0fea-11e5-9a0f-d7f07d574c3a",
       "title": "今から備えるMySQL最新バージョン5.7",
       "speaker_name": "yoku0825",
@@ -369,6 +359,16 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/3445683412/bdbf36104036584029165edc231d6bc3_normal.jpeg",
       "hatena": 29,
       "twitter": 49,
+      "total": 173
+    },
+    {
+      "path": "/2015/talk/show/92a7bb60-1323-11e5-a252-d9f87d574c3a",
+      "title": "Perl で RTB の最前線を闘い抜く",
+      "speaker_name": "Satoshi Ohkubo",
+      "speaker_url": "https://www.facebook.com/1121132103",
+      "speaker_icon": "http://graph.facebook.com/1121132103/picture",
+      "hatena": 28,
+      "twitter": 51,
       "total": 173
     },
     {
@@ -552,16 +552,6 @@
       "total": 128
     },
     {
-      "path": "/2015/talk/show/d7d148f0-f66d-11e4-8734-8ab37d574c3a",
-      "title": "とある会社の新人研修 〜GaiaXにおける新人研修の取り組み, 或いはPerlを主軸とした｢知の高速道路｣について〜",
-      "speaker_name": "papix",
-      "speaker_url": "https://twitter.com/__papix__",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/596297145994481664/KWANlRTk_normal.png",
-      "hatena": 25,
-      "twitter": 29,
-      "total": 126
-    },
-    {
       "path": "/2015/talk/show/96ce1990-fa38-11e4-83b7-8ab37d574c3a",
       "title": "「昔の普通」から「今の普通」へ繋ぐ安心の架け橋",
       "speaker_name": "Wataru MIYAGUNI",
@@ -570,6 +560,16 @@
       "hatena": 12,
       "twitter": 51,
       "total": 126
+    },
+    {
+      "path": "/2015/talk/show/d7d148f0-f66d-11e4-8734-8ab37d574c3a",
+      "title": "とある会社の新人研修 〜GaiaXにおける新人研修の取り組み, 或いはPerlを主軸とした｢知の高速道路｣について〜",
+      "speaker_name": "papix",
+      "speaker_url": "https://twitter.com/__papix__",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/596297145994481664/KWANlRTk_normal.png",
+      "hatena": 25,
+      "twitter": 29,
+      "total": 125
     },
     {
       "path": "/2015/talk/show/a4318242-f5f2-11e4-afb7-49b37d574c3a",
