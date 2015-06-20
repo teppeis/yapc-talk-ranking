@@ -16,7 +16,7 @@ function wait(ms) {
   };
 }
 
-fetch('http://yapcasia.org/2015/talk/list').then(function(res) {
+fetch('http://yapcasia.org/2015/talk/list', {headers: {'Accept-Language': 'ja'}}).then(function(res) {
   return res.text();
 }).then(function(html) {
   var $ = cheerio.load(html);
