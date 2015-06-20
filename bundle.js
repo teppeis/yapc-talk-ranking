@@ -27,7 +27,7 @@
 
 },{}],2:[function(require,module,exports){
 module.exports={
-  "date": 1434794457368,
+  "date": 1434798047821,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -735,8 +735,8 @@ module.exports={
       "speaker_name": "makamaka@どんぞこ楽屋",
       "speaker_url": "https://twitter.com/maka2_donzoko",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1094520798/icon2010_normal.png",
-      "hatena": 13,
       "twitter": 40,
+      "hatena": 13,
       "total": 110
     },
     {
@@ -1595,8 +1595,8 @@ module.exports={
       "speaker_name": "鎌田武俊",
       "speaker_url": "https://www.facebook.com/1261488582",
       "speaker_icon": "http://graph.facebook.com/1261488582/picture",
-      "hatena": 2,
       "twitter": 7,
+      "hatena": 2,
       "total": 18
     },
     {
@@ -1655,8 +1655,8 @@ module.exports={
       "speaker_name": "Yusuke Kawasaki",
       "speaker_url": "https://www.facebook.com/731850967",
       "speaker_icon": "http://graph.facebook.com/731850967/picture",
-      "hatena": 4,
       "twitter": 1,
+      "hatena": 4,
       "total": 13
     },
     {
@@ -1725,8 +1725,8 @@ module.exports={
       "speaker_name": "hirobanex",
       "speaker_url": "https://twitter.com/hirobanex",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1098249211/niku_normal.jpg",
-      "hatena": 2,
       "twitter": 2,
+      "hatena": 2,
       "total": 9
     },
     {
@@ -1755,8 +1755,8 @@ module.exports={
       "speaker_name": "tnir",
       "speaker_url": "https://github.com/tnir",
       "speaker_icon": "https://avatars.githubusercontent.com/u/10229505?v=3",
-      "hatena": 1,
       "twitter": 3,
+      "hatena": 1,
       "total": 8
     },
     {
@@ -1835,8 +1835,8 @@ module.exports={
       "speaker_name": "Kelsey Hightower",
       "speaker_url": "https://github.com/kelseyhightower",
       "speaker_icon": "https://avatars.githubusercontent.com/u/1123322?v=3",
-      "hatena": 0,
       "twitter": 3,
+      "hatena": 0,
       "total": 5
     },
     {
@@ -1955,8 +1955,8 @@ module.exports={
       "speaker_name": "Yuichi Suzuki",
       "speaker_url": "https://www.facebook.com/927473347309272",
       "speaker_icon": "http://graph.facebook.com/927473347309272/picture",
-      "hatena": 0,
       "twitter": 1,
+      "hatena": 0,
       "total": 1
     }
   ]
