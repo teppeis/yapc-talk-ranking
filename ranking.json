@@ -1,5 +1,5 @@
 {
-  "date": 1434812474205,
+  "date": 1434816067055,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -69,7 +69,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/8991?v=3",
       "hatena": 77,
       "twitter": 69,
-      "total": 352
+      "total": 351
     },
     {
       "path": "/2015/talk/show/b335dee0-09ad-11e5-8d7a-67dc7d574c3a",
@@ -79,7 +79,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/1295745651/fujiwara-icon-s_normal.png",
       "hatena": 60,
       "twitter": 84,
-      "total": 328
+      "total": 327
     },
     {
       "path": "/2015/talk/show/4bab2728-00fa-11e5-9931-79c97d574c3a",
@@ -148,8 +148,8 @@
       "speaker_url": "https://twitter.com/y_uuk1",
       "speaker_icon": "http://pbs.twimg.com/profile_images/3279630066/5fec6321a3aca8de271ccb3fae606d2a_normal.png",
       "hatena": 52,
-      "twitter": 62,
-      "total": 265
+      "twitter": 63,
+      "total": 266
     },
     {
       "path": "/2015/talk/show/3cc6d49c-faa0-11e4-b634-8ab37d574c3a",
@@ -169,7 +169,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/2290461?v=3",
       "hatena": 51,
       "twitter": 58,
-      "total": 255
+      "total": 254
     },
     {
       "path": "/2015/talk/show/5b1cd536-07ed-11e5-9e42-79c97d574c3a",
@@ -462,16 +462,6 @@
       "total": 149
     },
     {
-      "path": "/2015/talk/show/cd2c903e-1333-11e5-898e-d9f87d574c3a",
-      "title": "エンジニアの技術力評価は難しい？ - 相互評価制度を約4年やってみたけど、わりと良い感じかもしれない -",
-      "speaker_name": "Masanori KOGA",
-      "speaker_url": "https://twitter.com/makoga",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/1214405156/koga300dpi_normal.jpg",
-      "hatena": 18,
-      "twitter": 52,
-      "total": 146
-    },
-    {
       "path": "/2015/talk/show/9f7059dc-003c-11e5-a00c-89c77d574c3a",
       "title": "Perlで学ぼう！文系プログラマのための、知識ゼロからのデータ構造と計算量",
       "speaker_name": "Shinpei Maruyama",
@@ -479,6 +469,16 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/876988?v=3",
       "hatena": 32,
       "twitter": 28,
+      "total": 145
+    },
+    {
+      "path": "/2015/talk/show/cd2c903e-1333-11e5-898e-d9f87d574c3a",
+      "title": "エンジニアの技術力評価は難しい？ - 相互評価制度を約4年やってみたけど、わりと良い感じかもしれない -",
+      "speaker_name": "Masanori KOGA",
+      "speaker_url": "https://twitter.com/makoga",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/1214405156/koga300dpi_normal.jpg",
+      "hatena": 18,
+      "twitter": 52,
       "total": 145
     },
     {
