@@ -27,7 +27,7 @@
 
 },{}],2:[function(require,module,exports){
 module.exports={
-  "date": 1434798047821,
+  "date": 1434801648442,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -156,8 +156,8 @@ module.exports={
       "speaker_url": "https://github.com/karupanerura",
       "speaker_icon": "https://avatars.githubusercontent.com/u/374550?v=3",
       "hatena": 56,
-      "twitter": 58,
-      "total": 271
+      "twitter": 59,
+      "total": 273
     },
     {
       "path": "/2015/talk/show/0dcfc436-133d-11e5-9f77-d9f87d574c3a",
@@ -660,16 +660,6 @@ module.exports={
       "total": 116
     },
     {
-      "path": "/2015/talk/show/20a090d0-1113-11e5-bbd3-d7f07d574c3a",
-      "title": "非エンジニア参加型 ChatOps でソシャゲ運用",
-      "speaker_name": "Makoto Shiga",
-      "speaker_url": "https://github.com/MacoTasu",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/1475923?v=3",
-      "hatena": 21,
-      "twitter": 29,
-      "total": 115
-    },
-    {
       "path": "/2015/talk/show/d78f1c60-0814-11e5-b740-79c97d574c3a",
       "title": "POSIX原理主義 ― どこでも動く、20年動く、コピー一発デプロイ完了、な理想郷はシェルスクリプトで築かれる",
       "speaker_name": "Rich Mikan",
@@ -710,6 +700,16 @@ module.exports={
       "total": 114
     },
     {
+      "path": "/2015/talk/show/20a090d0-1113-11e5-bbd3-d7f07d574c3a",
+      "title": "非エンジニア参加型 ChatOps でソシャゲ運用",
+      "speaker_name": "Makoto Shiga",
+      "speaker_url": "https://github.com/MacoTasu",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/1475923?v=3",
+      "hatena": 21,
+      "twitter": 29,
+      "total": 114
+    },
+    {
       "path": "/2015/talk/show/205b57a0-135b-11e5-8725-d9f87d574c3a",
       "title": "Backbone, Chaplin, Marionette そして React - Quipper における Single Page Application 開発の変遷",
       "speaker_name": "Kensuke Nagae",
@@ -735,8 +735,8 @@ module.exports={
       "speaker_name": "makamaka@どんぞこ楽屋",
       "speaker_url": "https://twitter.com/maka2_donzoko",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1094520798/icon2010_normal.png",
-      "twitter": 40,
       "hatena": 13,
+      "twitter": 40,
       "total": 110
     },
     {
@@ -1595,8 +1595,8 @@ module.exports={
       "speaker_name": "鎌田武俊",
       "speaker_url": "https://www.facebook.com/1261488582",
       "speaker_icon": "http://graph.facebook.com/1261488582/picture",
-      "twitter": 7,
       "hatena": 2,
+      "twitter": 7,
       "total": 18
     },
     {
@@ -1655,8 +1655,8 @@ module.exports={
       "speaker_name": "Yusuke Kawasaki",
       "speaker_url": "https://www.facebook.com/731850967",
       "speaker_icon": "http://graph.facebook.com/731850967/picture",
-      "twitter": 1,
       "hatena": 4,
+      "twitter": 1,
       "total": 13
     },
     {
@@ -1725,8 +1725,8 @@ module.exports={
       "speaker_name": "hirobanex",
       "speaker_url": "https://twitter.com/hirobanex",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1098249211/niku_normal.jpg",
-      "twitter": 2,
       "hatena": 2,
+      "twitter": 2,
       "total": 9
     },
     {
@@ -1755,8 +1755,8 @@ module.exports={
       "speaker_name": "tnir",
       "speaker_url": "https://github.com/tnir",
       "speaker_icon": "https://avatars.githubusercontent.com/u/10229505?v=3",
-      "twitter": 3,
       "hatena": 1,
+      "twitter": 3,
       "total": 8
     },
     {
@@ -1835,8 +1835,8 @@ module.exports={
       "speaker_name": "Kelsey Hightower",
       "speaker_url": "https://github.com/kelseyhightower",
       "speaker_icon": "https://avatars.githubusercontent.com/u/1123322?v=3",
-      "twitter": 3,
       "hatena": 0,
+      "twitter": 3,
       "total": 5
     },
     {
@@ -1955,8 +1955,8 @@ module.exports={
       "speaker_name": "Yuichi Suzuki",
       "speaker_url": "https://www.facebook.com/927473347309272",
       "speaker_icon": "http://graph.facebook.com/927473347309272/picture",
-      "twitter": 1,
       "hatena": 0,
+      "twitter": 1,
       "total": 1
     }
   ]
