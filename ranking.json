@@ -1,5 +1,5 @@
 {
-  "date": 1434776449956,
+  "date": 1434780048270,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -49,7 +49,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/46764?v=3",
       "hatena": 64,
       "twitter": 123,
-      "total": 413
+      "total": 412
     },
     {
       "path": "/2015/talk/show/c5ea5428-fac9-11e4-88c1-8ab37d574c3a",
@@ -59,7 +59,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/1623040?v=3",
       "hatena": 59,
       "twitter": 118,
-      "total": 389
+      "total": 388
     },
     {
       "path": "/2015/talk/show/441c0b72-036f-11e5-851f-79c97d574c3a",
@@ -118,8 +118,8 @@
       "speaker_url": "https://twitter.com/uzulla",
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000122330373/c9162e04e2a5fb779758cc4f0a13c2c0_normal.jpeg",
       "hatena": 45,
-      "twitter": 78,
-      "total": 275
+      "twitter": 79,
+      "total": 276
     },
     {
       "path": "/2015/talk/show/523b9508-0d77-11e5-8174-67dc7d574c3a",
@@ -179,7 +179,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/538947384420483072/5WmJP-fh_normal.jpeg",
       "hatena": 45,
       "twitter": 64,
-      "total": 250
+      "total": 249
     },
     {
       "path": "/2015/talk/show/39a15ad4-0ff5-11e5-a984-d7f07d574c3a",
@@ -208,8 +208,8 @@
       "speaker_url": "https://github.com/moznion",
       "speaker_icon": "https://avatars.githubusercontent.com/u/1422834?v=3",
       "hatena": 39,
-      "twitter": 63,
-      "total": 230
+      "twitter": 64,
+      "total": 231
     },
     {
       "path": "/2015/talk/show/53aacc02-faca-11e4-8c2e-8ab37d574c3a",
@@ -219,7 +219,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/3685820543/1e8215b4268fef1d97891e3d61b7b361_normal.png",
       "hatena": 38,
       "twitter": 64,
-      "total": 229
+      "total": 228
     },
     {
       "path": "/2015/talk/show/82e93a96-f60e-11e4-907e-8ab37d574c3a",
@@ -309,7 +309,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/3422978396/f4d40662ca0c078b9087a50985350269_normal.jpeg",
       "hatena": 30,
       "twitter": 54,
-      "total": 187
+      "total": 186
     },
     {
       "path": "/2015/talk/show/5f5cad74-004a-11e5-acf4-89c77d574c3a",
@@ -322,16 +322,6 @@
       "total": 181
     },
     {
-      "path": "/2015/talk/show/a80e57c8-133e-11e5-93ad-d9f87d574c3a",
-      "title": "MySQLを使って開発をはじめるときに気をつけておきたいこと",
-      "speaker_name": "Ryuta Kamizono",
-      "speaker_url": "https://twitter.com/kamipo",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/378800000433176090/1178e800687095ff11c540ddead1f4ff_normal.png",
-      "hatena": 28,
-      "twitter": 54,
-      "total": 181
-    },
-    {
       "path": "/2015/talk/show/c2f85686-0df5-11e5-9e74-67dc7d574c3a",
       "title": "スタートアップの創業期を支える技術",
       "speaker_name": "Tatsuya Arai",
@@ -339,6 +329,16 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/565897212085800963/VhOCE-By_normal.jpeg",
       "hatena": 35,
       "twitter": 42,
+      "total": 180
+    },
+    {
+      "path": "/2015/talk/show/a80e57c8-133e-11e5-93ad-d9f87d574c3a",
+      "title": "MySQLを使って開発をはじめるときに気をつけておきたいこと",
+      "speaker_name": "Ryuta Kamizono",
+      "speaker_url": "https://twitter.com/kamipo",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/378800000433176090/1178e800687095ff11c540ddead1f4ff_normal.png",
+      "hatena": 28,
+      "twitter": 54,
       "total": 180
     },
     {
@@ -359,7 +359,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/3445683412/bdbf36104036584029165edc231d6bc3_normal.jpeg",
       "hatena": 29,
       "twitter": 49,
-      "total": 175
+      "total": 174
     },
     {
       "path": "/2015/talk/show/92a7bb60-1323-11e5-a252-d9f87d574c3a",
@@ -449,7 +449,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/1121974486/ichikaway_jp3_normal.jpg",
       "hatena": 24,
       "twitter": 44,
-      "total": 151
+      "total": 150
     },
     {
       "path": "/2015/talk/show/1de1adc8-1165-11e5-b6ef-d7f07d574c3a",
@@ -608,8 +608,8 @@
       "speaker_url": "https://www.facebook.com/631255029",
       "speaker_icon": "http://graph.facebook.com/631255029/picture",
       "hatena": 17,
-      "twitter": 38,
-      "total": 119
+      "twitter": 39,
+      "total": 121
     },
     {
       "path": "/2015/talk/show/f5aa5054-12fd-11e5-b4c9-d9f87d574c3a",
@@ -1132,6 +1132,16 @@
       "total": 52
     },
     {
+      "path": "/2015/talk/show/c68136f6-fd51-11e4-9e4f-bdc07d574c3a",
+      "title": "The challenge of the growth-hacking newbie",
+      "speaker_name": "あずまさとし",
+      "speaker_url": "https://twitter.com/ytnobody",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/378800000466143858/93673f957eb413a7a34410d930afa5f7_normal.png",
+      "hatena": 7,
+      "twitter": 16,
+      "total": 49
+    },
+    {
       "path": "/2015/talk/show/268d730e-136c-11e5-ac8f-d9f87d574c3a",
       "title": "Build your own container from scratch with Perl",
       "speaker_name": "Miki Horiuchi Kabe",
@@ -1140,16 +1150,6 @@
       "hatena": 9,
       "twitter": 12,
       "total": 48
-    },
-    {
-      "path": "/2015/talk/show/c68136f6-fd51-11e4-9e4f-bdc07d574c3a",
-      "title": "The challenge of the growth-hacking newbie",
-      "speaker_name": "あずまさとし",
-      "speaker_url": "https://twitter.com/ytnobody",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/378800000466143858/93673f957eb413a7a34410d930afa5f7_normal.png",
-      "hatena": 7,
-      "twitter": 15,
-      "total": 47
     },
     {
       "path": "/2015/talk/show/3a368550-1301-11e5-9668-d9f87d574c3a",
@@ -1262,6 +1262,16 @@
       "total": 38
     },
     {
+      "path": "/2015/talk/show/28878b9c-1306-11e5-b12f-d9f87d574c3a",
+      "title": "Perl6... is useful?",
+      "speaker_name": "Tokuhiro Matsuno",
+      "speaker_url": "https://github.com/tokuhirom",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/21084?v=3",
+      "hatena": 7,
+      "twitter": 9,
+      "total": 37
+    },
+    {
       "path": "/2015/talk/show/81342dae-1351-11e5-ab94-d9f87d574c3a",
       "title": "How to make the ConferenceNetwork",
       "speaker_name": "CONBU",
@@ -1277,16 +1287,6 @@
       "speaker_name": "yoku0825",
       "speaker_url": "https://twitter.com/yoku0825",
       "speaker_icon": "http://pbs.twimg.com/profile_images/3445683412/bdbf36104036584029165edc231d6bc3_normal.jpeg",
-      "hatena": 7,
-      "twitter": 8,
-      "total": 35
-    },
-    {
-      "path": "/2015/talk/show/28878b9c-1306-11e5-b12f-d9f87d574c3a",
-      "title": "Perl6... is useful?",
-      "speaker_name": "Tokuhiro Matsuno",
-      "speaker_url": "https://github.com/tokuhirom",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/21084?v=3",
       "hatena": 7,
       "twitter": 8,
       "total": 35
@@ -1352,6 +1352,16 @@
       "total": 31
     },
     {
+      "path": "/2015/talk/show/d8e842be-1366-11e5-b262-d9f87d574c3a",
+      "title": "A mod_perl programmer talks development method on legacy middleware.",
+      "speaker_name": "OGATA Tetsuji",
+      "speaker_url": "https://twitter.com/xtetsuji",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/404805662/min_x40_mini_normal.png",
+      "hatena": 4,
+      "twitter": 11,
+      "total": 31
+    },
+    {
       "path": "/2015/talk/show/9a3fdc26-136a-11e5-9b96-d9f87d574c3a",
       "title": "Great, you now have a data analysis platform. Now what?",
       "speaker_name": "Takumi Sakamoto",
@@ -1389,16 +1399,6 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/36517?v=3",
       "hatena": 7,
       "twitter": 5,
-      "total": 29
-    },
-    {
-      "path": "/2015/talk/show/d8e842be-1366-11e5-b262-d9f87d574c3a",
-      "title": "A mod_perl programmer talks development method on legacy middleware.",
-      "speaker_name": "OGATA Tetsuji",
-      "speaker_url": "https://twitter.com/xtetsuji",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/404805662/min_x40_mini_normal.png",
-      "hatena": 4,
-      "twitter": 10,
       "total": 29
     },
     {
