@@ -27,7 +27,7 @@
 
 },{}],2:[function(require,module,exports){
 module.exports={
-  "date": 1434772847294,
+  "date": 1434776449956,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -1460,6 +1460,16 @@ module.exports={
       "total": 26
     },
     {
+      "path": "/2015/talk/show/109c01fa-0e58-11e5-b553-67dc7d574c3a",
+      "title": "dockerでローカル環境を構築",
+      "speaker_name": "goodnext",
+      "speaker_url": "https://twitter.com/runners_high777",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/1790006063/IMG_0575_normal.JPG",
+      "hatena": 3,
+      "twitter": 10,
+      "total": 26
+    },
+    {
       "path": "/2015/talk/show/806bdc36-0e25-11e5-9f3c-67dc7d574c3a",
       "title": "Sharding a database",
       "speaker_name": "Abi Gail",
@@ -1467,16 +1477,6 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/832303553518697/picture",
       "hatena": 5,
       "twitter": 6,
-      "total": 25
-    },
-    {
-      "path": "/2015/talk/show/109c01fa-0e58-11e5-b553-67dc7d574c3a",
-      "title": "dockerでローカル環境を構築",
-      "speaker_name": "goodnext",
-      "speaker_url": "https://twitter.com/runners_high777",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/1790006063/IMG_0575_normal.JPG",
-      "hatena": 3,
-      "twitter": 9,
       "total": 25
     },
     {
