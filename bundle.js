@@ -27,7 +27,7 @@
 
 },{}],2:[function(require,module,exports){
 module.exports={
-  "date": 1434769247282,
+  "date": 1434772847294,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -37,7 +37,7 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1753788808/sushi_r_normal.gif",
       "hatena": 143,
       "twitter": 163,
-      "total": 722
+      "total": 721
     },
     {
       "path": "/2015/talk/show/c191c08a-0a98-11e5-be34-67dc7d574c3a",
@@ -67,7 +67,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/1315074?v=3",
       "hatena": 69,
       "twitter": 124,
-      "total": 430
+      "total": 429
     },
     {
       "path": "/2015/talk/show/86ebd212-fab3-11e4-8f5a-8ab37d574c3a",
@@ -187,7 +187,7 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/631255029/picture",
       "hatena": 34,
       "twitter": 89,
-      "total": 262
+      "total": 261
     },
     {
       "path": "/2015/talk/show/607595a2-0df3-11e5-b447-67dc7d574c3a",
@@ -270,6 +270,16 @@ module.exports={
       "total": 224
     },
     {
+      "path": "/2015/talk/show/44721562-10e4-11e5-88a0-d7f07d574c3a",
+      "title": "Effective ES6",
+      "speaker_name": "Teppei Sato",
+      "speaker_url": "https://github.com/teppeis",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/26476?v=3",
+      "hatena": 28,
+      "twitter": 77,
+      "total": 222
+    },
+    {
       "path": "/2015/talk/show/ce0167b6-10f7-11e5-8178-d7f07d574c3a",
       "title": "Vulnerabilities that I've reported",
       "speaker_name": "mala",
@@ -278,16 +288,6 @@ module.exports={
       "hatena": 40,
       "twitter": 55,
       "total": 218
-    },
-    {
-      "path": "/2015/talk/show/44721562-10e4-11e5-88a0-d7f07d574c3a",
-      "title": "Effective ES6",
-      "speaker_name": "Teppei Sato",
-      "speaker_url": "https://github.com/teppeis",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/26476?v=3",
-      "hatena": 27,
-      "twitter": 76,
-      "total": 217
     },
     {
       "path": "/2015/talk/show/a7e23d1c-fd42-11e4-ab7e-bdc07d574c3a",
@@ -390,6 +390,16 @@ module.exports={
       "total": 175
     },
     {
+      "path": "/2015/talk/show/92a7bb60-1323-11e5-a252-d9f87d574c3a",
+      "title": "Fight the RTB market using Perl",
+      "speaker_name": "Satoshi Ohkubo",
+      "speaker_url": "https://www.facebook.com/1121132103",
+      "speaker_icon": "http://graph.facebook.com/1121132103/picture",
+      "hatena": 28,
+      "twitter": 50,
+      "total": 173
+    },
+    {
       "path": "/2015/talk/show/9d2d46c8-0dcd-11e5-b407-67dc7d574c3a",
       "title": "Introduction of Media Art for web engineers",
       "speaker_name": "あらたま",
@@ -398,16 +408,6 @@ module.exports={
       "hatena": 27,
       "twitter": 51,
       "total": 172
-    },
-    {
-      "path": "/2015/talk/show/92a7bb60-1323-11e5-a252-d9f87d574c3a",
-      "title": "Fight the RTB market using Perl",
-      "speaker_name": "Satoshi Ohkubo",
-      "speaker_url": "https://www.facebook.com/1121132103",
-      "speaker_icon": "http://graph.facebook.com/1121132103/picture",
-      "hatena": 27,
-      "twitter": 50,
-      "total": 170
     },
     {
       "path": "/2015/talk/show/0974fb38-facc-11e4-9382-8ab37d574c3a",
