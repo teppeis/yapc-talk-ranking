@@ -1,15 +1,25 @@
 {
-  "date": 1434888048206,
+  "date": 1434891649138,
   "ranking": [
+    {
+      "path": "/2015/talk/show/0b669ad8-f616-11e4-90fb-8ab37d574c3a",
+      "title": "オープンソースエンジニアのための Windows入門",
+      "speaker_name": "tsubasa",
+      "speaker_url": "https://twitter.com/tsubasaxZZZ",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/560137093/2286227_3079062002_normal.jpg",
+      "hatena": null,
+      "twitter": 11,
+      "total": null
+    },
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
       "title": "Perlの上にも三年 〜 ずっとイケてるサービスを作り続ける技術 〜",
       "speaker_name": "趣味はマリンスポーツです",
       "speaker_url": "https://twitter.com/hitode909",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1753788808/sushi_r_normal.gif",
-      "hatena": 145,
       "twitter": 164,
-      "total": 722
+      "hatena": 145,
+      "total": 723
     },
     {
       "path": "/2015/talk/show/c191c08a-0a98-11e5-be34-67dc7d574c3a",
@@ -29,7 +39,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/87649?v=3",
       "hatena": 107,
       "twitter": 140,
-      "total": 566
+      "total": 567
     },
     {
       "path": "/2015/talk/show/f2816038-10ec-11e5-89bf-d7f07d574c3a",
@@ -49,7 +59,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/46764?v=3",
       "hatena": 64,
       "twitter": 123,
-      "total": 408
+      "total": 409
     },
     {
       "path": "/2015/talk/show/c5ea5428-fac9-11e4-88c1-8ab37d574c3a",
@@ -69,7 +79,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/8991?v=3",
       "hatena": 77,
       "twitter": 69,
-      "total": 351
+      "total": 352
     },
     {
       "path": "/2015/talk/show/b335dee0-09ad-11e5-8d7a-67dc7d574c3a",
@@ -79,7 +89,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/1295745651/fujiwara-icon-s_normal.png",
       "hatena": 60,
       "twitter": 84,
-      "total": 327
+      "total": 328
     },
     {
       "path": "/2015/talk/show/4bab2728-00fa-11e5-9931-79c97d574c3a",
@@ -89,7 +99,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/849165?v=3",
       "hatena": 51,
       "twitter": 97,
-      "total": 323
+      "total": 324
     },
     {
       "path": "/2015/talk/show/3d2d946a-0979-11e5-9800-67dc7d574c3a",
@@ -119,7 +129,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000122330373/c9162e04e2a5fb779758cc4f0a13c2c0_normal.jpeg",
       "hatena": 45,
       "twitter": 80,
-      "total": 275
+      "total": 276
     },
     {
       "path": "/2015/talk/show/523b9508-0d77-11e5-8174-67dc7d574c3a",
@@ -169,7 +179,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/2290461?v=3",
       "hatena": 51,
       "twitter": 58,
-      "total": 254
+      "total": 255
     },
     {
       "path": "/2015/talk/show/5b1cd536-07ed-11e5-9e42-79c97d574c3a",
@@ -189,7 +199,7 @@
       "speaker_icon": "http://graph.facebook.com/100000459480102/picture",
       "hatena": 36,
       "twitter": 77,
-      "total": 243
+      "total": 244
     },
     {
       "path": "/2015/talk/show/dead6890-09b7-11e5-998a-67dc7d574c3a",
@@ -207,8 +217,8 @@
       "speaker_name": "moznion",
       "speaker_url": "https://github.com/moznion",
       "speaker_icon": "https://avatars.githubusercontent.com/u/1422834?v=3",
-      "hatena": 39,
       "twitter": 64,
+      "hatena": 39,
       "total": 229
     },
     {
@@ -229,7 +239,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/206948941/wall-e_normal.jpg",
       "hatena": 38,
       "twitter": 63,
-      "total": 224
+      "total": 225
     },
     {
       "path": "/2015/talk/show/1e976f9e-0046-11e5-a69c-89c77d574c3a",
@@ -249,7 +259,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/26476?v=3",
       "hatena": 28,
       "twitter": 77,
-      "total": 219
+      "total": 220
     },
     {
       "path": "/2015/talk/show/ce0167b6-10f7-11e5-8178-d7f07d574c3a",
@@ -279,7 +289,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/1094520798/icon2010_normal.png",
       "hatena": 34,
       "twitter": 55,
-      "total": 198
+      "total": 199
     },
     {
       "path": "/2015/talk/show/dd8ce20e-fad2-11e4-b6e7-8ab37d574c3a",
@@ -347,19 +357,9 @@
       "speaker_name": "chezou",
       "speaker_url": "https://twitter.com/chezou",
       "speaker_icon": "http://pbs.twimg.com/profile_images/3512660657/c7724f0f2022e87c568dec7af95909a6_normal.jpeg",
+      "twitter": 49,
       "hatena": 31,
-      "twitter": 49,
       "total": 179
-    },
-    {
-      "path": "/2015/talk/show/04a4c95c-0fea-11e5-9a0f-d7f07d574c3a",
-      "title": "今から備えるMySQL最新バージョン5.7",
-      "speaker_name": "yoku0825",
-      "speaker_url": "https://twitter.com/yoku0825",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/3445683412/bdbf36104036584029165edc231d6bc3_normal.jpeg",
-      "hatena": 29,
-      "twitter": 49,
-      "total": 173
     },
     {
       "path": "/2015/talk/show/92a7bb60-1323-11e5-a252-d9f87d574c3a",
@@ -369,6 +369,16 @@
       "speaker_icon": "http://graph.facebook.com/1121132103/picture",
       "hatena": 28,
       "twitter": 51,
+      "total": 174
+    },
+    {
+      "path": "/2015/talk/show/04a4c95c-0fea-11e5-9a0f-d7f07d574c3a",
+      "title": "今から備えるMySQL最新バージョン5.7",
+      "speaker_name": "yoku0825",
+      "speaker_url": "https://twitter.com/yoku0825",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/3445683412/bdbf36104036584029165edc231d6bc3_normal.jpeg",
+      "hatena": 29,
+      "twitter": 49,
       "total": 173
     },
     {
@@ -409,7 +419,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/250407?v=3",
       "hatena": 27,
       "twitter": 46,
-      "total": 161
+      "total": 162
     },
     {
       "path": "/2015/talk/show/c2c7b8a4-faaa-11e4-a8be-8ab37d574c3a",
@@ -462,6 +472,16 @@
       "total": 149
     },
     {
+      "path": "/2015/talk/show/9f7059dc-003c-11e5-a00c-89c77d574c3a",
+      "title": "Perlで学ぼう！文系プログラマのための、知識ゼロからのデータ構造と計算量",
+      "speaker_name": "Shinpei Maruyama",
+      "speaker_url": "https://github.com/Shinpeim",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/876988?v=3",
+      "hatena": 32,
+      "twitter": 28,
+      "total": 145
+    },
+    {
       "path": "/2015/talk/show/cd2c903e-1333-11e5-898e-d9f87d574c3a",
       "title": "エンジニアの技術力評価は難しい？ - 相互評価制度を約4年やってみたけど、わりと良い感じかもしれない -",
       "speaker_name": "Masanori KOGA",
@@ -470,16 +490,6 @@
       "hatena": 18,
       "twitter": 52,
       "total": 145
-    },
-    {
-      "path": "/2015/talk/show/9f7059dc-003c-11e5-a00c-89c77d574c3a",
-      "title": "Perlで学ぼう！文系プログラマのための、知識ゼロからのデータ構造と計算量",
-      "speaker_name": "Shinpei Maruyama",
-      "speaker_url": "https://github.com/Shinpeim",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/876988?v=3",
-      "hatena": 32,
-      "twitter": 28,
-      "total": 144
     },
     {
       "path": "/2015/talk/show/9e9ae188-fb20-11e4-9a97-8ab37d574c3a",
@@ -552,6 +562,16 @@
       "total": 128
     },
     {
+      "path": "/2015/talk/show/d7d148f0-f66d-11e4-8734-8ab37d574c3a",
+      "title": "とある会社の新人研修 〜GaiaXにおける新人研修の取り組み, 或いはPerlを主軸とした｢知の高速道路｣について〜",
+      "speaker_name": "papix",
+      "speaker_url": "https://twitter.com/__papix__",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/596297145994481664/KWANlRTk_normal.png",
+      "hatena": 25,
+      "twitter": 29,
+      "total": 126
+    },
+    {
       "path": "/2015/talk/show/96ce1990-fa38-11e4-83b7-8ab37d574c3a",
       "title": "「昔の普通」から「今の普通」へ繋ぐ安心の架け橋",
       "speaker_name": "Wataru MIYAGUNI",
@@ -560,16 +580,6 @@
       "hatena": 12,
       "twitter": 51,
       "total": 126
-    },
-    {
-      "path": "/2015/talk/show/d7d148f0-f66d-11e4-8734-8ab37d574c3a",
-      "title": "とある会社の新人研修 〜GaiaXにおける新人研修の取り組み, 或いはPerlを主軸とした｢知の高速道路｣について〜",
-      "speaker_name": "papix",
-      "speaker_url": "https://twitter.com/__papix__",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/596297145994481664/KWANlRTk_normal.png",
-      "hatena": 25,
-      "twitter": 29,
-      "total": 125
     },
     {
       "path": "/2015/talk/show/a4318242-f5f2-11e4-afb7-49b37d574c3a",
@@ -662,16 +672,6 @@
       "total": 115
     },
     {
-      "path": "/2015/talk/show/d78f1c60-0814-11e5-b740-79c97d574c3a",
-      "title": "POSIX原理主義 ― どこでも動く、20年動く、コピー一発デプロイ完了、な理想郷はシェルスクリプトで築かれる",
-      "speaker_name": "Rich Mikan",
-      "speaker_url": "https://github.com/richmikan",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/1249622?v=3",
-      "hatena": 22,
-      "twitter": 27,
-      "total": 113
-    },
-    {
       "path": "/2015/talk/show/0af26fe4-0b7b-11e5-a29c-67dc7d574c3a",
       "title": "MySQLで2億件のシリアルデータと格闘したチューニングの話",
       "speaker_name": "さいけん",
@@ -679,6 +679,16 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/1205361823/img_791544_45327987_0_normal.jpg",
       "hatena": 18,
       "twitter": 34,
+      "total": 114
+    },
+    {
+      "path": "/2015/talk/show/d78f1c60-0814-11e5-b740-79c97d574c3a",
+      "title": "POSIX原理主義 ― どこでも動く、20年動く、コピー一発デプロイ完了、な理想郷はシェルスクリプトで築かれる",
+      "speaker_name": "Rich Mikan",
+      "speaker_url": "https://github.com/richmikan",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/1249622?v=3",
+      "hatena": 22,
+      "twitter": 27,
       "total": 113
     },
     {
@@ -719,7 +729,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/583440287269171200/LfL9vF2I_normal.jpg",
       "hatena": 21,
       "twitter": 25,
-      "total": 106
+      "total": 107
     },
     {
       "path": "/2015/talk/show/1da55daa-0deb-11e5-944c-67dc7d574c3a",
@@ -829,7 +839,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/574083036834197507/yeKZlpd4_normal.png",
       "hatena": 13,
       "twitter": 30,
-      "total": 91
+      "total": 92
     },
     {
       "path": "/2015/talk/show/86fa062e-135a-11e5-a432-d9f87d574c3a",
@@ -839,7 +849,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/449541105894174721/Tmgr9zRN_normal.jpeg",
       "hatena": 16,
       "twitter": 25,
-      "total": 91
+      "total": 92
     },
     {
       "path": "/2015/talk/show/16b65b5a-0064-11e5-9c42-89c77d574c3a",
@@ -877,8 +887,8 @@
       "speaker_name": "songmu",
       "speaker_url": "https://twitter.com/songmu",
       "speaker_icon": "http://pbs.twimg.com/profile_images/538947384420483072/5WmJP-fh_normal.jpeg",
-      "hatena": 13,
       "twitter": 25,
+      "hatena": 13,
       "total": 83
     },
     {
@@ -917,8 +927,8 @@
       "speaker_name": "Shinichiro Aska",
       "speaker_url": "https://github.com/s-aska",
       "speaker_icon": "https://avatars.githubusercontent.com/u/140584?v=3",
-      "hatena": 11,
       "twitter": 27,
+      "hatena": 11,
       "total": 80
     },
     {
@@ -1017,8 +1027,8 @@
       "speaker_name": "Satoshi.S",
       "speaker_url": "https://twitter.com/studio3104",
       "speaker_icon": "http://pbs.twimg.com/profile_images/520265668403294211/JxYDX9-P_normal.jpeg",
-      "hatena": 6,
       "twitter": 27,
+      "hatena": 6,
       "total": 65
     },
     {
@@ -1109,7 +1119,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000078453409/b6bfcd56abe9253d9e41f2e14bdd038f_normal.jpeg",
       "hatena": 8,
       "twitter": 17,
-      "total": 53
+      "total": 54
     },
     {
       "path": "/2015/talk/show/bd04b86c-f9de-11e4-b996-8ab37d574c3a",
@@ -1242,16 +1252,6 @@
       "total": 42
     },
     {
-      "path": "/2015/talk/show/0b669ad8-f616-11e4-90fb-8ab37d574c3a",
-      "title": "オープンソースエンジニアのための Windows入門",
-      "speaker_name": "tsubasa",
-      "speaker_url": "https://twitter.com/tsubasaxZZZ",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/560137093/2286227_3079062002_normal.jpg",
-      "hatena": 7,
-      "twitter": 11,
-      "total": 40
-    },
-    {
       "path": "/2015/talk/show/94d4e442-0f56-11e5-9049-43ec7d574c3a",
       "title": "'エンジニア１人＆小規模な環境'から'複数人同時開発＆中規模な環境'を実現するまでにやったこと",
       "speaker_name": "Daisuke Tamada",
@@ -1322,6 +1322,16 @@
       "total": 32
     },
     {
+      "path": "/2015/talk/show/b03162be-0052-11e5-ba92-89c77d574c3a",
+      "title": "Run containerized workloads with Lattice",
+      "speaker_name": "Etourneau Gwenn",
+      "speaker_url": "https://github.com/shinji62",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/4757816?v=3",
+      "hatena": 3,
+      "twitter": 13,
+      "total": 32
+    },
+    {
       "path": "/2015/talk/show/4c11a14a-09df-11e5-ad5e-67dc7d574c3a",
       "title": "いけてない開発環境をDockerでいい感じにした話",
       "speaker_name": "ごちょー",
@@ -1342,23 +1352,13 @@
       "total": 31
     },
     {
-      "path": "/2015/talk/show/b03162be-0052-11e5-ba92-89c77d574c3a",
-      "title": "Run containerized workloads with Lattice",
-      "speaker_name": "Etourneau Gwenn",
-      "speaker_url": "https://github.com/shinji62",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/4757816?v=3",
-      "hatena": 3,
-      "twitter": 13,
-      "total": 31
-    },
-    {
       "path": "/2015/talk/show/d8e842be-1366-11e5-b262-d9f87d574c3a",
       "title": "mod_perlプログラマーがYAPCで語るレガシー開発論",
       "speaker_name": "OGATA Tetsuji",
       "speaker_url": "https://twitter.com/xtetsuji",
       "speaker_icon": "http://pbs.twimg.com/profile_images/404805662/min_x40_mini_normal.png",
-      "hatena": 4,
       "twitter": 11,
+      "hatena": 4,
       "total": 31
     },
     {
@@ -1367,8 +1367,8 @@
       "speaker_name": "きいあむ / YASUTAKE K.",
       "speaker_url": "https://twitter.com/key_amb",
       "speaker_icon": "http://pbs.twimg.com/profile_images/604586076024340480/EIbpIzsF_normal.jpg",
-      "hatena": 6,
       "twitter": 7,
+      "hatena": 6,
       "total": 30
     },
     {
@@ -1377,8 +1377,8 @@
       "speaker_name": "Takumi Sakamoto",
       "speaker_url": "https://twitter.com/takus",
       "speaker_icon": "http://pbs.twimg.com/profile_images/695932190/me_normal.jpg",
-      "hatena": 5,
       "twitter": 9,
+      "hatena": 5,
       "total": 30
     },
     {
@@ -1487,8 +1487,8 @@
       "speaker_name": "kiyoshi nomo",
       "speaker_url": "https://twitter.com/kysnm",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1317946234/39253694_origin_normal.jpg",
-      "hatena": 4,
       "twitter": 7,
+      "hatena": 4,
       "total": 24
     },
     {
@@ -1527,8 +1527,8 @@
       "speaker_name": "Kelsey Hightower",
       "speaker_url": "https://github.com/kelseyhightower",
       "speaker_icon": "https://avatars.githubusercontent.com/u/1123322?v=3",
-      "hatena": 2,
       "twitter": 9,
+      "hatena": 2,
       "total": 21
     },
     {
@@ -1577,8 +1577,8 @@
       "speaker_name": "鎌田武俊",
       "speaker_url": "https://www.facebook.com/1261488582",
       "speaker_icon": "http://graph.facebook.com/1261488582/picture",
-      "hatena": 2,
       "twitter": 7,
+      "hatena": 2,
       "total": 18
     },
     {
@@ -1587,8 +1587,8 @@
       "speaker_name": "YS",
       "speaker_url": "https://twitter.com/yosukep",
       "speaker_icon": "http://pbs.twimg.com/profile_images/521480305421471744/DLC7h26z_normal.png",
-      "hatena": 3,
       "twitter": 4,
+      "hatena": 3,
       "total": 16
     },
     {
@@ -1627,8 +1627,8 @@
       "speaker_name": "zuqqhi2",
       "speaker_url": "https://twitter.com/zuqqhi2",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1394079624/26852578_1874744136_normal.jpg",
-      "hatena": 2,
       "twitter": 4,
+      "hatena": 2,
       "total": 13
     },
     {
@@ -1677,8 +1677,8 @@
       "speaker_name": "tnir",
       "speaker_url": "https://github.com/tnir",
       "speaker_icon": "https://avatars.githubusercontent.com/u/10229505?v=3",
-      "hatena": 1,
       "twitter": 4,
+      "hatena": 1,
       "total": 10
     },
     {
@@ -1747,8 +1747,8 @@
       "speaker_name": "gomadango",
       "speaker_url": "https://github.com/gomadango",
       "speaker_icon": "https://avatars.githubusercontent.com/u/12896099?v=3",
-      "hatena": 1,
       "twitter": 3,
+      "hatena": 1,
       "total": 8
     },
     {
@@ -1787,8 +1787,8 @@
       "speaker_name": "Takatsugu Shigeta",
       "speaker_url": "https://github.com/comewalk",
       "speaker_icon": "https://avatars.githubusercontent.com/u/2808?v=3",
-      "hatena": 1,
       "twitter": 2,
+      "hatena": 1,
       "total": 6
     },
     {
@@ -1797,8 +1797,8 @@
       "speaker_name": "SHIRAKATA Kentaro",
       "speaker_url": "https://github.com/argrath",
       "speaker_icon": "https://avatars.githubusercontent.com/u/53912?v=3",
-      "hatena": 1,
       "twitter": 2,
+      "hatena": 1,
       "total": 6
     },
     {
@@ -1807,8 +1807,8 @@
       "speaker_name": "sojiro",
       "speaker_url": "https://twitter.com/sojiro14",
       "speaker_icon": "http://pbs.twimg.com/profile_images/595286077985804288/mIsprLuz_normal.jpg",
-      "hatena": 0,
       "twitter": 3,
+      "hatena": 0,
       "total": 5
     },
     {
@@ -1827,8 +1827,8 @@
       "speaker_name": "sojiro",
       "speaker_url": "https://twitter.com/sojiro14",
       "speaker_icon": "http://pbs.twimg.com/profile_images/595286077985804288/mIsprLuz_normal.jpg",
-      "hatena": 1,
       "twitter": 1,
+      "hatena": 1,
       "total": 4
     },
     {
@@ -1927,8 +1927,8 @@
       "speaker_name": "Yuichi Suzuki",
       "speaker_url": "https://www.facebook.com/927473347309272",
       "speaker_icon": "http://graph.facebook.com/927473347309272/picture",
-      "hatena": 0,
       "twitter": 1,
+      "hatena": 0,
       "total": 1
     }
   ]
