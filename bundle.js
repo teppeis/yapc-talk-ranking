@@ -27,7 +27,7 @@
 
 },{}],2:[function(require,module,exports){
 module.exports={
-  "date": 1434884448356,
+  "date": 1434888048206,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -57,7 +57,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/87649?v=3",
       "hatena": 107,
       "twitter": 140,
-      "total": 567
+      "total": 566
     },
     {
       "path": "/2015/talk/show/f2816038-10ec-11e5-89bf-d7f07d574c3a",
@@ -155,9 +155,9 @@ module.exports={
       "speaker_name": "karupanerura",
       "speaker_url": "https://github.com/karupanerura",
       "speaker_icon": "https://avatars.githubusercontent.com/u/374550?v=3",
-      "hatena": 56,
+      "hatena": 55,
       "twitter": 60,
-      "total": 273
+      "total": 270
     },
     {
       "path": "/2015/talk/show/0dcfc436-133d-11e5-9f77-d9f87d574c3a",
@@ -277,7 +277,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/26476?v=3",
       "hatena": 28,
       "twitter": 77,
-      "total": 220
+      "total": 219
     },
     {
       "path": "/2015/talk/show/ce0167b6-10f7-11e5-8178-d7f07d574c3a",
@@ -437,7 +437,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/250407?v=3",
       "hatena": 27,
       "twitter": 46,
-      "total": 162
+      "total": 161
     },
     {
       "path": "/2015/talk/show/c2c7b8a4-faaa-11e4-a8be-8ab37d574c3a",
@@ -650,6 +650,16 @@ module.exports={
       "total": 118
     },
     {
+      "path": "/2015/talk/show/c495bb3c-1340-11e5-b434-d9f87d574c3a",
+      "title": "一体何がエンジニア職社員「交換留学」の取り組みによってチームとメンバーに変革をもたらしたのか",
+      "speaker_name": "Toshiaki Koshiba",
+      "speaker_url": "https://github.com/bash0C7",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/137741?v=3",
+      "hatena": 16,
+      "twitter": 40,
+      "total": 118
+    },
+    {
       "path": "/2015/talk/show/f5aa5054-12fd-11e5-b4c9-d9f87d574c3a",
       "title": "はてなブックマークのトピックページの裏側",
       "speaker_name": "skozawa",
@@ -677,16 +687,6 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/929494707114841/picture",
       "hatena": 19,
       "twitter": 33,
-      "total": 115
-    },
-    {
-      "path": "/2015/talk/show/c495bb3c-1340-11e5-b434-d9f87d574c3a",
-      "title": "一体何がエンジニア職社員「交換留学」の取り組みによってチームとメンバーに変革をもたらしたのか",
-      "speaker_name": "Toshiaki Koshiba",
-      "speaker_url": "https://github.com/bash0C7",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/137741?v=3",
-      "hatena": 15,
-      "twitter": 40,
       "total": 115
     },
     {
@@ -735,8 +735,8 @@ module.exports={
       "speaker_name": "makamaka@どんぞこ楽屋",
       "speaker_url": "https://twitter.com/maka2_donzoko",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1094520798/icon2010_normal.png",
-      "hatena": 13,
       "twitter": 40,
+      "hatena": 13,
       "total": 109
     },
     {
@@ -790,6 +790,16 @@ module.exports={
       "total": 100
     },
     {
+      "path": "/2015/talk/show/aa08df46-f7ee-11e4-9737-8ab37d574c3a",
+      "title": "あなたがハッカーじゃなくてもPull RequestをおくってOSSに貢献しよう",
+      "speaker_name": "DQNEO",
+      "speaker_url": "https://twitter.com/DQNEO",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/582905163389632513/unVsV-wC_normal.jpg",
+      "hatena": 18,
+      "twitter": 26,
+      "total": 99
+    },
+    {
       "path": "/2015/talk/show/f168bf54-10b3-11e5-b640-d7f07d574c3a",
       "title": "新規サービス立ち上げから1年たって学んだこと　〜ハッカドールの捗る技術〜",
       "speaker_name": "mosa",
@@ -798,16 +808,6 @@ module.exports={
       "hatena": 15,
       "twitter": 31,
       "total": 99
-    },
-    {
-      "path": "/2015/talk/show/aa08df46-f7ee-11e4-9737-8ab37d574c3a",
-      "title": "あなたがハッカーじゃなくてもPull RequestをおくってOSSに貢献しよう",
-      "speaker_name": "DQNEO",
-      "speaker_url": "https://twitter.com/DQNEO",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/582905163389632513/unVsV-wC_normal.jpg",
-      "hatena": 18,
-      "twitter": 25,
-      "total": 97
     },
     {
       "path": "/2015/talk/show/4d9157b2-110b-11e5-9b5f-d7f07d574c3a",
@@ -830,6 +830,16 @@ module.exports={
       "total": 95
     },
     {
+      "path": "/2015/talk/show/20489b5c-05a4-11e5-81d9-79c97d574c3a",
+      "title": "エンジニアのためのめっちゃわかりやすい会計入門",
+      "speaker_name": "DQNEO",
+      "speaker_url": "https://twitter.com/DQNEO",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/582905163389632513/unVsV-wC_normal.jpg",
+      "hatena": 21,
+      "twitter": 18,
+      "total": 94
+    },
+    {
       "path": "/2015/talk/show/3cf2bee2-1358-11e5-b64e-d9f87d574c3a",
       "title": "HBase at FreakOut",
       "speaker_name": "Jiro Nishiguchi",
@@ -840,14 +850,14 @@ module.exports={
       "total": 93
     },
     {
-      "path": "/2015/talk/show/20489b5c-05a4-11e5-81d9-79c97d574c3a",
-      "title": "エンジニアのためのめっちゃわかりやすい会計入門",
-      "speaker_name": "DQNEO",
-      "speaker_url": "https://twitter.com/DQNEO",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/582905163389632513/unVsV-wC_normal.jpg",
-      "hatena": 21,
-      "twitter": 17,
-      "total": 92
+      "path": "/2015/talk/show/69b973e2-0de2-11e5-918e-67dc7d574c3a",
+      "title": "最新技術はいかにして業務に取り入れうるか",
+      "speaker_name": "ほと",
+      "speaker_url": "https://twitter.com/hoto17296",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/574083036834197507/yeKZlpd4_normal.png",
+      "hatena": 13,
+      "twitter": 30,
+      "total": 91
     },
     {
       "path": "/2015/talk/show/86fa062e-135a-11e5-a432-d9f87d574c3a",
@@ -857,16 +867,6 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/449541105894174721/Tmgr9zRN_normal.jpeg",
       "hatena": 16,
       "twitter": 25,
-      "total": 92
-    },
-    {
-      "path": "/2015/talk/show/69b973e2-0de2-11e5-918e-67dc7d574c3a",
-      "title": "最新技術はいかにして業務に取り入れうるか",
-      "speaker_name": "ほと",
-      "speaker_url": "https://twitter.com/hoto17296",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/574083036834197507/yeKZlpd4_normal.png",
-      "hatena": 13,
-      "twitter": 30,
       "total": 91
     },
     {
@@ -1185,8 +1185,8 @@ module.exports={
       "speaker_name": "Miki Horiuchi Kabe",
       "speaker_url": "https://www.facebook.com/951266011604370",
       "speaker_icon": "http://graph.facebook.com/951266011604370/picture",
-      "hatena": 9,
       "twitter": 12,
+      "hatena": 9,
       "total": 48
     },
     {
@@ -1350,16 +1350,6 @@ module.exports={
       "total": 32
     },
     {
-      "path": "/2015/talk/show/b03162be-0052-11e5-ba92-89c77d574c3a",
-      "title": "Run containerized workloads with Lattice",
-      "speaker_name": "Etourneau Gwenn",
-      "speaker_url": "https://github.com/shinji62",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/4757816?v=3",
-      "hatena": 3,
-      "twitter": 13,
-      "total": 32
-    },
-    {
       "path": "/2015/talk/show/4c11a14a-09df-11e5-ad5e-67dc7d574c3a",
       "title": "いけてない開発環境をDockerでいい感じにした話",
       "speaker_name": "ごちょー",
@@ -1377,6 +1367,16 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/530258290991583232/TaRx528t_normal.jpeg",
       "hatena": 4,
       "twitter": 11,
+      "total": 31
+    },
+    {
+      "path": "/2015/talk/show/b03162be-0052-11e5-ba92-89c77d574c3a",
+      "title": "Run containerized workloads with Lattice",
+      "speaker_name": "Etourneau Gwenn",
+      "speaker_url": "https://github.com/shinji62",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/4757816?v=3",
+      "hatena": 3,
+      "twitter": 13,
       "total": 31
     },
     {
@@ -1595,8 +1595,8 @@ module.exports={
       "speaker_name": "Masayuki Ishikawa",
       "speaker_url": "https://www.facebook.com/100001054610433",
       "speaker_icon": "http://graph.facebook.com/100001054610433/picture",
-      "hatena": 2,
       "twitter": 7,
+      "hatena": 2,
       "total": 18
     },
     {
@@ -1665,8 +1665,8 @@ module.exports={
       "speaker_name": "Yusuke Kawasaki",
       "speaker_url": "https://www.facebook.com/731850967",
       "speaker_icon": "http://graph.facebook.com/731850967/picture",
-      "hatena": 4,
       "twitter": 1,
+      "hatena": 4,
       "total": 13
     },
     {
@@ -1745,8 +1745,8 @@ module.exports={
       "speaker_name": "hirobanex",
       "speaker_url": "https://twitter.com/hirobanex",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1098249211/niku_normal.jpg",
-      "hatena": 2,
       "twitter": 2,
+      "hatena": 2,
       "total": 9
     },
     {
