@@ -27,7 +27,7 @@
 
 },{}],2:[function(require,module,exports){
 module.exports={
-  "date": 1434873661667,
+  "date": 1434877270631,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -117,7 +117,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/849165?v=3",
       "hatena": 51,
       "twitter": 97,
-      "total": 324
+      "total": 323
     },
     {
       "path": "/2015/talk/show/3d2d946a-0979-11e5-9800-67dc7d574c3a",
@@ -930,6 +930,16 @@ module.exports={
       "total": 81
     },
     {
+      "path": "/2015/talk/show/a0044cc4-130a-11e5-b0c6-d9f87d574c3a",
+      "title": "いい技術文書とは何か",
+      "speaker_name": "yuku takahashi",
+      "speaker_url": "https://twitter.com/yuku_t",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/593648937413685248/81DdisOn_normal.png",
+      "hatena": 17,
+      "twitter": 17,
+      "total": 80
+    },
+    {
       "path": "/2015/talk/show/4e5bf7f2-1362-11e5-8e54-d9f87d574c3a",
       "title": "アスカさんがツイッタークライアントを作る方法について教えてくれるそうです",
       "speaker_name": "Shinichiro Aska",
@@ -938,16 +948,6 @@ module.exports={
       "hatena": 11,
       "twitter": 27,
       "total": 80
-    },
-    {
-      "path": "/2015/talk/show/a0044cc4-130a-11e5-b0c6-d9f87d574c3a",
-      "title": "いい技術文書とは何か",
-      "speaker_name": "yuku takahashi",
-      "speaker_url": "https://twitter.com/yuku_t",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/593648937413685248/81DdisOn_normal.png",
-      "hatena": 17,
-      "twitter": 16,
-      "total": 79
     },
     {
       "path": "/2015/talk/show/034c0d1e-10d4-11e5-9c9b-d7f07d574c3a",
