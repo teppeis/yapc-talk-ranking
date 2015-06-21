@@ -27,7 +27,7 @@
 
 },{}],2:[function(require,module,exports){
 module.exports={
-  "date": 1434844847889,
+  "date": 1434848447960,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -217,7 +217,7 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/100000459480102/picture",
       "hatena": 36,
       "twitter": 77,
-      "total": 244
+      "total": 243
     },
     {
       "path": "/2015/talk/show/dead6890-09b7-11e5-998a-67dc7d574c3a",
@@ -690,16 +690,6 @@ module.exports={
       "total": 115
     },
     {
-      "path": "/2015/talk/show/0af26fe4-0b7b-11e5-a29c-67dc7d574c3a",
-      "title": "MySQLで2億件のシリアルデータと格闘したチューニングの話",
-      "speaker_name": "さいけん",
-      "speaker_url": "https://twitter.com/saiken3110",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/1205361823/img_791544_45327987_0_normal.jpg",
-      "hatena": 18,
-      "twitter": 34,
-      "total": 114
-    },
-    {
       "path": "/2015/talk/show/d78f1c60-0814-11e5-b740-79c97d574c3a",
       "title": "POSIX原理主義 ― どこでも動く、20年動く、コピー一発デプロイ完了、な理想郷はシェルスクリプトで築かれる",
       "speaker_name": "Rich Mikan",
@@ -707,6 +697,16 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/1249622?v=3",
       "hatena": 22,
       "twitter": 27,
+      "total": 113
+    },
+    {
+      "path": "/2015/talk/show/0af26fe4-0b7b-11e5-a29c-67dc7d574c3a",
+      "title": "MySQLで2億件のシリアルデータと格闘したチューニングの話",
+      "speaker_name": "さいけん",
+      "speaker_url": "https://twitter.com/saiken3110",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/1205361823/img_791544_45327987_0_normal.jpg",
+      "hatena": 18,
+      "twitter": 34,
       "total": 113
     },
     {
@@ -857,7 +857,7 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/574083036834197507/yeKZlpd4_normal.png",
       "hatena": 13,
       "twitter": 30,
-      "total": 92
+      "total": 91
     },
     {
       "path": "/2015/talk/show/16b65b5a-0064-11e5-9c42-89c77d574c3a",
@@ -1270,6 +1270,16 @@ module.exports={
       "total": 40
     },
     {
+      "path": "/2015/talk/show/cbf6ea5a-11f5-11e5-b9ea-d7f07d574c3a",
+      "title": "エンジニアからプロダクトマネージャーに転身して分かった１０のこと",
+      "speaker_name": "shinjukujohnny",
+      "speaker_url": "https://twitter.com/shinjukujohnny",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/524693733069963265/nmA39bww_normal.jpeg",
+      "hatena": 7,
+      "twitter": 11,
+      "total": 40
+    },
+    {
       "path": "/2015/talk/show/94d4e442-0f56-11e5-9049-43ec7d574c3a",
       "title": "'エンジニア１人＆小規模な環境'から'複数人同時開発＆中規模な環境'を実現するまでにやったこと",
       "speaker_name": "Daisuke Tamada",
@@ -1317,16 +1327,6 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/3445683412/bdbf36104036584029165edc231d6bc3_normal.jpeg",
       "hatena": 7,
       "twitter": 8,
-      "total": 35
-    },
-    {
-      "path": "/2015/talk/show/cbf6ea5a-11f5-11e5-b9ea-d7f07d574c3a",
-      "title": "エンジニアからプロダクトマネージャーに転身して分かった１０のこと",
-      "speaker_name": "shinjukujohnny",
-      "speaker_url": "https://twitter.com/shinjukujohnny",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/524693733069963265/nmA39bww_normal.jpeg",
-      "hatena": 6,
-      "twitter": 10,
       "total": 35
     },
     {
