@@ -1,5 +1,5 @@
 {
-  "date": 1434920447318,
+  "date": 1434924069430,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -19,7 +19,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/1041857?v=3",
       "hatena": 110,
       "twitter": 170,
-      "total": 629
+      "total": 628
     },
     {
       "path": "/2015/talk/show/9ec2791c-05e5-11e5-81fa-79c97d574c3a",
@@ -199,7 +199,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/1656455610/__________2011-11-25_12.16.30__normal.png",
       "hatena": 41,
       "twitter": 62,
-      "total": 232
+      "total": 231
     },
     {
       "path": "/2015/talk/show/bb82c8fc-12a3-11e5-962e-d9f87d574c3a",
@@ -592,6 +592,16 @@
       "total": 124
     },
     {
+      "path": "/2015/talk/show/cf39f7fc-ff44-11e4-9264-66c47d574c3a",
+      "title": "Podcastを支える技術、エンジニアのためのWebメディア、そしてCPAN",
+      "speaker_name": "Yusuke Wada",
+      "speaker_url": "https://www.facebook.com/631255029",
+      "speaker_icon": "http://graph.facebook.com/631255029/picture",
+      "hatena": 18,
+      "twitter": 39,
+      "total": 122
+    },
+    {
       "path": "/2015/talk/show/a636430c-0fbf-11e5-8a02-43ec7d574c3a",
       "title": "メリークリスマス！",
       "speaker_name": "Larry Wall",
@@ -600,16 +610,6 @@
       "hatena": 22,
       "twitter": 32,
       "total": 122
-    },
-    {
-      "path": "/2015/talk/show/cf39f7fc-ff44-11e4-9264-66c47d574c3a",
-      "title": "Podcastを支える技術、エンジニアのためのWebメディア、そしてCPAN",
-      "speaker_name": "Yusuke Wada",
-      "speaker_url": "https://www.facebook.com/631255029",
-      "speaker_icon": "http://graph.facebook.com/631255029/picture",
-      "hatena": 17,
-      "twitter": 39,
-      "total": 119
     },
     {
       "path": "/2015/talk/show/20a090d0-1113-11e5-bbd3-d7f07d574c3a",
@@ -939,7 +939,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000732873806/db63a0f75f9a217a875fa02d2ce34c04_normal.png",
       "hatena": 16,
       "twitter": 16,
-      "total": 76
+      "total": 75
     },
     {
       "path": "/2015/talk/show/46f6e730-0f14-11e5-ac41-43ec7d574c3a",
@@ -1269,7 +1269,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/10035?v=3",
       "hatena": 8,
       "twitter": 8,
-      "total": 38
+      "total": 37
     },
     {
       "path": "/2015/talk/show/81342dae-1351-11e5-ab94-d9f87d574c3a",
