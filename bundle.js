@@ -27,7 +27,7 @@
 
 },{}],2:[function(require,module,exports){
 module.exports={
-  "date": 1434866722722,
+  "date": 1434870344921,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -35,8 +35,8 @@ module.exports={
       "speaker_name": "趣味はマリンスポーツです",
       "speaker_url": "https://twitter.com/hitode909",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1753788808/sushi_r_normal.gif",
-      "hatena": 145,
       "twitter": 164,
+      "hatena": 145,
       "total": 722
     },
     {
@@ -147,7 +147,7 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000122330373/c9162e04e2a5fb779758cc4f0a13c2c0_normal.jpeg",
       "twitter": 80,
       "hatena": 45,
-      "total": 276
+      "total": 275
     },
     {
       "path": "/2015/talk/show/523b9508-0d77-11e5-8174-67dc7d574c3a",
@@ -735,8 +735,8 @@ module.exports={
       "speaker_name": "makamaka@どんぞこ楽屋",
       "speaker_url": "https://twitter.com/maka2_donzoko",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1094520798/icon2010_normal.png",
-      "hatena": 13,
       "twitter": 40,
+      "hatena": 13,
       "total": 109
     },
     {
@@ -1137,7 +1137,7 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000078453409/b6bfcd56abe9253d9e41f2e14bdd038f_normal.jpeg",
       "twitter": 17,
       "hatena": 8,
-      "total": 54
+      "total": 53
     },
     {
       "path": "/2015/talk/show/bd04b86c-f9de-11e4-b996-8ab37d574c3a",
@@ -1260,21 +1260,21 @@ module.exports={
       "total": 43
     },
     {
-      "path": "/2015/talk/show/0b669ad8-f616-11e4-90fb-8ab37d574c3a",
-      "title": "オープンソースエンジニアのための Windows入門",
-      "speaker_name": "tsubasa",
-      "speaker_url": "https://twitter.com/tsubasaxZZZ",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/560137093/2286227_3079062002_normal.jpg",
-      "twitter": 11,
-      "hatena": 7,
-      "total": 40
-    },
-    {
       "path": "/2015/talk/show/cbf6ea5a-11f5-11e5-b9ea-d7f07d574c3a",
       "title": "エンジニアからプロダクトマネージャーに転身して分かった１０のこと",
       "speaker_name": "shinjukujohnny",
       "speaker_url": "https://twitter.com/shinjukujohnny",
       "speaker_icon": "http://pbs.twimg.com/profile_images/524693733069963265/nmA39bww_normal.jpeg",
+      "twitter": 12,
+      "hatena": 7,
+      "total": 42
+    },
+    {
+      "path": "/2015/talk/show/0b669ad8-f616-11e4-90fb-8ab37d574c3a",
+      "title": "オープンソースエンジニアのための Windows入門",
+      "speaker_name": "tsubasa",
+      "speaker_url": "https://twitter.com/tsubasaxZZZ",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/560137093/2286227_3079062002_normal.jpg",
       "twitter": 11,
       "hatena": 7,
       "total": 40
@@ -1555,8 +1555,8 @@ module.exports={
       "speaker_name": "Kelsey Hightower",
       "speaker_url": "https://github.com/kelseyhightower",
       "speaker_icon": "https://avatars.githubusercontent.com/u/1123322?v=3",
-      "hatena": 2,
       "twitter": 9,
+      "hatena": 2,
       "total": 21
     },
     {
@@ -1595,8 +1595,8 @@ module.exports={
       "speaker_name": "Masayuki Ishikawa",
       "speaker_url": "https://www.facebook.com/100001054610433",
       "speaker_icon": "http://graph.facebook.com/100001054610433/picture",
-      "hatena": 2,
       "twitter": 7,
+      "hatena": 2,
       "total": 18
     },
     {
@@ -1605,8 +1605,8 @@ module.exports={
       "speaker_name": "鎌田武俊",
       "speaker_url": "https://www.facebook.com/1261488582",
       "speaker_icon": "http://graph.facebook.com/1261488582/picture",
-      "hatena": 2,
       "twitter": 7,
+      "hatena": 2,
       "total": 18
     },
     {
@@ -1665,8 +1665,8 @@ module.exports={
       "speaker_name": "Yusuke Kawasaki",
       "speaker_url": "https://www.facebook.com/731850967",
       "speaker_icon": "http://graph.facebook.com/731850967/picture",
-      "hatena": 4,
       "twitter": 1,
+      "hatena": 4,
       "total": 13
     },
     {
@@ -1705,8 +1705,8 @@ module.exports={
       "speaker_name": "tnir",
       "speaker_url": "https://github.com/tnir",
       "speaker_icon": "https://avatars.githubusercontent.com/u/10229505?v=3",
-      "hatena": 1,
       "twitter": 4,
+      "hatena": 1,
       "total": 10
     },
     {
@@ -1745,8 +1745,8 @@ module.exports={
       "speaker_name": "hirobanex",
       "speaker_url": "https://twitter.com/hirobanex",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1098249211/niku_normal.jpg",
-      "hatena": 2,
       "twitter": 2,
+      "hatena": 2,
       "total": 9
     },
     {
@@ -1955,8 +1955,8 @@ module.exports={
       "speaker_name": "Yuichi Suzuki",
       "speaker_url": "https://www.facebook.com/927473347309272",
       "speaker_icon": "http://graph.facebook.com/927473347309272/picture",
-      "hatena": 0,
       "twitter": 1,
+      "hatena": 0,
       "total": 1
     }
   ]
