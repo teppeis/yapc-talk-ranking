@@ -27,7 +27,7 @@
 
 },{}],2:[function(require,module,exports){
 module.exports={
-  "date": 1434927647280,
+  "date": 1434931637249,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -35,8 +35,8 @@ module.exports={
       "speaker_name": "趣味はマリンスポーツです",
       "speaker_url": "https://twitter.com/hitode909",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1753788808/sushi_r_normal.gif",
-      "hatena": 145,
       "twitter": 164,
+      "hatena": 145,
       "total": 722
     },
     {
@@ -45,8 +45,8 @@ module.exports={
       "speaker_name": "Atsuo Fukaya",
       "speaker_url": "https://github.com/fukayatsu",
       "speaker_icon": "https://avatars.githubusercontent.com/u/1041857?v=3",
-      "hatena": 110,
       "twitter": 170,
+      "hatena": 110,
       "total": 628
     },
     {
@@ -55,8 +55,8 @@ module.exports={
       "speaker_name": "aereal",
       "speaker_url": "https://github.com/aereal",
       "speaker_icon": "https://avatars.githubusercontent.com/u/87649?v=3",
-      "hatena": 107,
       "twitter": 140,
+      "hatena": 107,
       "total": 566
     },
     {
@@ -65,8 +65,8 @@ module.exports={
       "speaker_name": "Kenji Naito",
       "speaker_url": "https://github.com/kenjiskywalker",
       "speaker_icon": "https://avatars.githubusercontent.com/u/1315074?v=3",
-      "hatena": 69,
       "twitter": 124,
+      "hatena": 69,
       "total": 425
     },
     {
@@ -75,8 +75,8 @@ module.exports={
       "speaker_name": "Masahiro Nagano",
       "speaker_url": "https://github.com/kazeburo",
       "speaker_icon": "https://avatars.githubusercontent.com/u/46764?v=3",
-      "hatena": 64,
       "twitter": 123,
+      "hatena": 64,
       "total": 408
     },
     {
@@ -85,8 +85,8 @@ module.exports={
       "speaker_name": "Kazunori Sato",
       "speaker_url": "https://github.com/kazunori279",
       "speaker_icon": "https://avatars.githubusercontent.com/u/1623040?v=3",
-      "hatena": 59,
       "twitter": 118,
+      "hatena": 59,
       "total": 384
     },
     {
@@ -95,8 +95,8 @@ module.exports={
       "speaker_name": "Naoya Ito",
       "speaker_url": "https://github.com/naoya",
       "speaker_icon": "https://avatars.githubusercontent.com/u/8991?v=3",
-      "hatena": 77,
       "twitter": 69,
+      "hatena": 77,
       "total": 351
     },
     {
@@ -105,8 +105,8 @@ module.exports={
       "speaker_name": "fujiwara",
       "speaker_url": "https://twitter.com/fujiwara",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1295745651/fujiwara-icon-s_normal.png",
-      "hatena": 60,
       "twitter": 84,
+      "hatena": 60,
       "total": 327
     },
     {
@@ -115,8 +115,8 @@ module.exports={
       "speaker_name": "Kazuhiro Homma",
       "speaker_url": "https://github.com/kazuph",
       "speaker_icon": "https://avatars.githubusercontent.com/u/849165?v=3",
-      "hatena": 51,
       "twitter": 97,
+      "hatena": 51,
       "total": 323
     },
     {
@@ -125,8 +125,8 @@ module.exports={
       "speaker_name": "Dan Kogai",
       "speaker_url": "https://twitter.com/dankogai",
       "speaker_icon": "http://pbs.twimg.com/profile_images/419164963416985600/QtvOEPl5_normal.jpeg",
-      "hatena": 48,
       "twitter": 95,
+      "hatena": 48,
       "total": 311
     },
     {
@@ -135,8 +135,8 @@ module.exports={
       "speaker_name": "SHIBATA Hiroshi",
       "speaker_url": "https://github.com/hsbt",
       "speaker_icon": "https://avatars.githubusercontent.com/u/12301?v=3",
-      "hatena": 55,
       "twitter": 64,
+      "hatena": 55,
       "total": 277
     },
     {
@@ -145,8 +145,8 @@ module.exports={
       "speaker_name": "うずら",
       "speaker_url": "https://twitter.com/uzulla",
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000122330373/c9162e04e2a5fb779758cc4f0a13c2c0_normal.jpeg",
-      "hatena": 45,
       "twitter": 80,
+      "hatena": 45,
       "total": 275
     },
     {
@@ -155,8 +155,8 @@ module.exports={
       "speaker_name": "karupanerura",
       "speaker_url": "https://github.com/karupanerura",
       "speaker_icon": "https://avatars.githubusercontent.com/u/374550?v=3",
-      "hatena": 55,
       "twitter": 60,
+      "hatena": 55,
       "total": 270
     },
     {
@@ -165,8 +165,8 @@ module.exports={
       "speaker_name": "Atom（アトム）",
       "speaker_url": "https://twitter.com/FromAtom",
       "speaker_icon": "http://pbs.twimg.com/profile_images/587446491523854336/PZI2lpPm_normal.jpg",
-      "hatena": 47,
       "twitter": 72,
+      "hatena": 47,
       "total": 267
     },
     {
@@ -175,8 +175,8 @@ module.exports={
       "speaker_name": "yuuki",
       "speaker_url": "https://twitter.com/y_uuk1",
       "speaker_icon": "http://pbs.twimg.com/profile_images/3279630066/5fec6321a3aca8de271ccb3fae606d2a_normal.png",
-      "hatena": 52,
       "twitter": 63,
+      "hatena": 52,
       "total": 266
     },
     {
@@ -185,8 +185,8 @@ module.exports={
       "speaker_name": "Yusuke Wada",
       "speaker_url": "https://www.facebook.com/631255029",
       "speaker_icon": "http://graph.facebook.com/631255029/picture",
-      "hatena": 34,
       "twitter": 89,
+      "hatena": 34,
       "total": 259
     },
     {
@@ -195,8 +195,8 @@ module.exports={
       "speaker_name": "Naotoshi Seo",
       "speaker_url": "https://github.com/sonots",
       "speaker_icon": "https://avatars.githubusercontent.com/u/2290461?v=3",
-      "hatena": 51,
       "twitter": 58,
+      "hatena": 51,
       "total": 254
     },
     {
@@ -205,8 +205,8 @@ module.exports={
       "speaker_name": "songmu",
       "speaker_url": "https://twitter.com/songmu",
       "speaker_icon": "http://pbs.twimg.com/profile_images/538947384420483072/5WmJP-fh_normal.jpeg",
-      "hatena": 45,
       "twitter": 65,
+      "hatena": 45,
       "total": 249
     },
     {
@@ -215,8 +215,8 @@ module.exports={
       "speaker_name": "Tatsuro Hisamori",
       "speaker_url": "https://www.facebook.com/100000459480102",
       "speaker_icon": "http://graph.facebook.com/100000459480102/picture",
-      "hatena": 36,
       "twitter": 77,
+      "hatena": 36,
       "total": 243
     },
     {
@@ -225,8 +225,8 @@ module.exports={
       "speaker_name": "Kazuho Oku",
       "speaker_url": "https://twitter.com/kazuho",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1656455610/__________2011-11-25_12.16.30__normal.png",
-      "hatena": 41,
       "twitter": 62,
+      "hatena": 41,
       "total": 231
     },
     {
@@ -235,8 +235,8 @@ module.exports={
       "speaker_name": "moznion",
       "speaker_url": "https://github.com/moznion",
       "speaker_icon": "https://avatars.githubusercontent.com/u/1422834?v=3",
-      "hatena": 39,
       "twitter": 64,
+      "hatena": 39,
       "total": 229
     },
     {
@@ -245,8 +245,8 @@ module.exports={
       "speaker_name": "Yuichiro SAITO",
       "speaker_url": "https://twitter.com/koemu",
       "speaker_icon": "http://pbs.twimg.com/profile_images/3685820543/1e8215b4268fef1d97891e3d61b7b361_normal.png",
-      "hatena": 38,
       "twitter": 65,
+      "hatena": 38,
       "total": 228
     },
     {
@@ -255,8 +255,8 @@ module.exports={
       "speaker_name": "Yosuke FURUKAWA",
       "speaker_url": "https://twitter.com/yosuke_furukawa",
       "speaker_icon": "http://pbs.twimg.com/profile_images/206948941/wall-e_normal.jpg",
-      "hatena": 38,
       "twitter": 63,
+      "hatena": 38,
       "total": 224
     },
     {
@@ -265,8 +265,8 @@ module.exports={
       "speaker_name": "Shinji Tanaka",
       "speaker_url": "https://github.com/stanaka",
       "speaker_icon": "https://avatars.githubusercontent.com/u/10042?v=3",
-      "hatena": 46,
       "twitter": 48,
+      "hatena": 46,
       "total": 222
     },
     {
@@ -275,8 +275,8 @@ module.exports={
       "speaker_name": "Teppei Sato",
       "speaker_url": "https://github.com/teppeis",
       "speaker_icon": "https://avatars.githubusercontent.com/u/26476?v=3",
-      "hatena": 28,
       "twitter": 77,
+      "hatena": 28,
       "total": 219
     },
     {
@@ -285,8 +285,8 @@ module.exports={
       "speaker_name": "mala",
       "speaker_url": "https://github.com/mala",
       "speaker_icon": "https://avatars.githubusercontent.com/u/51196?v=3",
-      "hatena": 40,
       "twitter": 55,
+      "hatena": 40,
       "total": 216
     },
     {
@@ -295,8 +295,8 @@ module.exports={
       "speaker_name": "Uchio KONDO",
       "speaker_url": "https://twitter.com/udzura",
       "speaker_icon": "http://pbs.twimg.com/profile_images/541797238473625600/pi2i_yLc_normal.jpeg",
-      "hatena": 38,
       "twitter": 53,
+      "hatena": 38,
       "total": 207
     },
     {
@@ -305,8 +305,8 @@ module.exports={
       "speaker_name": "makamaka@どんぞこ楽屋",
       "speaker_url": "https://twitter.com/maka2_donzoko",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1094520798/icon2010_normal.png",
-      "hatena": 34,
       "twitter": 55,
+      "hatena": 34,
       "total": 198
     },
     {
@@ -315,8 +315,8 @@ module.exports={
       "speaker_name": "Masahiro Nakagawa",
       "speaker_url": "https://github.com/repeatedly",
       "speaker_icon": "https://avatars.githubusercontent.com/u/16928?v=3",
-      "hatena": 29,
       "twitter": 59,
+      "hatena": 29,
       "total": 190
     },
     {
@@ -325,8 +325,8 @@ module.exports={
       "speaker_name": "こんぼい。",
       "speaker_url": "https://twitter.com/Konboi",
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000795654240/88bfe7df3471f3264c38ad407ce020e0_normal.png",
-      "hatena": 36,
       "twitter": 45,
+      "hatena": 36,
       "total": 186
     },
     {
@@ -335,8 +335,8 @@ module.exports={
       "speaker_name": "kuroda",
       "speaker_url": "https://twitter.com/lamanotrama",
       "speaker_icon": "http://pbs.twimg.com/profile_images/3422978396/f4d40662ca0c078b9087a50985350269_normal.jpeg",
-      "hatena": 30,
       "twitter": 54,
+      "hatena": 30,
       "total": 185
     },
     {
@@ -345,8 +345,8 @@ module.exports={
       "speaker_name": "tagomoris",
       "speaker_url": "https://twitter.com/tagomoris",
       "speaker_icon": "http://pbs.twimg.com/profile_images/525991223060746241/_ORoKYuX_normal.png",
-      "hatena": 30,
       "twitter": 52,
+      "hatena": 30,
       "total": 181
     },
     {
@@ -355,8 +355,8 @@ module.exports={
       "speaker_name": "Tatsuya Arai",
       "speaker_url": "https://twitter.com/cutmail",
       "speaker_icon": "http://pbs.twimg.com/profile_images/565897212085800963/VhOCE-By_normal.jpeg",
-      "hatena": 35,
       "twitter": 43,
+      "hatena": 35,
       "total": 180
     },
     {
@@ -365,8 +365,8 @@ module.exports={
       "speaker_name": "Ryuta Kamizono",
       "speaker_url": "https://twitter.com/kamipo",
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000433176090/1178e800687095ff11c540ddead1f4ff_normal.png",
-      "hatena": 28,
       "twitter": 54,
+      "hatena": 28,
       "total": 179
     },
     {
@@ -375,8 +375,8 @@ module.exports={
       "speaker_name": "chezou",
       "speaker_url": "https://twitter.com/chezou",
       "speaker_icon": "http://pbs.twimg.com/profile_images/3512660657/c7724f0f2022e87c568dec7af95909a6_normal.jpeg",
-      "hatena": 31,
       "twitter": 49,
+      "hatena": 31,
       "total": 179
     },
     {
@@ -385,8 +385,8 @@ module.exports={
       "speaker_name": "yoku0825",
       "speaker_url": "https://twitter.com/yoku0825",
       "speaker_icon": "http://pbs.twimg.com/profile_images/3445683412/bdbf36104036584029165edc231d6bc3_normal.jpeg",
-      "hatena": 29,
       "twitter": 49,
+      "hatena": 29,
       "total": 173
     },
     {
@@ -395,8 +395,8 @@ module.exports={
       "speaker_name": "Satoshi Ohkubo",
       "speaker_url": "https://www.facebook.com/1121132103",
       "speaker_icon": "http://graph.facebook.com/1121132103/picture",
-      "hatena": 28,
       "twitter": 51,
+      "hatena": 28,
       "total": 173
     },
     {
@@ -405,8 +405,8 @@ module.exports={
       "speaker_name": "あらたま",
       "speaker_url": "https://twitter.com/ar_tama",
       "speaker_icon": "http://pbs.twimg.com/profile_images/510471574445510658/GKytGPut_normal.jpeg",
-      "hatena": 27,
       "twitter": 52,
+      "hatena": 27,
       "total": 172
     },
     {
@@ -415,8 +415,8 @@ module.exports={
       "speaker_name": "Masashi Terui",
       "speaker_url": "https://github.com/marcy-terui",
       "speaker_icon": "https://avatars.githubusercontent.com/u/4560264?v=3",
-      "hatena": 32,
       "twitter": 42,
+      "hatena": 32,
       "total": 169
     },
     {
@@ -425,8 +425,8 @@ module.exports={
       "speaker_name": "macopy",
       "speaker_url": "https://twitter.com/mackee_w",
       "speaker_icon": "http://pbs.twimg.com/profile_images/419456734264954880/FYDksW9H_normal.jpeg",
-      "hatena": 27,
       "twitter": 47,
+      "hatena": 27,
       "total": 163
     },
     {
@@ -435,8 +435,8 @@ module.exports={
       "speaker_name": "Toru Kobayashi",
       "speaker_url": "https://github.com/koba04",
       "speaker_icon": "https://avatars.githubusercontent.com/u/250407?v=3",
-      "hatena": 27,
       "twitter": 46,
+      "hatena": 27,
       "total": 161
     },
     {
@@ -445,8 +445,8 @@ module.exports={
       "speaker_name": "Daisuke Murase",
       "speaker_url": "https://github.com/typester",
       "speaker_icon": "https://avatars.githubusercontent.com/u/3420?v=3",
-      "hatena": 26,
       "twitter": 47,
+      "hatena": 26,
       "total": 160
     },
     {
@@ -455,8 +455,8 @@ module.exports={
       "speaker_name": "Masaru Hoshino",
       "speaker_url": "https://github.com/masartz",
       "speaker_icon": "https://avatars.githubusercontent.com/u/49303?v=3",
-      "hatena": 27,
       "twitter": 43,
+      "hatena": 27,
       "total": 156
     },
     {
@@ -465,8 +465,8 @@ module.exports={
       "speaker_name": "栗栖義臣",
       "speaker_url": "https://twitter.com/chris4403",
       "speaker_icon": "http://pbs.twimg.com/profile_images/495102627399479297/xWshlRMW_normal.jpeg",
-      "hatena": 27,
       "twitter": 41,
+      "hatena": 27,
       "total": 153
     },
     {
@@ -475,8 +475,8 @@ module.exports={
       "speaker_name": "きいあむ / YASUTAKE K.",
       "speaker_url": "https://twitter.com/key_amb",
       "speaker_icon": "http://pbs.twimg.com/profile_images/604586076024340480/EIbpIzsF_normal.jpg",
-      "hatena": 25,
       "twitter": 44,
+      "hatena": 25,
       "total": 152
     },
     {
@@ -485,8 +485,8 @@ module.exports={
       "speaker_name": "cakephper",
       "speaker_url": "https://twitter.com/cakephper",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1121974486/ichikaway_jp3_normal.jpg",
-      "hatena": 24,
       "twitter": 44,
+      "hatena": 24,
       "total": 149
     },
     {
@@ -495,8 +495,8 @@ module.exports={
       "speaker_name": "Masanori KOGA",
       "speaker_url": "https://twitter.com/makoga",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1214405156/koga300dpi_normal.jpg",
-      "hatena": 18,
       "twitter": 52,
+      "hatena": 18,
       "total": 145
     },
     {
@@ -505,8 +505,8 @@ module.exports={
       "speaker_name": "Shinpei Maruyama",
       "speaker_url": "https://github.com/Shinpeim",
       "speaker_icon": "https://avatars.githubusercontent.com/u/876988?v=3",
-      "hatena": 32,
       "twitter": 28,
+      "hatena": 32,
       "total": 144
     },
     {
@@ -515,8 +515,8 @@ module.exports={
       "speaker_name": "Jxck",
       "speaker_url": "https://github.com/Jxck",
       "speaker_icon": "https://avatars.githubusercontent.com/u/322289?v=3",
-      "hatena": 26,
       "twitter": 34,
+      "hatena": 26,
       "total": 137
     },
     {
@@ -525,8 +525,8 @@ module.exports={
       "speaker_name": "みそ ｼﾞﾝｼﾞﾆｱ",
       "speaker_url": "https://twitter.com/crazygirl_lover",
       "speaker_icon": "http://pbs.twimg.com/profile_images/599568269507342336/jb_Rk7sX_normal.jpg",
-      "hatena": 23,
       "twitter": 39,
+      "hatena": 23,
       "total": 137
     },
     {
@@ -535,8 +535,8 @@ module.exports={
       "speaker_name": "松本 勇気",
       "speaker_url": "https://twitter.com/y_matsuwitter",
       "speaker_icon": "http://pbs.twimg.com/profile_images/3290639266/a767076172e2d30e41963b41e27c9beb_normal.jpeg",
-      "hatena": 17,
       "twitter": 47,
+      "hatena": 17,
       "total": 133
     },
     {
@@ -545,8 +545,8 @@ module.exports={
       "speaker_name": "Kazuhiro Osawa",
       "speaker_url": "https://github.com/yappo",
       "speaker_icon": "https://avatars.githubusercontent.com/u/9958?v=3",
-      "hatena": 23,
       "twitter": 35,
+      "hatena": 23,
       "total": 130
     },
     {
@@ -555,8 +555,8 @@ module.exports={
       "speaker_name": "cho45",
       "speaker_url": "https://github.com/cho45",
       "speaker_icon": "https://avatars.githubusercontent.com/u/3092?v=3",
-      "hatena": 24,
       "twitter": 33,
+      "hatena": 24,
       "total": 129
     },
     {
@@ -565,8 +565,8 @@ module.exports={
       "speaker_name": "ダメレオン",
       "speaker_url": "https://twitter.com/damele0n",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1323645880/Icon-rainbow_reasonably_small_normal.jpeg",
-      "hatena": 22,
       "twitter": 36,
+      "hatena": 22,
       "total": 129
     },
     {
@@ -575,8 +575,8 @@ module.exports={
       "speaker_name": "Masashi Shinbara",
       "speaker_url": "https://twitter.com/shin1x1",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1118038428/be5c756e-ae2f-49b6-8c7b-bd8508b6dc93_normal.png",
-      "hatena": 24,
       "twitter": 32,
+      "hatena": 24,
       "total": 128
     },
     {
@@ -585,8 +585,8 @@ module.exports={
       "speaker_name": "Wataru MIYAGUNI",
       "speaker_url": "https://github.com/gongo",
       "speaker_icon": "https://avatars.githubusercontent.com/u/124713?v=3",
-      "hatena": 12,
       "twitter": 51,
+      "hatena": 12,
       "total": 126
     },
     {
@@ -595,8 +595,8 @@ module.exports={
       "speaker_name": "papix",
       "speaker_url": "https://twitter.com/__papix__",
       "speaker_icon": "http://pbs.twimg.com/profile_images/596297145994481664/KWANlRTk_normal.png",
-      "hatena": 25,
       "twitter": 29,
+      "hatena": 25,
       "total": 125
     },
     {
@@ -605,8 +605,8 @@ module.exports={
       "speaker_name": "Tatsuhiko Kubo",
       "speaker_url": "https://github.com/cubicdaiya",
       "speaker_icon": "https://avatars.githubusercontent.com/u/56752?v=3",
-      "hatena": 27,
       "twitter": 25,
+      "hatena": 27,
       "total": 124
     },
     {
@@ -615,8 +615,8 @@ module.exports={
       "speaker_name": "Shoichi Kaji",
       "speaker_url": "https://github.com/shoichikaji",
       "speaker_icon": "https://avatars.githubusercontent.com/u/1589550?v=3",
-      "hatena": 22,
       "twitter": 33,
+      "hatena": 22,
       "total": 124
     },
     {
@@ -625,8 +625,8 @@ module.exports={
       "speaker_name": "Yusuke Wada",
       "speaker_url": "https://www.facebook.com/631255029",
       "speaker_icon": "http://graph.facebook.com/631255029/picture",
-      "hatena": 18,
       "twitter": 39,
+      "hatena": 18,
       "total": 122
     },
     {
@@ -645,8 +645,8 @@ module.exports={
       "speaker_name": "Makoto Shiga",
       "speaker_url": "https://github.com/MacoTasu",
       "speaker_icon": "https://avatars.githubusercontent.com/u/1475923?v=3",
-      "hatena": 22,
       "twitter": 30,
+      "hatena": 22,
       "total": 118
     },
     {
@@ -655,8 +655,8 @@ module.exports={
       "speaker_name": "Toshiaki Koshiba",
       "speaker_url": "https://github.com/bash0C7",
       "speaker_icon": "https://avatars.githubusercontent.com/u/137741?v=3",
-      "hatena": 16,
       "twitter": 40,
+      "hatena": 16,
       "total": 118
     },
     {
@@ -665,8 +665,8 @@ module.exports={
       "speaker_name": "skozawa",
       "speaker_url": "https://twitter.com/5kozawa",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1711030185/header_title_normal.jpg",
-      "hatena": 18,
       "twitter": 36,
+      "hatena": 18,
       "total": 117
     },
     {
@@ -675,8 +675,8 @@ module.exports={
       "speaker_name": "Yuta Kurotaki",
       "speaker_url": "https://github.com/kurotaky",
       "speaker_icon": "https://avatars.githubusercontent.com/u/866589?v=3",
-      "hatena": 19,
       "twitter": 33,
+      "hatena": 19,
       "total": 115
     },
     {
@@ -685,8 +685,8 @@ module.exports={
       "speaker_name": "Akira Sakamoto",
       "speaker_url": "https://www.facebook.com/929494707114841",
       "speaker_icon": "http://graph.facebook.com/929494707114841/picture",
-      "hatena": 19,
       "twitter": 33,
+      "hatena": 19,
       "total": 115
     },
     {
@@ -695,8 +695,8 @@ module.exports={
       "speaker_name": "Rich Mikan",
       "speaker_url": "https://github.com/richmikan",
       "speaker_icon": "https://avatars.githubusercontent.com/u/1249622?v=3",
-      "hatena": 22,
       "twitter": 27,
+      "hatena": 22,
       "total": 113
     },
     {
@@ -705,8 +705,8 @@ module.exports={
       "speaker_name": "さいけん",
       "speaker_url": "https://twitter.com/saiken3110",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1205361823/img_791544_45327987_0_normal.jpg",
-      "hatena": 18,
       "twitter": 34,
+      "hatena": 18,
       "total": 113
     },
     {
@@ -715,8 +715,8 @@ module.exports={
       "speaker_name": "SUZUKI Masashi",
       "speaker_url": "https://github.com/masasuzu",
       "speaker_icon": "https://avatars.githubusercontent.com/u/271100?v=3",
-      "hatena": 16,
       "twitter": 37,
+      "hatena": 16,
       "total": 113
     },
     {
@@ -725,8 +725,8 @@ module.exports={
       "speaker_name": "Kensuke Nagae",
       "speaker_url": "https://www.facebook.com/543316027",
       "speaker_icon": "http://graph.facebook.com/543316027/picture",
-      "hatena": 19,
       "twitter": 32,
+      "hatena": 19,
       "total": 113
     },
     {
@@ -745,8 +745,8 @@ module.exports={
       "speaker_name": "大西康裕",
       "speaker_url": "https://twitter.com/yasuhiro_onishi",
       "speaker_icon": "http://pbs.twimg.com/profile_images/583440287269171200/LfL9vF2I_normal.jpg",
-      "hatena": 21,
       "twitter": 25,
+      "hatena": 21,
       "total": 106
     },
     {
@@ -755,8 +755,8 @@ module.exports={
       "speaker_name": "Hideaki Nagamine",
       "speaker_url": "https://github.com/1995hnagamin",
       "speaker_icon": "https://avatars.githubusercontent.com/u/7394250?v=3",
-      "hatena": 12,
       "twitter": 38,
+      "hatena": 12,
       "total": 103
     },
     {
@@ -765,8 +765,8 @@ module.exports={
       "speaker_name": "Taichi Nakashima ☕️",
       "speaker_url": "https://twitter.com/deeeet",
       "speaker_icon": "http://pbs.twimg.com/profile_images/2622062878/idqr0s42fhsfc74wa7c5_normal.jpeg",
-      "hatena": 13,
       "twitter": 36,
+      "hatena": 13,
       "total": 102
     },
     {
@@ -775,8 +775,8 @@ module.exports={
       "speaker_name": "Yoshikazu Fukushima",
       "speaker_url": "https://www.facebook.com/10206549291592204",
       "speaker_icon": "http://graph.facebook.com/10206549291592204/picture",
-      "hatena": 18,
       "twitter": 27,
+      "hatena": 18,
       "total": 101
     },
     {
@@ -785,8 +785,8 @@ module.exports={
       "speaker_name": "Ben Ogle",
       "speaker_url": "https://github.com/benogle",
       "speaker_icon": "https://avatars.githubusercontent.com/u/69169?v=3",
-      "hatena": 14,
       "twitter": 33,
+      "hatena": 14,
       "total": 100
     },
     {
@@ -795,8 +795,8 @@ module.exports={
       "speaker_name": "DQNEO",
       "speaker_url": "https://twitter.com/DQNEO",
       "speaker_icon": "http://pbs.twimg.com/profile_images/582905163389632513/unVsV-wC_normal.jpg",
-      "hatena": 18,
       "twitter": 26,
+      "hatena": 18,
       "total": 99
     },
     {
@@ -805,8 +805,8 @@ module.exports={
       "speaker_name": "mosa",
       "speaker_url": "https://twitter.com/mosa_siru",
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000214753541/b3fdd930163a330b670a45b483606574_normal.jpeg",
-      "hatena": 15,
       "twitter": 31,
+      "hatena": 15,
       "total": 99
     },
     {
@@ -815,8 +815,8 @@ module.exports={
       "speaker_name": "Takashi Kokubun",
       "speaker_url": "https://github.com/k0kubun",
       "speaker_icon": "https://avatars.githubusercontent.com/u/3138447?v=3",
-      "hatena": 16,
       "twitter": 28,
+      "hatena": 16,
       "total": 97
     },
     {
@@ -825,8 +825,8 @@ module.exports={
       "speaker_name": "sugamasao",
       "speaker_url": "https://twitter.com/sugamasao",
       "speaker_icon": "http://pbs.twimg.com/profile_images/2854513767/53b25ddfd63d65633347aa82df323c5c_normal.png",
-      "hatena": 10,
       "twitter": 37,
+      "hatena": 10,
       "total": 95
     },
     {
@@ -835,8 +835,8 @@ module.exports={
       "speaker_name": "DQNEO",
       "speaker_url": "https://twitter.com/DQNEO",
       "speaker_icon": "http://pbs.twimg.com/profile_images/582905163389632513/unVsV-wC_normal.jpg",
-      "hatena": 21,
       "twitter": 18,
+      "hatena": 21,
       "total": 94
     },
     {
@@ -845,8 +845,8 @@ module.exports={
       "speaker_name": "Jiro Nishiguchi",
       "speaker_url": "https://github.com/spiritloose",
       "speaker_icon": "https://avatars.githubusercontent.com/u/13047?v=3",
-      "hatena": 16,
       "twitter": 26,
+      "hatena": 16,
       "total": 93
     },
     {
@@ -855,8 +855,8 @@ module.exports={
       "speaker_name": "ほと",
       "speaker_url": "https://twitter.com/hoto17296",
       "speaker_icon": "http://pbs.twimg.com/profile_images/574083036834197507/yeKZlpd4_normal.png",
-      "hatena": 13,
       "twitter": 30,
+      "hatena": 13,
       "total": 91
     },
     {
@@ -865,8 +865,8 @@ module.exports={
       "speaker_name": "yancya",
       "speaker_url": "https://twitter.com/yancya",
       "speaker_icon": "http://pbs.twimg.com/profile_images/449541105894174721/Tmgr9zRN_normal.jpeg",
-      "hatena": 16,
       "twitter": 25,
+      "hatena": 16,
       "total": 91
     },
     {
@@ -875,8 +875,8 @@ module.exports={
       "speaker_name": "Shota Kubota",
       "speaker_url": "https://twitter.com/kubosho_",
       "speaker_icon": "http://pbs.twimg.com/profile_images/501586383790563328/rwTNO_Cj_normal.jpeg",
-      "hatena": 6,
       "twitter": 41,
+      "hatena": 6,
       "total": 90
     },
     {
@@ -885,8 +885,8 @@ module.exports={
       "speaker_name": "Ricardo Signes",
       "speaker_url": "https://github.com/rjbs",
       "speaker_icon": "https://avatars.githubusercontent.com/u/30682?v=3",
-      "hatena": 12,
       "twitter": 29,
+      "hatena": 12,
       "total": 87
     },
     {
@@ -895,8 +895,8 @@ module.exports={
       "speaker_name": "Hiroaki Kadomatsu",
       "speaker_url": "https://www.facebook.com/711852115",
       "speaker_icon": "http://graph.facebook.com/711852115/picture",
-      "hatena": 15,
       "twitter": 22,
+      "hatena": 15,
       "total": 83
     },
     {
@@ -905,8 +905,8 @@ module.exports={
       "speaker_name": "songmu",
       "speaker_url": "https://twitter.com/songmu",
       "speaker_icon": "http://pbs.twimg.com/profile_images/538947384420483072/5WmJP-fh_normal.jpeg",
-      "hatena": 13,
       "twitter": 25,
+      "hatena": 13,
       "total": 83
     },
     {
@@ -915,8 +915,8 @@ module.exports={
       "speaker_name": "Casey West",
       "speaker_url": "https://github.com/cwest",
       "speaker_icon": "https://avatars.githubusercontent.com/u/54422?v=3",
-      "hatena": 11,
       "twitter": 28,
+      "hatena": 11,
       "total": 82
     },
     {
@@ -925,8 +925,8 @@ module.exports={
       "speaker_name": "Yohei Yasukawa",
       "speaker_url": "https://twitter.com/yasulab",
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000445530232/35d0d14c355a5d926fe42f4c5d3ab91b_normal.png",
-      "hatena": 9,
       "twitter": 31,
+      "hatena": 9,
       "total": 81
     },
     {
@@ -935,8 +935,8 @@ module.exports={
       "speaker_name": "yuku takahashi",
       "speaker_url": "https://twitter.com/yuku_t",
       "speaker_icon": "http://pbs.twimg.com/profile_images/593648937413685248/81DdisOn_normal.png",
-      "hatena": 17,
       "twitter": 17,
+      "hatena": 17,
       "total": 80
     },
     {
@@ -945,8 +945,8 @@ module.exports={
       "speaker_name": "Shinichiro Aska",
       "speaker_url": "https://github.com/s-aska",
       "speaker_icon": "https://avatars.githubusercontent.com/u/140584?v=3",
-      "hatena": 11,
       "twitter": 27,
+      "hatena": 11,
       "total": 80
     },
     {
@@ -955,8 +955,8 @@ module.exports={
       "speaker_name": "soh335",
       "speaker_url": "https://github.com/soh335",
       "speaker_icon": "https://avatars.githubusercontent.com/u/31937?v=3",
-      "hatena": 15,
       "twitter": 19,
+      "hatena": 15,
       "total": 78
     },
     {
@@ -965,8 +965,8 @@ module.exports={
       "speaker_name": "tkuchiki",
       "speaker_url": "https://twitter.com/tkuchiki",
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000732873806/db63a0f75f9a217a875fa02d2ce34c04_normal.png",
-      "hatena": 16,
       "twitter": 16,
+      "hatena": 16,
       "total": 75
     },
     {
@@ -975,8 +975,8 @@ module.exports={
       "speaker_name": "Masahiro Honma",
       "speaker_url": "https://github.com/hiratara",
       "speaker_icon": "https://avatars.githubusercontent.com/u/45287?v=3",
-      "hatena": 14,
       "twitter": 19,
+      "hatena": 14,
       "total": 75
     },
     {
@@ -985,8 +985,8 @@ module.exports={
       "speaker_name": "Tokuhiro Matsuno",
       "speaker_url": "https://github.com/tokuhirom",
       "speaker_icon": "https://avatars.githubusercontent.com/u/21084?v=3",
-      "hatena": 15,
       "twitter": 16,
+      "hatena": 15,
       "total": 73
     },
     {
@@ -995,8 +995,8 @@ module.exports={
       "speaker_name": "papix",
       "speaker_url": "https://twitter.com/__papix__",
       "speaker_icon": "http://pbs.twimg.com/profile_images/596297145994481664/KWANlRTk_normal.png",
-      "hatena": 14,
       "twitter": 18,
+      "hatena": 14,
       "total": 73
     },
     {
@@ -1005,8 +1005,8 @@ module.exports={
       "speaker_name": "Nathan LeClaire",
       "speaker_url": "https://twitter.com/upthecyberpunks",
       "speaker_icon": "http://pbs.twimg.com/profile_images/583855288354078720/NihdVx9o_normal.jpg",
-      "hatena": 12,
       "twitter": 19,
+      "hatena": 12,
       "total": 69
     },
     {
@@ -1015,8 +1015,8 @@ module.exports={
       "speaker_name": "ぱんつの本質",
       "speaker_url": "https://twitter.com/jigyakkuma_",
       "speaker_icon": "http://pbs.twimg.com/profile_images/599475415766302720/IrXs2kkC_normal.png",
-      "hatena": 11,
       "twitter": 20,
+      "hatena": 11,
       "total": 68
     },
     {
@@ -1025,8 +1025,8 @@ module.exports={
       "speaker_name": "Marylou Lenhart",
       "speaker_url": "https://github.com/melancholyfleur",
       "speaker_icon": "https://avatars.githubusercontent.com/u/38176?v=3",
-      "hatena": 7,
       "twitter": 25,
+      "hatena": 7,
       "total": 65
     },
     {
@@ -1035,8 +1035,8 @@ module.exports={
       "speaker_name": "Daijiro Wachi",
       "speaker_url": "https://github.com/watilde",
       "speaker_icon": "https://avatars.githubusercontent.com/u/1716463?v=3",
-      "hatena": 9,
       "twitter": 22,
+      "hatena": 9,
       "total": 65
     },
     {
@@ -1045,8 +1045,8 @@ module.exports={
       "speaker_name": "Satoshi.S",
       "speaker_url": "https://twitter.com/studio3104",
       "speaker_icon": "http://pbs.twimg.com/profile_images/520265668403294211/JxYDX9-P_normal.jpeg",
-      "hatena": 6,
       "twitter": 27,
+      "hatena": 6,
       "total": 65
     },
     {
@@ -1055,8 +1055,8 @@ module.exports={
       "speaker_name": "Toshinori Sato",
       "speaker_url": "https://github.com/overlast",
       "speaker_icon": "https://avatars.githubusercontent.com/u/335646?v=3",
-      "hatena": 10,
       "twitter": 19,
+      "hatena": 10,
       "total": 63
     },
     {
@@ -1065,8 +1065,8 @@ module.exports={
       "speaker_name": "shogo82148",
       "speaker_url": "https://github.com/shogo82148",
       "speaker_icon": "https://avatars.githubusercontent.com/u/1157344?v=3",
-      "hatena": 10,
       "twitter": 19,
+      "hatena": 10,
       "total": 63
     },
     {
@@ -1075,8 +1075,8 @@ module.exports={
       "speaker_name": "Koichi Sasada",
       "speaker_url": "https://github.com/ko1",
       "speaker_icon": "https://avatars.githubusercontent.com/u/9558?v=3",
-      "hatena": 10,
       "twitter": 18,
+      "hatena": 10,
       "total": 61
     },
     {
@@ -1085,8 +1085,8 @@ module.exports={
       "speaker_name": "Masataka Kono",
       "speaker_url": "https://www.facebook.com/840773865999476",
       "speaker_icon": "http://graph.facebook.com/840773865999476/picture",
-      "hatena": 11,
       "twitter": 16,
+      "hatena": 11,
       "total": 61
     },
     {
@@ -1095,8 +1095,8 @@ module.exports={
       "speaker_name": "YU",
       "speaker_url": "https://twitter.com/yu_loveperl",
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000524225252/d0e315a0cb8d122aed39787db95cf0d4_normal.jpeg",
-      "hatena": 6,
       "twitter": 23,
+      "hatena": 6,
       "total": 58
     },
     {
@@ -1105,8 +1105,8 @@ module.exports={
       "speaker_name": "ダメ人間",
       "speaker_url": "https://twitter.com/dameninngenn",
       "speaker_icon": "http://pbs.twimg.com/profile_images/2700412500/9d84ff30d1cb4fd7ceb67411046ccfbe_normal.jpeg",
-      "hatena": 9,
       "twitter": 18,
+      "hatena": 9,
       "total": 58
     },
     {
@@ -1115,8 +1115,8 @@ module.exports={
       "speaker_name": "鹿",
       "speaker_url": "https://twitter.com/shikakun",
       "speaker_icon": "http://pbs.twimg.com/profile_images/417686994882269184/b1gqecsG_normal.jpeg",
-      "hatena": 11,
       "twitter": 13,
+      "hatena": 11,
       "total": 55
     },
     {
@@ -1125,8 +1125,8 @@ module.exports={
       "speaker_name": "かとりょー",
       "speaker_url": "https://twitter.com/katryo",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1207493251/___normal.jpg",
-      "hatena": 10,
       "twitter": 14,
+      "hatena": 10,
       "total": 54
     },
     {
@@ -1135,8 +1135,8 @@ module.exports={
       "speaker_name": "アルパカ大明神[▮▮▮▯▯▯▯▯▯▯]",
       "speaker_url": "https://twitter.com/toritori0318",
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000078453409/b6bfcd56abe9253d9e41f2e14bdd038f_normal.jpeg",
-      "hatena": 8,
       "twitter": 17,
+      "hatena": 8,
       "total": 53
     },
     {
@@ -1145,8 +1145,8 @@ module.exports={
       "speaker_name": "Ben Lavender",
       "speaker_url": "https://github.com/bhuga",
       "speaker_icon": "https://avatars.githubusercontent.com/u/12676?v=3",
-      "hatena": 5,
       "twitter": 21,
+      "hatena": 5,
       "total": 52
     },
     {
@@ -1155,8 +1155,8 @@ module.exports={
       "speaker_name": "アオヤマ ミント",
       "speaker_url": "https://twitter.com/MintoAoyama",
       "speaker_icon": "http://pbs.twimg.com/profile_images/601767800172978176/Ax16wsjG_normal.jpg",
-      "hatena": 8,
       "twitter": 16,
+      "hatena": 8,
       "total": 52
     },
     {
@@ -1165,8 +1165,8 @@ module.exports={
       "speaker_name": "あずまさとし",
       "speaker_url": "https://twitter.com/ytnobody",
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000466143858/93673f957eb413a7a34410d930afa5f7_normal.png",
-      "hatena": 7,
       "twitter": 17,
+      "hatena": 7,
       "total": 50
     },
     {
@@ -1175,8 +1175,8 @@ module.exports={
       "speaker_name": "ctokoro",
       "speaker_url": "https://github.com/ctokoro",
       "speaker_icon": "https://avatars.githubusercontent.com/u/620884?v=3",
-      "hatena": 8,
       "twitter": 14,
+      "hatena": 8,
       "total": 48
     },
     {
@@ -1185,8 +1185,8 @@ module.exports={
       "speaker_name": "Miki Horiuchi Kabe",
       "speaker_url": "https://www.facebook.com/951266011604370",
       "speaker_icon": "http://graph.facebook.com/951266011604370/picture",
-      "hatena": 9,
       "twitter": 12,
+      "hatena": 9,
       "total": 48
     },
     {
@@ -1195,8 +1195,8 @@ module.exports={
       "speaker_name": "丸山 亮",
       "speaker_url": "https://twitter.com/h13i32maru",
       "speaker_icon": "http://pbs.twimg.com/profile_images/577452163099553792/XoOX_Ioa_normal.jpeg",
-      "hatena": 9,
       "twitter": 11,
+      "hatena": 9,
       "total": 46
     },
     {
@@ -1205,8 +1205,8 @@ module.exports={
       "speaker_name": "Yuki Tanno",
       "speaker_url": "https://github.com/tantan3",
       "speaker_icon": "https://avatars.githubusercontent.com/u/5218578?v=3",
-      "hatena": 6,
       "twitter": 16,
+      "hatena": 6,
       "total": 46
     },
     {
@@ -1215,8 +1215,8 @@ module.exports={
       "speaker_name": "湯村 翼 Tsubasa YUMURA",
       "speaker_url": "https://twitter.com/yumu19",
       "speaker_icon": "http://pbs.twimg.com/profile_images/599153322939916288/tRI3N4Eh_normal.jpg",
-      "hatena": 5,
       "twitter": 17,
+      "hatena": 5,
       "total": 45
     },
     {
@@ -1225,8 +1225,8 @@ module.exports={
       "speaker_name": "二丁",
       "speaker_url": "https://twitter.com/meru_akimbo",
       "speaker_icon": "http://pbs.twimg.com/profile_images/600986653721632768/zhiLWZVe_normal.png",
-      "hatena": 7,
       "twitter": 14,
+      "hatena": 7,
       "total": 45
     },
     {
@@ -1235,8 +1235,8 @@ module.exports={
       "speaker_name": "Ryo Ito",
       "speaker_url": "https://github.com/ritou",
       "speaker_icon": "https://avatars.githubusercontent.com/u/97260?v=3",
-      "hatena": 5,
       "twitter": 16,
+      "hatena": 5,
       "total": 43
     },
     {
@@ -1245,8 +1245,8 @@ module.exports={
       "speaker_name": "YuZakuro",
       "speaker_url": "https://twitter.com/zakuro9715",
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000492702362/5fb33d726ed17f142e3198cb0c980769_normal.png",
-      "hatena": 7,
       "twitter": 13,
+      "hatena": 7,
       "total": 43
     },
     {
@@ -1255,8 +1255,8 @@ module.exports={
       "speaker_name": "NAGATA Hiroaki",
       "speaker_url": "https://github.com/handlename",
       "speaker_icon": "https://avatars.githubusercontent.com/u/115636?v=3",
-      "hatena": 8,
       "twitter": 11,
+      "hatena": 8,
       "total": 43
     },
     {
@@ -1265,8 +1265,8 @@ module.exports={
       "speaker_name": "shinjukujohnny",
       "speaker_url": "https://twitter.com/shinjukujohnny",
       "speaker_icon": "http://pbs.twimg.com/profile_images/524693733069963265/nmA39bww_normal.jpeg",
-      "hatena": 7,
       "twitter": 13,
+      "hatena": 7,
       "total": 43
     },
     {
@@ -1275,8 +1275,8 @@ module.exports={
       "speaker_name": "tsubasa",
       "speaker_url": "https://twitter.com/tsubasaxZZZ",
       "speaker_icon": "http://pbs.twimg.com/profile_images/560137093/2286227_3079062002_normal.jpg",
-      "hatena": 7,
       "twitter": 11,
+      "hatena": 7,
       "total": 40
     },
     {
@@ -1285,8 +1285,8 @@ module.exports={
       "speaker_name": "Daisuke Tamada",
       "speaker_url": "https://www.facebook.com/1262246947",
       "speaker_icon": "http://graph.facebook.com/1262246947/picture",
-      "hatena": 5,
       "twitter": 14,
+      "hatena": 5,
       "total": 39
     },
     {
@@ -1295,8 +1295,8 @@ module.exports={
       "speaker_name": "muddydixon",
       "speaker_url": "https://github.com/muddydixon",
       "speaker_icon": "https://avatars.githubusercontent.com/u/10035?v=3",
-      "hatena": 8,
       "twitter": 8,
+      "hatena": 8,
       "total": 37
     },
     {
@@ -1305,8 +1305,8 @@ module.exports={
       "speaker_name": "CONBU",
       "speaker_url": "https://twitter.com/conbu_net",
       "speaker_icon": "http://pbs.twimg.com/profile_images/476568469920415744/wdOm99Aa_normal.png",
-      "hatena": 9,
       "twitter": 6,
+      "hatena": 9,
       "total": 37
     },
     {
@@ -1315,8 +1315,8 @@ module.exports={
       "speaker_name": "Tokuhiro Matsuno",
       "speaker_url": "https://github.com/tokuhirom",
       "speaker_icon": "https://avatars.githubusercontent.com/u/21084?v=3",
-      "hatena": 7,
       "twitter": 9,
+      "hatena": 7,
       "total": 36
     },
     {
@@ -1325,8 +1325,8 @@ module.exports={
       "speaker_name": "yoku0825",
       "speaker_url": "https://twitter.com/yoku0825",
       "speaker_icon": "http://pbs.twimg.com/profile_images/3445683412/bdbf36104036584029165edc231d6bc3_normal.jpeg",
-      "hatena": 7,
       "twitter": 8,
+      "hatena": 7,
       "total": 35
     },
     {
@@ -1335,8 +1335,8 @@ module.exports={
       "speaker_name": "Daichi Nakajima",
       "speaker_url": "https://github.com/nakajijapan",
       "speaker_icon": "https://avatars.githubusercontent.com/u/193569?v=3",
-      "hatena": 4,
       "twitter": 12,
+      "hatena": 4,
       "total": 33
     },
     {
@@ -1345,8 +1345,8 @@ module.exports={
       "speaker_name": "Dan Kogai",
       "speaker_url": "https://twitter.com/dankogai",
       "speaker_icon": "http://pbs.twimg.com/profile_images/419164963416985600/QtvOEPl5_normal.jpeg",
-      "hatena": 6,
       "twitter": 8,
+      "hatena": 6,
       "total": 32
     },
     {
@@ -1355,8 +1355,8 @@ module.exports={
       "speaker_name": "ごちょー",
       "speaker_url": "https://twitter.com/gotyoooo",
       "speaker_icon": "http://pbs.twimg.com/profile_images/515320126002831360/cdHgAcRM_normal.jpeg",
-      "hatena": 5,
       "twitter": 10,
+      "hatena": 5,
       "total": 32
     },
     {
@@ -1365,8 +1365,8 @@ module.exports={
       "speaker_name": "srockstyle",
       "speaker_url": "https://twitter.com/srockstyle",
       "speaker_icon": "http://pbs.twimg.com/profile_images/530258290991583232/TaRx528t_normal.jpeg",
-      "hatena": 4,
       "twitter": 11,
+      "hatena": 4,
       "total": 31
     },
     {
@@ -1375,8 +1375,8 @@ module.exports={
       "speaker_name": "Etourneau Gwenn",
       "speaker_url": "https://github.com/shinji62",
       "speaker_icon": "https://avatars.githubusercontent.com/u/4757816?v=3",
-      "hatena": 3,
       "twitter": 13,
+      "hatena": 3,
       "total": 31
     },
     {
@@ -1385,8 +1385,8 @@ module.exports={
       "speaker_name": "OGATA Tetsuji",
       "speaker_url": "https://twitter.com/xtetsuji",
       "speaker_icon": "http://pbs.twimg.com/profile_images/404805662/min_x40_mini_normal.png",
-      "hatena": 4,
       "twitter": 11,
+      "hatena": 4,
       "total": 31
     },
     {
@@ -1395,8 +1395,8 @@ module.exports={
       "speaker_name": "きいあむ / YASUTAKE K.",
       "speaker_url": "https://twitter.com/key_amb",
       "speaker_icon": "http://pbs.twimg.com/profile_images/604586076024340480/EIbpIzsF_normal.jpg",
-      "hatena": 6,
       "twitter": 7,
+      "hatena": 6,
       "total": 30
     },
     {
@@ -1405,8 +1405,8 @@ module.exports={
       "speaker_name": "Takumi Sakamoto",
       "speaker_url": "https://twitter.com/takus",
       "speaker_icon": "http://pbs.twimg.com/profile_images/695932190/me_normal.jpg",
-      "hatena": 5,
       "twitter": 9,
+      "hatena": 5,
       "total": 30
     },
     {
@@ -1415,8 +1415,8 @@ module.exports={
       "speaker_name": "にいやん",
       "speaker_url": "https://twitter.com/nii_yan",
       "speaker_icon": "http://pbs.twimg.com/profile_images/701274503/515145_584452466_normal.jpg",
-      "hatena": 5,
       "twitter": 8,
+      "hatena": 5,
       "total": 29
     },
     {
@@ -1425,8 +1425,8 @@ module.exports={
       "speaker_name": "Kenichi Ishigaki",
       "speaker_url": "https://github.com/charsbar",
       "speaker_icon": "https://avatars.githubusercontent.com/u/36517?v=3",
-      "hatena": 7,
       "twitter": 5,
+      "hatena": 7,
       "total": 29
     },
     {
@@ -1435,8 +1435,8 @@ module.exports={
       "speaker_name": "goodnext",
       "speaker_url": "https://twitter.com/runners_high777",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1790006063/IMG_0575_normal.JPG",
-      "hatena": 3,
       "twitter": 11,
+      "hatena": 3,
       "total": 28
     },
     {
@@ -1445,8 +1445,8 @@ module.exports={
       "speaker_name": "Yusuke Naka",
       "speaker_url": "https://twitter.com/Tukimikage",
       "speaker_icon": "http://pbs.twimg.com/profile_images/479957377496539136/FLk2OZJN_normal.jpeg",
-      "hatena": 1,
       "twitter": 14,
+      "hatena": 1,
       "total": 27
     },
     {
@@ -1455,8 +1455,8 @@ module.exports={
       "speaker_name": "Ryo Ito",
       "speaker_url": "https://github.com/ritou",
       "speaker_icon": "https://avatars.githubusercontent.com/u/97260?v=3",
-      "hatena": 3,
       "twitter": 10,
+      "hatena": 3,
       "total": 26
     },
     {
@@ -1465,8 +1465,8 @@ module.exports={
       "speaker_name": "onigra",
       "speaker_url": "https://twitter.com/onigra_",
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000057979446/39eb8dbe5c61459b6bc1377f54587c52_normal.jpeg",
-      "hatena": 4,
       "twitter": 8,
+      "hatena": 4,
       "total": 26
     },
     {
@@ -1475,8 +1475,8 @@ module.exports={
       "speaker_name": "Abi Gail",
       "speaker_url": "https://www.facebook.com/832303553518697",
       "speaker_icon": "http://graph.facebook.com/832303553518697/picture",
-      "hatena": 5,
       "twitter": 6,
+      "hatena": 5,
       "total": 25
     },
     {
@@ -1485,8 +1485,8 @@ module.exports={
       "speaker_name": "mototoki.n",
       "speaker_url": "https://twitter.com/mototokin",
       "speaker_icon": "http://pbs.twimg.com/profile_images/607137825025200128/PMAaHsVi_normal.jpg",
-      "hatena": 2,
       "twitter": 11,
+      "hatena": 2,
       "total": 25
     },
     {
@@ -1495,8 +1495,8 @@ module.exports={
       "speaker_name": "Keiji Matsuzaki",
       "speaker_url": "https://github.com/futoase",
       "speaker_icon": "https://avatars.githubusercontent.com/u/72997?v=3",
-      "hatena": 3,
       "twitter": 9,
+      "hatena": 3,
       "total": 24
     },
     {
@@ -1505,8 +1505,8 @@ module.exports={
       "speaker_name": "さい",
       "speaker_url": "https://twitter.com/sairoutine",
       "speaker_icon": "http://pbs.twimg.com/profile_images/582195994219003904/sMFyQ7aB_normal.jpg",
-      "hatena": 3,
       "twitter": 9,
+      "hatena": 3,
       "total": 24
     },
     {
@@ -1515,8 +1515,8 @@ module.exports={
       "speaker_name": "kiyoshi nomo",
       "speaker_url": "https://twitter.com/kysnm",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1317946234/39253694_origin_normal.jpg",
-      "hatena": 4,
       "twitter": 7,
+      "hatena": 4,
       "total": 24
     },
     {
@@ -1525,8 +1525,8 @@ module.exports={
       "speaker_name": "SHIBATA Hiroshi",
       "speaker_url": "https://github.com/hsbt",
       "speaker_icon": "https://avatars.githubusercontent.com/u/12301?v=3",
-      "hatena": 5,
       "twitter": 5,
+      "hatena": 5,
       "total": 23
     },
     {
@@ -1535,8 +1535,8 @@ module.exports={
       "speaker_name": "ネコ半径³",
       "speaker_url": "https://twitter.com/azumakuniyuki",
       "speaker_icon": "http://pbs.twimg.com/profile_images/598733415664353280/VyrR3m4F_normal.jpg",
-      "hatena": 3,
       "twitter": 8,
+      "hatena": 3,
       "total": 23
     },
     {
@@ -1545,8 +1545,8 @@ module.exports={
       "speaker_name": "zoncoen",
       "speaker_url": "https://twitter.com/zoncoen",
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000598480259/bc52c5f2664337347be1b293fe2cc5ec_normal.png",
-      "hatena": 4,
       "twitter": 6,
+      "hatena": 4,
       "total": 22
     },
     {
@@ -1565,8 +1565,8 @@ module.exports={
       "speaker_name": "ACE",
       "speaker_url": "https://twitter.com/ace_project",
       "speaker_icon": "http://pbs.twimg.com/profile_images/2667510035/8ca5bd4e8a5851b152befe8ab9f7b6e8_normal.png",
-      "hatena": 3,
       "twitter": 6,
+      "hatena": 3,
       "total": 19
     },
     {
@@ -1575,8 +1575,8 @@ module.exports={
       "speaker_name": "syunsuke",
       "speaker_url": "https://twitter.com/i47_rozary",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1707414486/21_-_1_normal.jpg",
-      "hatena": 3,
       "twitter": 6,
+      "hatena": 3,
       "total": 19
     },
     {
@@ -1585,8 +1585,8 @@ module.exports={
       "speaker_name": "Takahiko Ito",
       "speaker_url": "https://twitter.com/takahi_i",
       "speaker_icon": "http://pbs.twimg.com/profile_images/487495613366292480/Y0sZh8sO_normal.jpeg",
-      "hatena": 2,
       "twitter": 7,
+      "hatena": 2,
       "total": 18
     },
     {
@@ -1595,8 +1595,8 @@ module.exports={
       "speaker_name": "Masayuki Ishikawa",
       "speaker_url": "https://www.facebook.com/100001054610433",
       "speaker_icon": "http://graph.facebook.com/100001054610433/picture",
-      "hatena": 2,
       "twitter": 7,
+      "hatena": 2,
       "total": 18
     },
     {
@@ -1615,8 +1615,8 @@ module.exports={
       "speaker_name": "YS",
       "speaker_url": "https://twitter.com/yosukep",
       "speaker_icon": "http://pbs.twimg.com/profile_images/521480305421471744/DLC7h26z_normal.png",
-      "hatena": 3,
       "twitter": 4,
+      "hatena": 3,
       "total": 16
     },
     {
@@ -1625,8 +1625,8 @@ module.exports={
       "speaker_name": "あずまさとし",
       "speaker_url": "https://twitter.com/ytnobody",
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000466143858/93673f957eb413a7a34410d930afa5f7_normal.png",
-      "hatena": 1,
       "twitter": 7,
+      "hatena": 1,
       "total": 15
     },
     {
@@ -1635,8 +1635,8 @@ module.exports={
       "speaker_name": "Zak B. Elep",
       "speaker_url": "https://github.com/zakame",
       "speaker_icon": "https://avatars.githubusercontent.com/u/110625?v=3",
-      "hatena": 2,
       "twitter": 4,
+      "hatena": 2,
       "total": 13
     },
     {
@@ -1645,8 +1645,8 @@ module.exports={
       "speaker_name": "Actualeyes",
       "speaker_url": "https://twitter.com/actualeyes",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1854685804/IMAG0064__1__normal.jpg",
-      "hatena": 1,
       "twitter": 6,
+      "hatena": 1,
       "total": 13
     },
     {
@@ -1655,8 +1655,8 @@ module.exports={
       "speaker_name": "zuqqhi2",
       "speaker_url": "https://twitter.com/zuqqhi2",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1394079624/26852578_1874744136_normal.jpg",
-      "hatena": 2,
       "twitter": 4,
+      "hatena": 2,
       "total": 13
     },
     {
@@ -1665,8 +1665,8 @@ module.exports={
       "speaker_name": "Yusuke Kawasaki",
       "speaker_url": "https://www.facebook.com/731850967",
       "speaker_icon": "http://graph.facebook.com/731850967/picture",
-      "hatena": 4,
       "twitter": 1,
+      "hatena": 4,
       "total": 13
     },
     {
@@ -1675,8 +1675,8 @@ module.exports={
       "speaker_name": "Ivan Kruglov",
       "speaker_url": "https://github.com/ikruglov",
       "speaker_icon": "https://avatars.githubusercontent.com/u/4630547?v=3",
-      "hatena": 3,
       "twitter": 2,
+      "hatena": 3,
       "total": 12
     },
     {
@@ -1685,8 +1685,8 @@ module.exports={
       "speaker_name": "Zak B. Elep",
       "speaker_url": "https://github.com/zakame",
       "speaker_icon": "https://avatars.githubusercontent.com/u/110625?v=3",
-      "hatena": 1,
       "twitter": 5,
+      "hatena": 1,
       "total": 11
     },
     {
@@ -1695,8 +1695,8 @@ module.exports={
       "speaker_name": "hkoba",
       "speaker_url": "https://twitter.com/hkoba",
       "speaker_icon": "http://pbs.twimg.com/profile_images/25436812/myfist_normal.jpg",
-      "hatena": 2,
       "twitter": 3,
+      "hatena": 2,
       "total": 11
     },
     {
@@ -1705,8 +1705,8 @@ module.exports={
       "speaker_name": "tnir",
       "speaker_url": "https://github.com/tnir",
       "speaker_icon": "https://avatars.githubusercontent.com/u/10229505?v=3",
-      "hatena": 1,
       "twitter": 4,
+      "hatena": 1,
       "total": 10
     },
     {
@@ -1715,8 +1715,8 @@ module.exports={
       "speaker_name": "みそ ｼﾞﾝｼﾞﾆｱ",
       "speaker_url": "https://twitter.com/crazygirl_lover",
       "speaker_icon": "http://pbs.twimg.com/profile_images/599568269507342336/jb_Rk7sX_normal.jpg",
-      "hatena": 2,
       "twitter": 2,
+      "hatena": 2,
       "total": 9
     },
     {
@@ -1725,8 +1725,8 @@ module.exports={
       "speaker_name": "Kenichi TAKAHASHI",
       "speaker_url": "https://github.com/kenchan",
       "speaker_icon": "https://avatars.githubusercontent.com/u/6875?v=3",
-      "hatena": 2,
       "twitter": 2,
+      "hatena": 2,
       "total": 9
     },
     {
@@ -1735,8 +1735,8 @@ module.exports={
       "speaker_name": "ガーデン",
       "speaker_url": "https://twitter.com/glkame",
       "speaker_icon": "http://pbs.twimg.com/profile_images/505371986139160576/jXTLTlds_normal.jpeg",
-      "hatena": 2,
       "twitter": 2,
+      "hatena": 2,
       "total": 9
     },
     {
@@ -1745,8 +1745,8 @@ module.exports={
       "speaker_name": "hirobanex",
       "speaker_url": "https://twitter.com/hirobanex",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1098249211/niku_normal.jpg",
-      "hatena": 2,
       "twitter": 2,
+      "hatena": 2,
       "total": 9
     },
     {
@@ -1755,8 +1755,8 @@ module.exports={
       "speaker_name": "Masashi Terui",
       "speaker_url": "https://github.com/marcy-terui",
       "speaker_icon": "https://avatars.githubusercontent.com/u/4560264?v=3",
-      "hatena": 1,
       "twitter": 3,
+      "hatena": 1,
       "total": 8
     },
     {
@@ -1765,8 +1765,8 @@ module.exports={
       "speaker_name": "Lyo Kato",
       "speaker_url": "https://github.com/lyokato",
       "speaker_icon": "https://avatars.githubusercontent.com/u/30877?v=3",
-      "hatena": 0,
       "twitter": 5,
+      "hatena": 0,
       "total": 8
     },
     {
@@ -1775,8 +1775,8 @@ module.exports={
       "speaker_name": "gomadango",
       "speaker_url": "https://github.com/gomadango",
       "speaker_icon": "https://avatars.githubusercontent.com/u/12896099?v=3",
-      "hatena": 1,
       "twitter": 3,
+      "hatena": 1,
       "total": 8
     },
     {
@@ -1785,8 +1785,8 @@ module.exports={
       "speaker_name": "Futoshi Koresawa",
       "speaker_url": "https://www.facebook.com/1131016653",
       "speaker_icon": "http://graph.facebook.com/1131016653/picture",
-      "hatena": 0,
       "twitter": 4,
+      "hatena": 0,
       "total": 7
     },
     {
@@ -1795,8 +1795,8 @@ module.exports={
       "speaker_name": "Tadayuki Onishi",
       "speaker_url": "https://www.facebook.com/827451210665191",
       "speaker_icon": "http://graph.facebook.com/827451210665191/picture",
-      "hatena": 0,
       "twitter": 4,
+      "hatena": 0,
       "total": 7
     },
     {
@@ -1805,8 +1805,8 @@ module.exports={
       "speaker_name": "Ryuji_Tak",
       "speaker_url": "https://twitter.com/kozyupapa",
       "speaker_icon": "http://pbs.twimg.com/profile_images/433156968576843776/f8PDnsa-_normal.png",
-      "hatena": 1,
       "twitter": 2,
+      "hatena": 1,
       "total": 6
     },
     {
@@ -1815,8 +1815,8 @@ module.exports={
       "speaker_name": "Takatsugu Shigeta",
       "speaker_url": "https://github.com/comewalk",
       "speaker_icon": "https://avatars.githubusercontent.com/u/2808?v=3",
-      "hatena": 1,
       "twitter": 2,
+      "hatena": 1,
       "total": 6
     },
     {
@@ -1825,8 +1825,8 @@ module.exports={
       "speaker_name": "SHIRAKATA Kentaro",
       "speaker_url": "https://github.com/argrath",
       "speaker_icon": "https://avatars.githubusercontent.com/u/53912?v=3",
-      "hatena": 1,
       "twitter": 2,
+      "hatena": 1,
       "total": 6
     },
     {
@@ -1835,8 +1835,8 @@ module.exports={
       "speaker_name": "sojiro",
       "speaker_url": "https://twitter.com/sojiro14",
       "speaker_icon": "http://pbs.twimg.com/profile_images/595286077985804288/mIsprLuz_normal.jpg",
-      "hatena": 0,
       "twitter": 3,
+      "hatena": 0,
       "total": 5
     },
     {
@@ -1845,8 +1845,8 @@ module.exports={
       "speaker_name": "Mike Accardo",
       "speaker_url": "https://github.com/mixedconnections",
       "speaker_icon": "https://avatars.githubusercontent.com/u/833824?v=3",
-      "hatena": 1,
       "twitter": 1,
+      "hatena": 1,
       "total": 4
     },
     {
@@ -1855,8 +1855,8 @@ module.exports={
       "speaker_name": "sojiro",
       "speaker_url": "https://twitter.com/sojiro14",
       "speaker_icon": "http://pbs.twimg.com/profile_images/595286077985804288/mIsprLuz_normal.jpg",
-      "hatena": 1,
       "twitter": 1,
+      "hatena": 1,
       "total": 4
     },
     {
@@ -1865,8 +1865,8 @@ module.exports={
       "speaker_name": "Hiroyuki Maruyama",
       "speaker_url": "https://www.facebook.com/100002578287431",
       "speaker_icon": "http://graph.facebook.com/100002578287431/picture",
-      "hatena": 0,
       "twitter": 2,
+      "hatena": 0,
       "total": 3
     },
     {
@@ -1875,18 +1875,68 @@ module.exports={
       "speaker_name": "Kang-min Liu",
       "speaker_url": "https://github.com/gugod",
       "speaker_icon": "https://avatars.githubusercontent.com/u/4970?v=3",
-      "hatena": 0,
       "twitter": 2,
+      "hatena": 0,
       "total": 3
     },
     {
-      "path": "/2015/talk/show/1ffa6f7a-f5e8-11e4-a4ec-49b37d574c3a",
-      "title": "Opening",
-      "speaker_name": "Daisuke Maki",
-      "speaker_url": "https://twitter.com/lestrrat",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/1223562029/DSC00001_normal.JPG",
-      "hatena": 0,
+      "path": "/2015/talk/show/22f59fb8-0fad-11e5-98ef-43ec7d574c3a",
+      "title": "Parallelism, Concurrency, and Asynchrony in Perl 6",
+      "speaker_name": "Jonathan Worthington",
+      "speaker_url": "https://github.com/jnthn",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/50259?v=3",
       "twitter": 1,
+      "hatena": 0,
+      "total": 1
+    },
+    {
+      "path": "/2015/talk/show/7cdd9012-0fad-11e5-8dfb-43ec7d574c3a",
+      "title": "Normal Form Grapheme",
+      "speaker_name": "Jonathan Worthington",
+      "speaker_url": "https://github.com/jnthn",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/50259?v=3",
+      "twitter": 1,
+      "hatena": 0,
+      "total": 1
+    },
+    {
+      "path": "/2015/talk/show/3a36ed2e-109f-11e5-9d18-d7f07d574c3a",
+      "title": "配属三ヶ月の新人がIoTの波に流された日々",
+      "speaker_name": "kuroei",
+      "speaker_url": "https://github.com/kuroei",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/3031424?v=3",
+      "twitter": 1,
+      "hatena": 0,
+      "total": 1
+    },
+    {
+      "path": "/2015/talk/show/f9b77d4a-1102-11e5-a406-d7f07d574c3a",
+      "title": "分割又里山",
+      "speaker_name": "Tom Rathborne",
+      "speaker_url": "https://github.com/trathborne",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/1091889?v=3",
+      "twitter": 1,
+      "hatena": 0,
+      "total": 1
+    },
+    {
+      "path": "/2015/talk/show/61b09c00-11d6-11e5-8e29-d7f07d574c3a",
+      "title": "Packaging Perl applications with fpm",
+      "speaker_name": "Allan Espinosa",
+      "speaker_url": "https://twitter.com/AllanEspinosa",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/55653618/2547153343_5dff0945de_normal.jpg",
+      "twitter": 1,
+      "hatena": 0,
+      "total": 1
+    },
+    {
+      "path": "/2015/talk/show/1effc02c-136e-11e5-8887-d9f87d574c3a",
+      "title": "1からJavaで書きなおしたPerlアプリの四方山話",
+      "speaker_name": "Yuichi Suzuki",
+      "speaker_url": "https://www.facebook.com/927473347309272",
+      "speaker_icon": "http://graph.facebook.com/927473347309272/picture",
+      "twitter": 1,
+      "hatena": 0,
       "total": 1
     },
     {
@@ -1900,61 +1950,11 @@ module.exports={
       "total": 1
     },
     {
-      "path": "/2015/talk/show/22f59fb8-0fad-11e5-98ef-43ec7d574c3a",
-      "title": "Parallelism, Concurrency, and Asynchrony in Perl 6",
-      "speaker_name": "Jonathan Worthington",
-      "speaker_url": "https://github.com/jnthn",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/50259?v=3",
-      "hatena": 0,
-      "twitter": 1,
-      "total": 1
-    },
-    {
-      "path": "/2015/talk/show/7cdd9012-0fad-11e5-8dfb-43ec7d574c3a",
-      "title": "Normal Form Grapheme",
-      "speaker_name": "Jonathan Worthington",
-      "speaker_url": "https://github.com/jnthn",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/50259?v=3",
-      "hatena": 0,
-      "twitter": 1,
-      "total": 1
-    },
-    {
-      "path": "/2015/talk/show/3a36ed2e-109f-11e5-9d18-d7f07d574c3a",
-      "title": "配属三ヶ月の新人がIoTの波に流された日々",
-      "speaker_name": "kuroei",
-      "speaker_url": "https://github.com/kuroei",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/3031424?v=3",
-      "hatena": 0,
-      "twitter": 1,
-      "total": 1
-    },
-    {
-      "path": "/2015/talk/show/f9b77d4a-1102-11e5-a406-d7f07d574c3a",
-      "title": "分割又里山",
-      "speaker_name": "Tom Rathborne",
-      "speaker_url": "https://github.com/trathborne",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/1091889?v=3",
-      "hatena": 0,
-      "twitter": 1,
-      "total": 1
-    },
-    {
-      "path": "/2015/talk/show/61b09c00-11d6-11e5-8e29-d7f07d574c3a",
-      "title": "Packaging Perl applications with fpm",
-      "speaker_name": "Allan Espinosa",
-      "speaker_url": "https://twitter.com/AllanEspinosa",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/55653618/2547153343_5dff0945de_normal.jpg",
-      "hatena": 0,
-      "twitter": 1,
-      "total": 1
-    },
-    {
-      "path": "/2015/talk/show/1effc02c-136e-11e5-8887-d9f87d574c3a",
-      "title": "1からJavaで書きなおしたPerlアプリの四方山話",
-      "speaker_name": "Yuichi Suzuki",
-      "speaker_url": "https://www.facebook.com/927473347309272",
-      "speaker_icon": "http://graph.facebook.com/927473347309272/picture",
+      "path": "/2015/talk/show/1ffa6f7a-f5e8-11e4-a4ec-49b37d574c3a",
+      "title": "Opening",
+      "speaker_name": "Daisuke Maki",
+      "speaker_url": "https://twitter.com/lestrrat",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/1223562029/DSC00001_normal.JPG",
       "hatena": 0,
       "twitter": 1,
       "total": 1
