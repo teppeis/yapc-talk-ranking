@@ -37,7 +37,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1753788808/sushi_r_normal.gif",
       "hatena": 145,
       "twitter": 164,
-      "total": 722
+      "total": 722,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/c191c08a-0a98-11e5-be34-67dc7d574c3a",
@@ -47,7 +48,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/1041857?v=3",
       "hatena": 110,
       "twitter": 170,
-      "total": 628
+      "total": 628,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/9ec2791c-05e5-11e5-81fa-79c97d574c3a",
@@ -57,7 +59,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/87649?v=3",
       "hatena": 107,
       "twitter": 140,
-      "total": 566
+      "total": 566,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/f2816038-10ec-11e5-89bf-d7f07d574c3a",
@@ -67,7 +70,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/1315074?v=3",
       "hatena": 69,
       "twitter": 124,
-      "total": 425
+      "total": 425,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/86ebd212-fab3-11e4-8f5a-8ab37d574c3a",
@@ -77,7 +81,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/46764?v=3",
       "hatena": 64,
       "twitter": 123,
-      "total": 408
+      "total": 408,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/c5ea5428-fac9-11e4-88c1-8ab37d574c3a",
@@ -87,7 +92,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/1623040?v=3",
       "hatena": 59,
       "twitter": 118,
-      "total": 384
+      "total": 384,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/441c0b72-036f-11e5-851f-79c97d574c3a",
@@ -97,7 +103,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/8991?v=3",
       "hatena": 77,
       "twitter": 69,
-      "total": 351
+      "total": 351,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/b335dee0-09ad-11e5-8d7a-67dc7d574c3a",
@@ -107,7 +114,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1295745651/fujiwara-icon-s_normal.png",
       "hatena": 60,
       "twitter": 84,
-      "total": 327
+      "total": 327,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/4bab2728-00fa-11e5-9931-79c97d574c3a",
@@ -117,7 +125,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/849165?v=3",
       "hatena": 51,
       "twitter": 97,
-      "total": 323
+      "total": 323,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/3d2d946a-0979-11e5-9800-67dc7d574c3a",
@@ -127,7 +136,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/419164963416985600/QtvOEPl5_normal.jpeg",
       "hatena": 48,
       "twitter": 95,
-      "total": 311
+      "total": 311,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/4f85e87a-f9ec-11e4-8262-8ab37d574c3a",
@@ -137,7 +147,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/12301?v=3",
       "hatena": 55,
       "twitter": 64,
-      "total": 277
+      "total": 277,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/621948f2-0d46-11e5-a403-67dc7d574c3a",
@@ -147,7 +158,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000122330373/c9162e04e2a5fb779758cc4f0a13c2c0_normal.jpeg",
       "hatena": 45,
       "twitter": 80,
-      "total": 275
+      "total": 275,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/7d62caf8-12f4-11e5-881c-d9f87d574c3a",
@@ -157,7 +169,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/3279630066/5fec6321a3aca8de271ccb3fae606d2a_normal.png",
       "hatena": 53,
       "twitter": 63,
-      "total": 269
+      "total": 269,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/523b9508-0d77-11e5-8174-67dc7d574c3a",
@@ -167,7 +180,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/374550?v=3",
       "hatena": 55,
       "twitter": 60,
-      "total": 269
+      "total": 269,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/0dcfc436-133d-11e5-9f77-d9f87d574c3a",
@@ -177,7 +191,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/587446491523854336/PZI2lpPm_normal.jpg",
       "hatena": 47,
       "twitter": 72,
-      "total": 267
+      "total": 267,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/3cc6d49c-faa0-11e4-b634-8ab37d574c3a",
@@ -187,7 +202,8 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/631255029/picture",
       "hatena": 34,
       "twitter": 89,
-      "total": 258
+      "total": 258,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/607595a2-0df3-11e5-b447-67dc7d574c3a",
@@ -197,7 +213,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/2290461?v=3",
       "hatena": 51,
       "twitter": 58,
-      "total": 254
+      "total": 254,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/5b1cd536-07ed-11e5-9e42-79c97d574c3a",
@@ -207,7 +224,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/538947384420483072/5WmJP-fh_normal.jpeg",
       "hatena": 45,
       "twitter": 65,
-      "total": 249
+      "total": 249,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/39a15ad4-0ff5-11e5-a984-d7f07d574c3a",
@@ -217,7 +235,8 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/100000459480102/picture",
       "hatena": 36,
       "twitter": 77,
-      "total": 243
+      "total": 243,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/dead6890-09b7-11e5-998a-67dc7d574c3a",
@@ -227,7 +246,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1656455610/__________2011-11-25_12.16.30__normal.png",
       "hatena": 41,
       "twitter": 62,
-      "total": 231
+      "total": 231,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/bb82c8fc-12a3-11e5-962e-d9f87d574c3a",
@@ -237,7 +257,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/1422834?v=3",
       "hatena": 39,
       "twitter": 64,
-      "total": 229
+      "total": 229,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/53aacc02-faca-11e4-8c2e-8ab37d574c3a",
@@ -247,7 +268,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/3685820543/1e8215b4268fef1d97891e3d61b7b361_normal.png",
       "hatena": 38,
       "twitter": 65,
-      "total": 228
+      "total": 228,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/82e93a96-f60e-11e4-907e-8ab37d574c3a",
@@ -257,7 +279,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/206948941/wall-e_normal.jpg",
       "hatena": 38,
       "twitter": 63,
-      "total": 224
+      "total": 224,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/1e976f9e-0046-11e5-a69c-89c77d574c3a",
@@ -267,7 +290,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/10042?v=3",
       "hatena": 46,
       "twitter": 48,
-      "total": 221
+      "total": 221,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/44721562-10e4-11e5-88a0-d7f07d574c3a",
@@ -277,7 +301,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/26476?v=3",
       "hatena": 28,
       "twitter": 77,
-      "total": 219
+      "total": 219,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/ce0167b6-10f7-11e5-8178-d7f07d574c3a",
@@ -287,7 +312,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/51196?v=3",
       "hatena": 40,
       "twitter": 55,
-      "total": 216
+      "total": 216,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/a7e23d1c-fd42-11e4-ab7e-bdc07d574c3a",
@@ -297,7 +323,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/541797238473625600/pi2i_yLc_normal.jpeg",
       "hatena": 38,
       "twitter": 53,
-      "total": 207
+      "total": 207,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/32392ef8-1314-11e5-865c-d9f87d574c3a",
@@ -307,7 +334,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1094520798/icon2010_normal.png",
       "hatena": 34,
       "twitter": 55,
-      "total": 198
+      "total": 198,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/dd8ce20e-fad2-11e4-b6e7-8ab37d574c3a",
@@ -317,7 +345,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/16928?v=3",
       "hatena": 29,
       "twitter": 59,
-      "total": 190
+      "total": 190,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/bbb0162a-0350-11e5-bb2f-79c97d574c3a",
@@ -327,7 +356,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000795654240/88bfe7df3471f3264c38ad407ce020e0_normal.png",
       "hatena": 36,
       "twitter": 45,
-      "total": 186
+      "total": 186,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/3ea83132-1352-11e5-9978-d9f87d574c3a",
@@ -337,7 +367,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/3422978396/f4d40662ca0c078b9087a50985350269_normal.jpeg",
       "hatena": 30,
       "twitter": 54,
-      "total": 184
+      "total": 184,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/5f5cad74-004a-11e5-acf4-89c77d574c3a",
@@ -347,7 +378,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/525991223060746241/_ORoKYuX_normal.png",
       "hatena": 30,
       "twitter": 52,
-      "total": 181
+      "total": 181,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/c2f85686-0df5-11e5-9e74-67dc7d574c3a",
@@ -357,7 +389,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/565897212085800963/VhOCE-By_normal.jpeg",
       "hatena": 35,
       "twitter": 43,
-      "total": 180
+      "total": 180,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/a80e57c8-133e-11e5-93ad-d9f87d574c3a",
@@ -367,7 +400,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000433176090/1178e800687095ff11c540ddead1f4ff_normal.png",
       "hatena": 28,
       "twitter": 54,
-      "total": 179
+      "total": 179,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/2a4efafe-136b-11e5-9923-d9f87d574c3a",
@@ -377,7 +411,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/3512660657/c7724f0f2022e87c568dec7af95909a6_normal.jpeg",
       "hatena": 31,
       "twitter": 49,
-      "total": 179
+      "total": 179,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/04a4c95c-0fea-11e5-9a0f-d7f07d574c3a",
@@ -387,7 +422,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/3445683412/bdbf36104036584029165edc231d6bc3_normal.jpeg",
       "hatena": 29,
       "twitter": 49,
-      "total": 173
+      "total": 173,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/92a7bb60-1323-11e5-a252-d9f87d574c3a",
@@ -397,7 +433,8 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/1121132103/picture",
       "hatena": 28,
       "twitter": 51,
-      "total": 173
+      "total": 173,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/9d2d46c8-0dcd-11e5-b407-67dc7d574c3a",
@@ -407,7 +444,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/510471574445510658/GKytGPut_normal.jpeg",
       "hatena": 27,
       "twitter": 52,
-      "total": 172
+      "total": 172,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/0974fb38-facc-11e4-9382-8ab37d574c3a",
@@ -417,7 +455,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/4560264?v=3",
       "hatena": 32,
       "twitter": 42,
-      "total": 169
+      "total": 169,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/a668ef3e-080b-11e5-b2b4-79c97d574c3a",
@@ -427,7 +466,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/419456734264954880/FYDksW9H_normal.jpeg",
       "hatena": 27,
       "twitter": 47,
-      "total": 163
+      "total": 163,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/94051590-fb11-11e4-a39d-8ab37d574c3a",
@@ -437,7 +477,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/250407?v=3",
       "hatena": 27,
       "twitter": 46,
-      "total": 161
+      "total": 161,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/c2c7b8a4-faaa-11e4-a8be-8ab37d574c3a",
@@ -447,7 +488,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/3420?v=3",
       "hatena": 26,
       "twitter": 47,
-      "total": 160
+      "total": 160,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/897abeb2-1007-11e5-a760-d7f07d574c3a",
@@ -457,7 +499,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/49303?v=3",
       "hatena": 27,
       "twitter": 43,
-      "total": 156
+      "total": 156,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/93f39c88-ffa4-11e4-aa4d-66c47d574c3a",
@@ -467,7 +510,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/495102627399479297/xWshlRMW_normal.jpeg",
       "hatena": 27,
       "twitter": 41,
-      "total": 153
+      "total": 153,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/1de1adc8-1165-11e5-b6ef-d7f07d574c3a",
@@ -477,7 +521,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/604586076024340480/EIbpIzsF_normal.jpg",
       "hatena": 25,
       "twitter": 44,
-      "total": 152
+      "total": 152,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/9672d326-1344-11e5-8c52-d9f87d574c3a",
@@ -487,7 +532,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1121974486/ichikaway_jp3_normal.jpg",
       "hatena": 24,
       "twitter": 44,
-      "total": 149
+      "total": 149,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/cd2c903e-1333-11e5-898e-d9f87d574c3a",
@@ -497,7 +543,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1214405156/koga300dpi_normal.jpg",
       "hatena": 18,
       "twitter": 52,
-      "total": 145
+      "total": 145,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/9f7059dc-003c-11e5-a00c-89c77d574c3a",
@@ -507,7 +554,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/876988?v=3",
       "hatena": 32,
       "twitter": 28,
-      "total": 144
+      "total": 144,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/d099f154-fd66-11e4-9b2b-bdc07d574c3a",
@@ -517,7 +565,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/599568269507342336/jb_Rk7sX_normal.jpg",
       "hatena": 23,
       "twitter": 39,
-      "total": 137
+      "total": 137,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/9e9ae188-fb20-11e4-9a97-8ab37d574c3a",
@@ -527,7 +576,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/322289?v=3",
       "hatena": 26,
       "twitter": 34,
-      "total": 137
+      "total": 137,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/ec228764-1329-11e5-953f-d9f87d574c3a",
@@ -537,7 +587,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/3290639266/a767076172e2d30e41963b41e27c9beb_normal.jpeg",
       "hatena": 17,
       "twitter": 47,
-      "total": 133
+      "total": 133,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/b396e912-091a-11e5-8d2d-67dc7d574c3a",
@@ -547,7 +598,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/9958?v=3",
       "hatena": 23,
       "twitter": 35,
-      "total": 130
+      "total": 130,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/b9e8b650-135c-11e5-bd7f-d9f87d574c3a",
@@ -557,7 +609,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1323645880/Icon-rainbow_reasonably_small_normal.jpeg",
       "hatena": 22,
       "twitter": 36,
-      "total": 129
+      "total": 129,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/c61a32a4-f797-11e4-bcef-8ab37d574c3a",
@@ -567,7 +620,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/3092?v=3",
       "hatena": 24,
       "twitter": 33,
-      "total": 129
+      "total": 129,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/f5b888b2-1344-11e5-b22a-d9f87d574c3a",
@@ -577,7 +631,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1118038428/be5c756e-ae2f-49b6-8c7b-bd8508b6dc93_normal.png",
       "hatena": 24,
       "twitter": 32,
-      "total": 128
+      "total": 128,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/96ce1990-fa38-11e4-83b7-8ab37d574c3a",
@@ -587,7 +642,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/124713?v=3",
       "hatena": 12,
       "twitter": 51,
-      "total": 126
+      "total": 126,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/d7d148f0-f66d-11e4-8734-8ab37d574c3a",
@@ -597,7 +653,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/596297145994481664/KWANlRTk_normal.png",
       "hatena": 25,
       "twitter": 29,
-      "total": 125
+      "total": 125,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/a4318242-f5f2-11e4-afb7-49b37d574c3a",
@@ -607,7 +664,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/56752?v=3",
       "hatena": 27,
       "twitter": 25,
-      "total": 124
+      "total": 124,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/cc8f1b48-0e32-11e5-9147-67dc7d574c3a",
@@ -617,7 +675,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/1589550?v=3",
       "hatena": 22,
       "twitter": 33,
-      "total": 123
+      "total": 123,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/cf39f7fc-ff44-11e4-9264-66c47d574c3a",
@@ -627,7 +686,8 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/631255029/picture",
       "hatena": 18,
       "twitter": 39,
-      "total": 122
+      "total": 122,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/a636430c-0fbf-11e5-8a02-43ec7d574c3a",
@@ -637,7 +697,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/162146?v=3",
       "hatena": 22,
       "twitter": 32,
-      "total": 122
+      "total": 122,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/20a090d0-1113-11e5-bbd3-d7f07d574c3a",
@@ -647,7 +708,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/1475923?v=3",
       "hatena": 22,
       "twitter": 30,
-      "total": 118
+      "total": 118,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/c495bb3c-1340-11e5-b434-d9f87d574c3a",
@@ -657,7 +719,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/137741?v=3",
       "hatena": 16,
       "twitter": 40,
-      "total": 118
+      "total": 118,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/f5aa5054-12fd-11e5-b4c9-d9f87d574c3a",
@@ -667,7 +730,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1711030185/header_title_normal.jpg",
       "hatena": 18,
       "twitter": 36,
-      "total": 117
+      "total": 117,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/f279d804-0efd-11e5-bc53-43ec7d574c3a",
@@ -677,7 +741,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/866589?v=3",
       "hatena": 19,
       "twitter": 33,
-      "total": 115
+      "total": 115,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/39a72c04-10e3-11e5-b8ab-d7f07d574c3a",
@@ -687,7 +752,8 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/929494707114841/picture",
       "hatena": 19,
       "twitter": 33,
-      "total": 115
+      "total": 115,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/d78f1c60-0814-11e5-b740-79c97d574c3a",
@@ -697,7 +763,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/1249622?v=3",
       "hatena": 22,
       "twitter": 27,
-      "total": 113
+      "total": 113,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/23fa9706-0e40-11e5-829d-67dc7d574c3a",
@@ -707,7 +774,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/271100?v=3",
       "hatena": 16,
       "twitter": 37,
-      "total": 113
+      "total": 113,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/205b57a0-135b-11e5-8725-d9f87d574c3a",
@@ -717,7 +785,8 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/543316027/picture",
       "hatena": 19,
       "twitter": 32,
-      "total": 113
+      "total": 113,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/0af26fe4-0b7b-11e5-a29c-67dc7d574c3a",
@@ -727,7 +796,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1205361823/img_791544_45327987_0_normal.jpg",
       "hatena": 18,
       "twitter": 34,
-      "total": 113
+      "total": 113,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/66960c2c-1330-11e5-9c0d-d9f87d574c3a",
@@ -737,7 +807,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/583440287269171200/LfL9vF2I_normal.jpg",
       "hatena": 22,
       "twitter": 25,
-      "total": 109
+      "total": 109,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/ad84b028-136e-11e5-b676-d9f87d574c3a",
@@ -747,7 +818,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1094520798/icon2010_normal.png",
       "hatena": 13,
       "twitter": 40,
-      "total": 109
+      "total": 109,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/1da55daa-0deb-11e5-944c-67dc7d574c3a",
@@ -757,7 +829,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/7394250?v=3",
       "hatena": 12,
       "twitter": 38,
-      "total": 103
+      "total": 103,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/f93bc956-1333-11e5-ad76-d9f87d574c3a",
@@ -767,7 +840,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/2622062878/idqr0s42fhsfc74wa7c5_normal.jpeg",
       "hatena": 13,
       "twitter": 36,
-      "total": 102
+      "total": 102,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/6b582f7e-0228-11e5-b3ca-79c97d574c3a",
@@ -777,7 +851,8 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/10206549291592204/picture",
       "hatena": 18,
       "twitter": 27,
-      "total": 101
+      "total": 101,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/7d66b640-0a6b-11e5-b1a0-67dc7d574c3a",
@@ -787,7 +862,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/69169?v=3",
       "hatena": 14,
       "twitter": 33,
-      "total": 100
+      "total": 100,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/aa08df46-f7ee-11e4-9737-8ab37d574c3a",
@@ -797,7 +873,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/582905163389632513/unVsV-wC_normal.jpg",
       "hatena": 18,
       "twitter": 26,
-      "total": 99
+      "total": 99,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/f168bf54-10b3-11e5-b640-d7f07d574c3a",
@@ -807,7 +884,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000214753541/b3fdd930163a330b670a45b483606574_normal.jpeg",
       "hatena": 15,
       "twitter": 31,
-      "total": 99
+      "total": 99,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/4d9157b2-110b-11e5-9b5f-d7f07d574c3a",
@@ -817,7 +895,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/3138447?v=3",
       "hatena": 16,
       "twitter": 28,
-      "total": 97
+      "total": 97,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/38d1c04a-0766-11e5-bf81-79c97d574c3a",
@@ -827,7 +906,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/2854513767/53b25ddfd63d65633347aa82df323c5c_normal.png",
       "hatena": 10,
       "twitter": 37,
-      "total": 95
+      "total": 95,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/20489b5c-05a4-11e5-81d9-79c97d574c3a",
@@ -837,7 +917,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/582905163389632513/unVsV-wC_normal.jpg",
       "hatena": 21,
       "twitter": 18,
-      "total": 94
+      "total": 94,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/3cf2bee2-1358-11e5-b64e-d9f87d574c3a",
@@ -847,7 +928,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/13047?v=3",
       "hatena": 16,
       "twitter": 26,
-      "total": 93
+      "total": 93,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/69b973e2-0de2-11e5-918e-67dc7d574c3a",
@@ -857,7 +939,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/574083036834197507/yeKZlpd4_normal.png",
       "hatena": 13,
       "twitter": 30,
-      "total": 91
+      "total": 91,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/86fa062e-135a-11e5-a432-d9f87d574c3a",
@@ -867,7 +950,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/449541105894174721/Tmgr9zRN_normal.jpeg",
       "hatena": 16,
       "twitter": 25,
-      "total": 91
+      "total": 91,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/16b65b5a-0064-11e5-9c42-89c77d574c3a",
@@ -877,7 +961,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/501586383790563328/rwTNO_Cj_normal.jpeg",
       "hatena": 6,
       "twitter": 41,
-      "total": 90
+      "total": 90,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/3fe49c10-fa67-11e4-9e02-8ab37d574c3a",
@@ -887,7 +972,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/30682?v=3",
       "hatena": 12,
       "twitter": 29,
-      "total": 87
+      "total": 87,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/909af06e-05ed-11e5-8e9a-79c97d574c3a",
@@ -897,7 +983,8 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/711852115/picture",
       "hatena": 15,
       "twitter": 22,
-      "total": 83
+      "total": 83,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/76135c88-136a-11e5-bf05-d9f87d574c3a",
@@ -907,7 +994,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/538947384420483072/5WmJP-fh_normal.jpeg",
       "hatena": 13,
       "twitter": 25,
-      "total": 83
+      "total": 83,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/a06d9970-0d7b-11e5-aaf9-67dc7d574c3a",
@@ -917,7 +1005,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/54422?v=3",
       "hatena": 11,
       "twitter": 28,
-      "total": 82
+      "total": 82,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/32e7a270-1360-11e5-b2ec-d9f87d574c3a",
@@ -927,7 +1016,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000445530232/35d0d14c355a5d926fe42f4c5d3ab91b_normal.png",
       "hatena": 9,
       "twitter": 31,
-      "total": 81
+      "total": 81,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/a0044cc4-130a-11e5-b0c6-d9f87d574c3a",
@@ -937,7 +1027,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/593648937413685248/81DdisOn_normal.png",
       "hatena": 17,
       "twitter": 17,
-      "total": 80
+      "total": 80,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/4e5bf7f2-1362-11e5-8e54-d9f87d574c3a",
@@ -947,7 +1038,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/140584?v=3",
       "hatena": 11,
       "twitter": 27,
-      "total": 80
+      "total": 80,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/034c0d1e-10d4-11e5-9c9b-d7f07d574c3a",
@@ -957,7 +1049,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/31937?v=3",
       "hatena": 15,
       "twitter": 19,
-      "total": 78
+      "total": 78,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/46f6e730-0f14-11e5-ac41-43ec7d574c3a",
@@ -967,7 +1060,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/45287?v=3",
       "hatena": 14,
       "twitter": 19,
-      "total": 75
+      "total": 75,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/32a684e8-fd21-11e4-94eb-bdc07d574c3a",
@@ -977,7 +1071,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000732873806/db63a0f75f9a217a875fa02d2ce34c04_normal.png",
       "hatena": 16,
       "twitter": 16,
-      "total": 75
+      "total": 75,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/0c1ab872-0ac7-11e5-acee-67dc7d574c3a",
@@ -987,7 +1082,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/596297145994481664/KWANlRTk_normal.png",
       "hatena": 14,
       "twitter": 18,
-      "total": 73
+      "total": 73,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/53944d48-09ba-11e5-998a-67dc7d574c3a",
@@ -997,7 +1093,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/21084?v=3",
       "hatena": 15,
       "twitter": 16,
-      "total": 72
+      "total": 72,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/21cb8176-065b-11e5-9492-79c97d574c3a",
@@ -1007,7 +1104,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/583855288354078720/NihdVx9o_normal.jpg",
       "hatena": 12,
       "twitter": 19,
-      "total": 69
+      "total": 69,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/e8eebd70-f906-11e4-8f91-8ab37d574c3a",
@@ -1017,7 +1115,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/599475415766302720/IrXs2kkC_normal.png",
       "hatena": 11,
       "twitter": 20,
-      "total": 68
+      "total": 68,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/5d70d0da-1346-11e5-8d94-d9f87d574c3a",
@@ -1027,7 +1126,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/1716463?v=3",
       "hatena": 9,
       "twitter": 22,
-      "total": 65
+      "total": 65,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/20dd3ec6-1367-11e5-8295-d9f87d574c3a",
@@ -1037,7 +1137,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/520265668403294211/JxYDX9-P_normal.jpeg",
       "hatena": 6,
       "twitter": 27,
-      "total": 65
+      "total": 65,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/e466d60a-11db-11e5-b07b-d7f07d574c3a",
@@ -1047,7 +1148,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/38176?v=3",
       "hatena": 7,
       "twitter": 25,
-      "total": 65
+      "total": 65,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/53507dd6-1101-11e5-b6f3-d7f07d574c3a",
@@ -1057,7 +1159,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/335646?v=3",
       "hatena": 10,
       "twitter": 19,
-      "total": 63
+      "total": 63,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/2934a672-134e-11e5-9ef4-d9f87d574c3a",
@@ -1067,7 +1170,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/1157344?v=3",
       "hatena": 10,
       "twitter": 19,
-      "total": 63
+      "total": 63,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/7e6296c4-f95c-11e4-b00c-8ab37d574c3a",
@@ -1077,7 +1181,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/9558?v=3",
       "hatena": 10,
       "twitter": 18,
-      "total": 61
+      "total": 61,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/fbb5d464-1000-11e5-8165-d7f07d574c3a",
@@ -1087,7 +1192,8 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/840773865999476/picture",
       "hatena": 11,
       "twitter": 16,
-      "total": 61
+      "total": 61,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/4a44467a-0c5e-11e5-86eb-67dc7d574c3a",
@@ -1097,7 +1203,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000524225252/d0e315a0cb8d122aed39787db95cf0d4_normal.jpeg",
       "hatena": 6,
       "twitter": 23,
-      "total": 58
+      "total": 58,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/4491bfc8-11d6-11e5-ac0f-d7f07d574c3a",
@@ -1107,7 +1214,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/2700412500/9d84ff30d1cb4fd7ceb67411046ccfbe_normal.jpeg",
       "hatena": 9,
       "twitter": 18,
-      "total": 58
+      "total": 58,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/1be822d8-0f83-11e5-b022-43ec7d574c3a",
@@ -1117,7 +1225,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/417686994882269184/b1gqecsG_normal.jpeg",
       "hatena": 11,
       "twitter": 13,
-      "total": 55
+      "total": 55,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/9a9c08cc-0d1e-11e5-b03a-67dc7d574c3a",
@@ -1127,7 +1236,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1207493251/___normal.jpg",
       "hatena": 10,
       "twitter": 14,
-      "total": 54
+      "total": 54,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/5ea2630a-133d-11e5-8cbb-d9f87d574c3a",
@@ -1137,7 +1247,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000078453409/b6bfcd56abe9253d9e41f2e14bdd038f_normal.jpeg",
       "hatena": 8,
       "twitter": 17,
-      "total": 53
+      "total": 53,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/0f62694a-1354-11e5-8eb4-d9f87d574c3a",
@@ -1147,7 +1258,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/601767800172978176/Ax16wsjG_normal.jpg",
       "hatena": 8,
       "twitter": 16,
-      "total": 52
+      "total": 52,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/bd04b86c-f9de-11e4-b996-8ab37d574c3a",
@@ -1157,7 +1269,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/12676?v=3",
       "hatena": 5,
       "twitter": 21,
-      "total": 52
+      "total": 52,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/c68136f6-fd51-11e4-9e4f-bdc07d574c3a",
@@ -1167,7 +1280,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000466143858/93673f957eb413a7a34410d930afa5f7_normal.png",
       "hatena": 7,
       "twitter": 17,
-      "total": 50
+      "total": 50,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/33e44cfe-132f-11e5-9b4c-d9f87d574c3a",
@@ -1177,7 +1291,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/620884?v=3",
       "hatena": 8,
       "twitter": 14,
-      "total": 48
+      "total": 48,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/268d730e-136c-11e5-ac8f-d9f87d574c3a",
@@ -1187,7 +1302,8 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/951266011604370/picture",
       "hatena": 9,
       "twitter": 12,
-      "total": 48
+      "total": 48,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/a9d3d0ba-0d1c-11e5-bb9e-67dc7d574c3a",
@@ -1197,7 +1313,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/577452163099553792/XoOX_Ioa_normal.jpeg",
       "hatena": 9,
       "twitter": 11,
-      "total": 46
+      "total": 46,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/1c7648fa-1344-11e5-8c7c-d9f87d574c3a",
@@ -1207,7 +1324,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/5218578?v=3",
       "hatena": 6,
       "twitter": 16,
-      "total": 46
+      "total": 46,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/cbf6ea5a-11f5-11e5-b9ea-d7f07d574c3a",
@@ -1217,7 +1335,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/524693733069963265/nmA39bww_normal.jpeg",
       "hatena": 7,
       "twitter": 14,
-      "total": 45
+      "total": 45,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/3a368550-1301-11e5-9668-d9f87d574c3a",
@@ -1227,7 +1346,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/600986653721632768/zhiLWZVe_normal.png",
       "hatena": 7,
       "twitter": 14,
-      "total": 45
+      "total": 45,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/93eaf068-faec-11e4-a8fd-8ab37d574c3a",
@@ -1237,7 +1357,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/599153322939916288/tRI3N4Eh_normal.jpg",
       "hatena": 5,
       "twitter": 17,
-      "total": 45
+      "total": 45,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/f887eb70-f7e5-11e4-9737-8ab37d574c3a",
@@ -1247,7 +1368,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/97260?v=3",
       "hatena": 5,
       "twitter": 16,
-      "total": 43
+      "total": 43,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/eb00b7a8-091e-11e5-8224-67dc7d574c3a",
@@ -1257,7 +1379,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000492702362/5fb33d726ed17f142e3198cb0c980769_normal.png",
       "hatena": 7,
       "twitter": 13,
-      "total": 43
+      "total": 43,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/71d63de6-0e4e-11e5-954d-67dc7d574c3a",
@@ -1267,7 +1390,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/115636?v=3",
       "hatena": 8,
       "twitter": 11,
-      "total": 43
+      "total": 43,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/0b669ad8-f616-11e4-90fb-8ab37d574c3a",
@@ -1277,7 +1401,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/560137093/2286227_3079062002_normal.jpg",
       "hatena": 7,
       "twitter": 11,
-      "total": 40
+      "total": 40,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/94d4e442-0f56-11e5-9049-43ec7d574c3a",
@@ -1287,7 +1412,8 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/1262246947/picture",
       "hatena": 5,
       "twitter": 14,
-      "total": 39
+      "total": 39,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/81342dae-1351-11e5-ab94-d9f87d574c3a",
@@ -1297,7 +1423,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/476568469920415744/wdOm99Aa_normal.png",
       "hatena": 9,
       "twitter": 6,
-      "total": 37
+      "total": 37,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/f283a924-fddc-11e4-90cd-bdc07d574c3a",
@@ -1307,7 +1434,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/10035?v=3",
       "hatena": 8,
       "twitter": 8,
-      "total": 37
+      "total": 37,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/28878b9c-1306-11e5-b12f-d9f87d574c3a",
@@ -1317,7 +1445,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/21084?v=3",
       "hatena": 7,
       "twitter": 9,
-      "total": 36
+      "total": 36,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/96a8932c-f62e-11e4-8734-8ab37d574c3a",
@@ -1327,7 +1456,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/3445683412/bdbf36104036584029165edc231d6bc3_normal.jpeg",
       "hatena": 7,
       "twitter": 8,
-      "total": 35
+      "total": 35,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/28f713a4-fbeb-11e4-9fa6-8ab37d574c3a",
@@ -1337,7 +1467,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/193569?v=3",
       "hatena": 4,
       "twitter": 12,
-      "total": 33
+      "total": 33,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/992a85e2-f912-11e4-938b-8ab37d574c3a",
@@ -1347,7 +1478,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/419164963416985600/QtvOEPl5_normal.jpeg",
       "hatena": 6,
       "twitter": 8,
-      "total": 32
+      "total": 32,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/4c11a14a-09df-11e5-ad5e-67dc7d574c3a",
@@ -1357,7 +1489,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/515320126002831360/cdHgAcRM_normal.jpeg",
       "hatena": 5,
       "twitter": 10,
-      "total": 32
+      "total": 32,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/280c1b4e-fad6-11e4-9fca-8ab37d574c3a",
@@ -1367,7 +1500,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/530258290991583232/TaRx528t_normal.jpeg",
       "hatena": 4,
       "twitter": 11,
-      "total": 31
+      "total": 31,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/d8e842be-1366-11e5-b262-d9f87d574c3a",
@@ -1377,7 +1511,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/404805662/min_x40_mini_normal.png",
       "hatena": 4,
       "twitter": 11,
-      "total": 31
+      "total": 31,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/b03162be-0052-11e5-ba92-89c77d574c3a",
@@ -1387,7 +1522,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/4757816?v=3",
       "hatena": 3,
       "twitter": 13,
-      "total": 31
+      "total": 31,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/39d5cf28-1273-11e5-8540-d9f87d574c3a",
@@ -1397,7 +1533,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/604586076024340480/EIbpIzsF_normal.jpg",
       "hatena": 6,
       "twitter": 7,
-      "total": 30
+      "total": 30,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/9a3fdc26-136a-11e5-9b96-d9f87d574c3a",
@@ -1407,7 +1544,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/695932190/me_normal.jpg",
       "hatena": 5,
       "twitter": 9,
-      "total": 30
+      "total": 30,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/885d66a2-f607-11e4-b5a3-8ab37d574c3a",
@@ -1417,7 +1555,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/701274503/515145_584452466_normal.jpg",
       "hatena": 5,
       "twitter": 8,
-      "total": 29
+      "total": 29,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/e4791a94-f7ec-11e4-8787-8ab37d574c3a",
@@ -1427,7 +1566,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/36517?v=3",
       "hatena": 7,
       "twitter": 5,
-      "total": 29
+      "total": 29,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/109c01fa-0e58-11e5-b553-67dc7d574c3a",
@@ -1437,7 +1577,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1790006063/IMG_0575_normal.JPG",
       "hatena": 3,
       "twitter": 11,
-      "total": 28
+      "total": 28,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/315b6296-134e-11e5-a45c-d9f87d574c3a",
@@ -1447,7 +1588,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/479957377496539136/FLk2OZJN_normal.jpeg",
       "hatena": 1,
       "twitter": 14,
-      "total": 27
+      "total": 27,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/e8e1c67a-003f-11e5-8fd5-89c77d574c3a",
@@ -1457,7 +1599,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/97260?v=3",
       "hatena": 3,
       "twitter": 10,
-      "total": 26
+      "total": 26,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/daf93c2a-0849-11e5-b626-79c97d574c3a",
@@ -1467,7 +1610,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000057979446/39eb8dbe5c61459b6bc1377f54587c52_normal.jpeg",
       "hatena": 4,
       "twitter": 8,
-      "total": 26
+      "total": 26,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/806bdc36-0e25-11e5-9f3c-67dc7d574c3a",
@@ -1477,7 +1621,8 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/832303553518697/picture",
       "hatena": 5,
       "twitter": 6,
-      "total": 25
+      "total": 25,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/c83c4fae-133f-11e5-9efa-d9f87d574c3a",
@@ -1487,7 +1632,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/607137825025200128/PMAaHsVi_normal.jpg",
       "hatena": 2,
       "twitter": 11,
-      "total": 25
+      "total": 25,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/94359334-0b59-11e5-995a-67dc7d574c3a",
@@ -1497,7 +1643,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/72997?v=3",
       "hatena": 3,
       "twitter": 9,
-      "total": 24
+      "total": 24,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/b79672e2-1123-11e5-8f56-d7f07d574c3a",
@@ -1507,7 +1654,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/582195994219003904/sMFyQ7aB_normal.jpg",
       "hatena": 3,
       "twitter": 9,
-      "total": 24
+      "total": 24,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/7db44b58-12a4-11e5-bcba-d9f87d574c3a",
@@ -1517,7 +1665,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1317946234/39253694_origin_normal.jpg",
       "hatena": 4,
       "twitter": 7,
-      "total": 24
+      "total": 24,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/1ddceae2-133e-11e5-9831-d9f87d574c3a",
@@ -1527,7 +1676,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/598733415664353280/VyrR3m4F_normal.jpg",
       "hatena": 3,
       "twitter": 8,
-      "total": 23
+      "total": 23,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/b355fa20-122e-11e5-8ba5-d9f87d574c3a",
@@ -1537,7 +1687,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/12301?v=3",
       "hatena": 5,
       "twitter": 5,
-      "total": 23
+      "total": 23,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/265227c6-10b6-11e5-a819-d7f07d574c3a",
@@ -1547,7 +1698,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000598480259/bc52c5f2664337347be1b293fe2cc5ec_normal.png",
       "hatena": 4,
       "twitter": 6,
-      "total": 22
+      "total": 22,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/e19fe827-13c1-11e5-aca1-525412004261",
@@ -1557,7 +1709,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/1123322?v=3",
       "hatena": 2,
       "twitter": 9,
-      "total": 21
+      "total": 21,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/d079a84c-09d5-11e5-8169-67dc7d574c3a",
@@ -1567,7 +1720,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/2667510035/8ca5bd4e8a5851b152befe8ab9f7b6e8_normal.png",
       "hatena": 3,
       "twitter": 6,
-      "total": 19
+      "total": 19,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/acf32b5e-135e-11e5-963f-d9f87d574c3a",
@@ -1577,7 +1731,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1707414486/21_-_1_normal.jpg",
       "hatena": 3,
       "twitter": 6,
-      "total": 19
+      "total": 19,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/b5481c1c-1320-11e5-b3a3-d9f87d574c3a",
@@ -1587,7 +1742,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/487495613366292480/Y0sZh8sO_normal.jpeg",
       "hatena": 2,
       "twitter": 7,
-      "total": 18
+      "total": 18,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/5ceebdcc-136c-11e5-a014-d9f87d574c3a",
@@ -1597,7 +1753,8 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/100001054610433/picture",
       "hatena": 2,
       "twitter": 7,
-      "total": 18
+      "total": 18,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/ad57ca84-13e9-11e5-aca1-525412004261",
@@ -1607,7 +1764,8 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/1261488582/picture",
       "hatena": 2,
       "twitter": 7,
-      "total": 18
+      "total": 18,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/7d7cb9a2-12d8-11e5-9e81-d9f87d574c3a",
@@ -1617,7 +1775,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/521480305421471744/DLC7h26z_normal.png",
       "hatena": 3,
       "twitter": 4,
-      "total": 16
+      "total": 16,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/e5f171e4-133c-11e5-b836-d9f87d574c3a",
@@ -1627,7 +1786,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000466143858/93673f957eb413a7a34410d930afa5f7_normal.png",
       "hatena": 1,
       "twitter": 7,
-      "total": 15
+      "total": 15,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/414731b6-fedc-11e4-ad1d-66c47d574c3a",
@@ -1637,7 +1797,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/110625?v=3",
       "hatena": 2,
       "twitter": 4,
-      "total": 13
+      "total": 13,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/b99c43b6-0ffa-11e5-8c90-d7f07d574c3a",
@@ -1647,7 +1808,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1854685804/IMAG0064__1__normal.jpg",
       "hatena": 1,
       "twitter": 6,
-      "total": 13
+      "total": 13,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/d09049ce-1369-11e5-a8b5-d9f87d574c3a",
@@ -1657,7 +1819,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1394079624/26852578_1874744136_normal.jpg",
       "hatena": 2,
       "twitter": 4,
-      "total": 13
+      "total": 13,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/a86f10a6-136e-11e5-8ced-d9f87d574c3a",
@@ -1667,7 +1830,8 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/731850967/picture",
       "hatena": 4,
       "twitter": 1,
-      "total": 13
+      "total": 13,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/1cf18e70-1100-11e5-a394-d7f07d574c3a",
@@ -1677,7 +1841,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/4630547?v=3",
       "hatena": 3,
       "twitter": 2,
-      "total": 12
+      "total": 12,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/5d081e66-fedb-11e4-956f-66c47d574c3a",
@@ -1687,7 +1852,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/110625?v=3",
       "hatena": 1,
       "twitter": 5,
-      "total": 11
+      "total": 11,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/f9d63700-0d22-11e5-ae59-67dc7d574c3a",
@@ -1697,7 +1863,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/25436812/myfist_normal.jpg",
       "hatena": 2,
       "twitter": 3,
-      "total": 11
+      "total": 11,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/3d46659a-136e-11e5-b36d-d9f87d574c3a",
@@ -1707,7 +1874,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/10229505?v=3",
       "hatena": 1,
       "twitter": 4,
-      "total": 10
+      "total": 10,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/c9546112-1347-11e5-ad02-d9f87d574c3a",
@@ -1717,7 +1885,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/6875?v=3",
       "hatena": 2,
       "twitter": 2,
-      "total": 9
+      "total": 9,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/acecc4ba-1356-11e5-a296-d9f87d574c3a",
@@ -1727,7 +1896,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/505371986139160576/jXTLTlds_normal.jpeg",
       "hatena": 2,
       "twitter": 2,
-      "total": 9
+      "total": 9,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/aa4ea77e-136e-11e5-a199-d9f87d574c3a",
@@ -1737,7 +1907,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1098249211/niku_normal.jpg",
       "hatena": 2,
       "twitter": 2,
-      "total": 9
+      "total": 9,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/e14c5ae0-12f7-11e5-a909-d9f87d574c3a",
@@ -1747,7 +1918,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/599568269507342336/jb_Rk7sX_normal.jpg",
       "hatena": 2,
       "twitter": 2,
-      "total": 9
+      "total": 9,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/c77d5164-1301-11e5-910c-d9f87d574c3a",
@@ -1757,7 +1929,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/4560264?v=3",
       "hatena": 1,
       "twitter": 3,
-      "total": 8
+      "total": 8,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/32b918ee-1304-11e5-94b1-d9f87d574c3a",
@@ -1767,7 +1940,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/30877?v=3",
       "hatena": 0,
       "twitter": 5,
-      "total": 8
+      "total": 8,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/8eae34ac-136a-11e5-bf05-d9f87d574c3a",
@@ -1777,7 +1951,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/12896099?v=3",
       "hatena": 1,
       "twitter": 3,
-      "total": 8
+      "total": 8,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/a90c7002-0f6e-11e5-bd79-43ec7d574c3a",
@@ -1787,7 +1962,8 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/1131016653/picture",
       "hatena": 0,
       "twitter": 4,
-      "total": 7
+      "total": 7,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/6849b338-1061-11e5-ad11-d7f07d574c3a",
@@ -1797,7 +1973,8 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/827451210665191/picture",
       "hatena": 0,
       "twitter": 4,
-      "total": 7
+      "total": 7,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/49e53cbe-11e2-11e5-ac4c-d7f07d574c3a",
@@ -1807,7 +1984,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/433156968576843776/f8PDnsa-_normal.png",
       "hatena": 1,
       "twitter": 2,
-      "total": 6
+      "total": 6,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/cbe92afe-12a5-11e5-8fc1-d9f87d574c3a",
@@ -1817,7 +1995,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/2808?v=3",
       "hatena": 1,
       "twitter": 2,
-      "total": 6
+      "total": 6,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/5d5ef048-136b-11e5-b1b7-d9f87d574c3a",
@@ -1827,7 +2006,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/53912?v=3",
       "hatena": 1,
       "twitter": 2,
-      "total": 6
+      "total": 6,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/a4e034cc-1366-11e5-b199-d9f87d574c3a",
@@ -1837,7 +2017,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/595286077985804288/mIsprLuz_normal.jpg",
       "hatena": 0,
       "twitter": 3,
-      "total": 5
+      "total": 5,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/322e11bc-0d3d-11e5-ac8b-67dc7d574c3a",
@@ -1847,7 +2028,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/833824?v=3",
       "hatena": 1,
       "twitter": 1,
-      "total": 4
+      "total": 4,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/f561dd26-1369-11e5-a050-d9f87d574c3a",
@@ -1857,7 +2039,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/595286077985804288/mIsprLuz_normal.jpg",
       "hatena": 1,
       "twitter": 1,
-      "total": 4
+      "total": 4,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/b4740140-0031-11e5-b311-89c77d574c3a",
@@ -1867,7 +2050,8 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/100002578287431/picture",
       "hatena": 0,
       "twitter": 2,
-      "total": 3
+      "total": 3,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/235d24a4-0a34-11e5-8a3a-67dc7d574c3a",
@@ -1877,7 +2061,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/4970?v=3",
       "hatena": 0,
       "twitter": 2,
-      "total": 3
+      "total": 3,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/7cdd9012-0fad-11e5-8dfb-43ec7d574c3a",
@@ -1887,7 +2072,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/50259?v=3",
       "hatena": 0,
       "twitter": 1,
-      "total": 1
+      "total": 1,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/3a36ed2e-109f-11e5-9d18-d7f07d574c3a",
@@ -1897,7 +2083,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/3031424?v=3",
       "hatena": 0,
       "twitter": 1,
-      "total": 1
+      "total": 1,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/f9b77d4a-1102-11e5-a406-d7f07d574c3a",
@@ -1907,7 +2094,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/1091889?v=3",
       "hatena": 0,
       "twitter": 1,
-      "total": 1
+      "total": 1,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/61b09c00-11d6-11e5-8e29-d7f07d574c3a",
@@ -1917,7 +2105,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/55653618/2547153343_5dff0945de_normal.jpg",
       "hatena": 0,
       "twitter": 1,
-      "total": 1
+      "total": 1,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/1effc02c-136e-11e5-8887-d9f87d574c3a",
@@ -1927,7 +2116,8 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/927473347309272/picture",
       "hatena": 0,
       "twitter": 1,
-      "total": 1
+      "total": 1,
+      "accepted": false
     },
     {
       "path": "/2015/talk/show/6964fd88-f5e8-11e4-b323-49b37d574c3a",
@@ -1937,7 +2127,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1223562029/DSC00001_normal.JPG",
       "hatena": 0,
       "twitter": 1,
-      "total": 1
+      "total": 1,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/22f59fb8-0fad-11e5-98ef-43ec7d574c3a",
@@ -1947,7 +2138,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/50259?v=3",
       "hatena": 0,
       "twitter": 1,
-      "total": 1
+      "total": 1,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/1ffa6f7a-f5e8-11e4-a4ec-49b37d574c3a",
@@ -1957,7 +2149,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1223562029/DSC00001_normal.JPG",
       "hatena": 0,
       "twitter": 1,
-      "total": 1
+      "total": 1,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/69caedbd-1872-11e5-aca1-525412004261",
@@ -1967,7 +2160,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1223562029/DSC00001_normal.JPG",
       "hatena": 0,
       "twitter": 0,
-      "total": 0
+      "total": 0,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/6bde6c69-187a-11e5-aca1-525412004261",
@@ -1977,7 +2171,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1376628217/brad_normal.jpg",
       "hatena": 0,
       "twitter": 0,
-      "total": 0
+      "total": 0,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/ae1cce86-1874-11e5-aca1-525412004261",
@@ -1987,7 +2182,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1223562029/DSC00001_normal.JPG",
       "hatena": 0,
       "twitter": 0,
-      "total": 0
+      "total": 0,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/22957e9c-1872-11e5-aca1-525412004261",
@@ -1997,7 +2193,8 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/1223562029/DSC00001_normal.JPG",
       "hatena": 0,
       "twitter": 0,
-      "total": 0
+      "total": 0,
+      "accepted": true
     },
     {
       "path": "/2015/talk/show/cc0ec485-1879-11e5-aca1-525412004261",
@@ -2007,7 +2204,8 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/30733?v=3",
       "hatena": 0,
       "twitter": 0,
-      "total": 0
+      "total": 0,
+      "accepted": true
     }
   ]
 }
@@ -2037,7 +2235,8 @@ $(function () {
   _rankingJson.ranking.forEach(function (talk, i) {
     var tr = document.createElement('tr');
     var url = YAPC_URL + talk.path;
-    tr.innerHTML = html(_taggedTemplateLiteral(['\n<td>', '</td>\n<td><a href="', '">', '</a></td>\n<td><a href="', '"><img class="speaker-icon" src="', '">', '</a></td>\n<td><a href="https://twitter.com/search?q=', '" class="social-count">', '</a></td>\n<td><a href="http://b.hatena.ne.jp/entry/yapcasia.org', '" class="social-count">', '</a></td>\n<td>', '</td>'], ['\n<td>', '</td>\n<td><a href="', '">', '</a></td>\n<td><a href="', '"><img class="speaker-icon" src="', '">', '</a></td>\n<td><a href="https://twitter.com/search?q=', '" class="social-count">', '</a></td>\n<td><a href="http://b.hatena.ne.jp/entry/yapcasia.org', '" class="social-count">', '</a></td>\n<td>', '</td>']), i + 1, url, talk.title, talk.speaker_url, talk.speaker_icon, talk.speaker_name, encodeURIComponent(url), talk.twitter, talk.path, talk.hatena, talk.total).replace(/\n/g, '');
+    var acceptedClass = talk.accepted ? 'accepted' : '';
+    tr.innerHTML = html(_taggedTemplateLiteral(['\n<td>', '</td>\n<td><span class="accept ', '">採用</span> <a href="', '">', '</a></td>\n<td><a href="', '"><img class="speaker-icon" src="', '">', '</a></td>\n<td><a href="https://twitter.com/search?q=', '" class="social-count">', '</a></td>\n<td><a href="http://b.hatena.ne.jp/entry/yapcasia.org', '" class="social-count">', '</a></td>\n<td>', '</td>'], ['\n<td>', '</td>\n<td><span class="accept ', '">採用</span> <a href="', '">', '</a></td>\n<td><a href="', '"><img class="speaker-icon" src="', '">', '</a></td>\n<td><a href="https://twitter.com/search?q=', '" class="social-count">', '</a></td>\n<td><a href="http://b.hatena.ne.jp/entry/yapcasia.org', '" class="social-count">', '</a></td>\n<td>', '</td>']), i + 1, acceptedClass, url, talk.title, talk.speaker_url, talk.speaker_icon, talk.speaker_name, encodeURIComponent(url), talk.twitter, talk.path, talk.hatena, talk.total).replace(/\n/g, '');
     tbody.append(tr);
   });
 

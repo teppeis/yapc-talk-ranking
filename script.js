@@ -8,14 +8,15 @@ var YAPC_URL = 'http://yapcasia.org';
 var table = $('#ranking');
 var tbody = table.find('tbody');
 
-$('#updated').text(`${new Date(updated).toISOString()} 更新`);
+$('#updated').text(`${new Date(updated).toISOString()} 時点`);
 
 ranking.forEach((talk, i) => {
   var tr = document.createElement('tr');
   var url = YAPC_URL + talk.path;
+  var acceptedClass = talk.accepted ? 'accepted' : '';
   tr.innerHTML = html`
 <td>${i + 1}</td>
-<td><a href="${url}">${talk.title}</a></td>
+<td><span class="accept ${acceptedClass}">採用</span> <a href="${url}">${talk.title}</a></td>
 <td><a href="${talk.speaker_url}"><img class="speaker-icon" src="${talk.speaker_icon}">${talk.speaker_name}</a></td>
 <td><a href="https://twitter.com/search?q=${encodeURIComponent(url)}" class="social-count">${talk.twitter}</a></td>
 <td><a href="http://b.hatena.ne.jp/entry/yapcasia.org${talk.path}" class="social-count">${talk.hatena}</a></td>

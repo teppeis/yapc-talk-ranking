@@ -20,6 +20,20 @@ body {
   content: '\f0d8';
 }
 
+.accept {
+  display: none;
+  background-color: #6A5;
+  color: #fff;
+  padding: 2px 5px;
+  margin-right: 2px;
+  font-size: 11px;
+  font-weight: bold;
+}
+
+.accepted {
+  display: inline;
+}
+
 .social-count {
   padding: 4px;
 }
