@@ -1,5 +1,5 @@
 {
-  "date": 1434942017585,
+  "date": 1434982123216,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -7,9 +7,9 @@
       "speaker_name": "趣味はマリンスポーツです",
       "speaker_url": "https://twitter.com/hitode909",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1753788808/sushi_r_normal.gif",
-      "hatena": 145,
+      "hatena": 146,
       "twitter": 164,
-      "total": 1406
+      "total": 1400
     },
     {
       "path": "/2015/talk/show/c191c08a-0a98-11e5-be34-67dc7d574c3a",
@@ -17,9 +17,9 @@
       "speaker_name": "Atsuo Fukaya",
       "speaker_url": "https://github.com/fukayatsu",
       "speaker_icon": "https://avatars.githubusercontent.com/u/1041857?v=3",
-      "hatena": 110,
-      "twitter": 171,
-      "total": 1232
+      "hatena": 111,
+      "twitter": 185,
+      "total": 1273
     },
     {
       "path": "/2015/talk/show/9ec2791c-05e5-11e5-81fa-79c97d574c3a",
@@ -27,9 +27,9 @@
       "speaker_name": "aereal",
       "speaker_url": "https://github.com/aereal",
       "speaker_icon": "https://avatars.githubusercontent.com/u/87649?v=3",
-      "hatena": 107,
-      "twitter": 141,
-      "total": 1108
+      "hatena": 108,
+      "twitter": 142,
+      "total": 1107
     },
     {
       "path": "/2015/talk/show/f2816038-10ec-11e5-89bf-d7f07d574c3a",
@@ -38,8 +38,8 @@
       "speaker_url": "https://github.com/kenjiskywalker",
       "speaker_icon": "https://avatars.githubusercontent.com/u/1315074?v=3",
       "hatena": 69,
-      "twitter": 124,
-      "total": 832
+      "twitter": 126,
+      "total": 829
     },
     {
       "path": "/2015/talk/show/86ebd212-fab3-11e4-8f5a-8ab37d574c3a",
@@ -47,9 +47,9 @@
       "speaker_name": "Masahiro Nagano",
       "speaker_url": "https://github.com/kazeburo",
       "speaker_icon": "https://avatars.githubusercontent.com/u/46764?v=3",
-      "hatena": 64,
-      "twitter": 124,
-      "total": 803
+      "hatena": 65,
+      "twitter": 127,
+      "total": 810
     },
     {
       "path": "/2015/talk/show/c5ea5428-fac9-11e4-88c1-8ab37d574c3a",
@@ -59,17 +59,17 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/1623040?v=3",
       "hatena": 59,
       "twitter": 118,
-      "total": 754
+      "total": 745
     },
     {
-      "path": "/2015/talk/show/441c0b72-036f-11e5-851f-79c97d574c3a",
-      "title": "技術顧問というお仕事",
-      "speaker_name": "Naoya Ito",
-      "speaker_url": "https://github.com/naoya",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/8991?v=3",
-      "hatena": 77,
-      "twitter": 69,
-      "total": 682
+      "path": "/2015/talk/show/4bab2728-00fa-11e5-9931-79c97d574c3a",
+      "title": "Web由来の組み込みエンジニアの半年間のすべて 〜WebとiOSとBLEとハードウェアデバイスのこと〜",
+      "speaker_name": "Kazuhiro Homma",
+      "speaker_url": "https://github.com/kazuph",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/849165?v=3",
+      "hatena": 53,
+      "twitter": 100,
+      "total": 648
     },
     {
       "path": "/2015/talk/show/b335dee0-09ad-11e5-8d7a-67dc7d574c3a",
@@ -79,17 +79,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/1295745651/fujiwara-icon-s_normal.png",
       "hatena": 60,
       "twitter": 84,
-      "total": 639
-    },
-    {
-      "path": "/2015/talk/show/4bab2728-00fa-11e5-9931-79c97d574c3a",
-      "title": "Web由来の組み込みエンジニアの半年間のすべて 〜WebとiOSとBLEとハードウェアデバイスのこと〜",
-      "speaker_name": "Kazuhiro Homma",
-      "speaker_url": "https://github.com/kazuph",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/849165?v=3",
-      "hatena": 51,
-      "twitter": 97,
-      "total": 634
+      "total": 633
     },
     {
       "path": "/2015/talk/show/4f85e87a-f9ec-11e4-8262-8ab37d574c3a",
@@ -99,7 +89,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/12301?v=3",
       "hatena": 55,
       "twitter": 65,
-      "total": 543
+      "total": 538
     },
     {
       "path": "/2015/talk/show/621948f2-0d46-11e5-a403-67dc7d574c3a",
@@ -108,8 +98,8 @@
       "speaker_url": "https://twitter.com/uzulla",
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000122330373/c9162e04e2a5fb779758cc4f0a13c2c0_normal.jpeg",
       "hatena": 45,
-      "twitter": 80,
-      "total": 539
+      "twitter": 81,
+      "total": 537
     },
     {
       "path": "/2015/talk/show/523b9508-0d77-11e5-8174-67dc7d574c3a",
@@ -117,9 +107,19 @@
       "speaker_name": "karupanerura",
       "speaker_url": "https://github.com/karupanerura",
       "speaker_icon": "https://avatars.githubusercontent.com/u/374550?v=3",
-      "hatena": 55,
+      "hatena": 56,
       "twitter": 60,
-      "total": 525
+      "total": 527
+    },
+    {
+      "path": "/2015/talk/show/7d62caf8-12f4-11e5-881c-d9f87d574c3a",
+      "title": "技術ブログを書くことについて語るときに僕の語ること",
+      "speaker_name": "yuuki",
+      "speaker_url": "https://twitter.com/y_uuk1",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/3279630066/5fec6321a3aca8de271ccb3fae606d2a_normal.png",
+      "hatena": 53,
+      "twitter": 64,
+      "total": 523
     },
     {
       "path": "/2015/talk/show/5b1cd536-07ed-11e5-9e42-79c97d574c3a",
@@ -129,7 +129,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/538947384420483072/5WmJP-fh_normal.jpeg",
       "hatena": 45,
       "twitter": 65,
-      "total": 486
+      "total": 481
     },
     {
       "path": "/2015/talk/show/39a15ad4-0ff5-11e5-a984-d7f07d574c3a",
@@ -139,17 +139,7 @@
       "speaker_icon": "http://graph.facebook.com/100000459480102/picture",
       "hatena": 36,
       "twitter": 77,
-      "total": 477
-    },
-    {
-      "path": "/2015/talk/show/dead6890-09b7-11e5-998a-67dc7d574c3a",
-      "title": "HTTP/2 & クラウド時代のウェブアプリケーション実行基盤",
-      "speaker_name": "Kazuho Oku",
-      "speaker_url": "https://twitter.com/kazuho",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/1656455610/__________2011-11-25_12.16.30__normal.png",
-      "hatena": 41,
-      "twitter": 62,
-      "total": 453
+      "total": 471
     },
     {
       "path": "/2015/talk/show/bb82c8fc-12a3-11e5-962e-d9f87d574c3a",
@@ -157,9 +147,19 @@
       "speaker_name": "moznion",
       "speaker_url": "https://github.com/moznion",
       "speaker_icon": "https://avatars.githubusercontent.com/u/1422834?v=3",
-      "hatena": 39,
-      "twitter": 64,
-      "total": 448
+      "hatena": 41,
+      "twitter": 65,
+      "total": 458
+    },
+    {
+      "path": "/2015/talk/show/dead6890-09b7-11e5-998a-67dc7d574c3a",
+      "title": "HTTP/2 & クラウド時代のウェブアプリケーション実行基盤",
+      "speaker_name": "Kazuho Oku",
+      "speaker_url": "https://twitter.com/kazuho",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/1656455610/__________2011-11-25_12.16.30__normal.png",
+      "hatena": 42,
+      "twitter": 63,
+      "total": 457
     },
     {
       "path": "/2015/talk/show/53aacc02-faca-11e4-8c2e-8ab37d574c3a",
@@ -168,8 +168,8 @@
       "speaker_url": "https://twitter.com/koemu",
       "speaker_icon": "http://pbs.twimg.com/profile_images/3685820543/1e8215b4268fef1d97891e3d61b7b361_normal.png",
       "hatena": 38,
-      "twitter": 65,
-      "total": 446
+      "twitter": 67,
+      "total": 448
     },
     {
       "path": "/2015/talk/show/82e93a96-f60e-11e4-907e-8ab37d574c3a",
@@ -179,7 +179,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/206948941/wall-e_normal.jpg",
       "hatena": 38,
       "twitter": 63,
-      "total": 439
+      "total": 434
     },
     {
       "path": "/2015/talk/show/44721562-10e4-11e5-88a0-d7f07d574c3a",
@@ -188,8 +188,8 @@
       "speaker_url": "https://github.com/teppeis",
       "speaker_icon": "https://avatars.githubusercontent.com/u/26476?v=3",
       "hatena": 28,
-      "twitter": 77,
-      "total": 432
+      "twitter": 79,
+      "total": 433
     },
     {
       "path": "/2015/talk/show/dd8ce20e-fad2-11e4-b6e7-8ab37d574c3a",
@@ -199,7 +199,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/16928?v=3",
       "hatena": 29,
       "twitter": 59,
-      "total": 374
+      "total": 369
     },
     {
       "path": "/2015/talk/show/5f5cad74-004a-11e5-acf4-89c77d574c3a",
@@ -208,8 +208,8 @@
       "speaker_url": "https://twitter.com/tagomoris",
       "speaker_icon": "http://pbs.twimg.com/profile_images/525991223060746241/_ORoKYuX_normal.png",
       "hatena": 30,
-      "twitter": 52,
-      "total": 355
+      "twitter": 53,
+      "total": 354
     },
     {
       "path": "/2015/talk/show/92a7bb60-1323-11e5-a252-d9f87d574c3a",
@@ -219,7 +219,27 @@
       "speaker_icon": "http://graph.facebook.com/1121132103/picture",
       "hatena": 28,
       "twitter": 51,
-      "total": 340
+      "total": 336
+    },
+    {
+      "path": "/2015/talk/show/c2c7b8a4-faaa-11e4-a8be-8ab37d574c3a",
+      "title": "サーバーサイドエンジニア(特にPerl)のためのiOSアプリ開発入門",
+      "speaker_name": "Daisuke Murase",
+      "speaker_url": "https://github.com/typester",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/3420?v=3",
+      "hatena": 27,
+      "twitter": 48,
+      "total": 320
+    },
+    {
+      "path": "/2015/talk/show/897abeb2-1007-11e5-a760-d7f07d574c3a",
+      "title": "Perlがメインじゃない現場でもPerlを使う(AdTech現場編）",
+      "speaker_name": "Masaru Hoshino",
+      "speaker_url": "https://github.com/masartz",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/49303?v=3",
+      "hatena": 27,
+      "twitter": 47,
+      "total": 316
     },
     {
       "path": "/2015/talk/show/a668ef3e-080b-11e5-b2b4-79c97d574c3a",
@@ -229,7 +249,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/419456734264954880/FYDksW9H_normal.jpeg",
       "hatena": 27,
       "twitter": 47,
-      "total": 320
+      "total": 316
     },
     {
       "path": "/2015/talk/show/94051590-fb11-11e4-a39d-8ab37d574c3a",
@@ -239,37 +259,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/250407?v=3",
       "hatena": 27,
       "twitter": 46,
-      "total": 316
-    },
-    {
-      "path": "/2015/talk/show/c2c7b8a4-faaa-11e4-a8be-8ab37d574c3a",
-      "title": "サーバーサイドエンジニア(特にPerl)のためのiOSアプリ開発入門",
-      "speaker_name": "Daisuke Murase",
-      "speaker_url": "https://github.com/typester",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/3420?v=3",
-      "hatena": 26,
-      "twitter": 47,
-      "total": 314
-    },
-    {
-      "path": "/2015/talk/show/897abeb2-1007-11e5-a760-d7f07d574c3a",
-      "title": "Perlがメインじゃない現場でもPerlを使う(AdTech現場編）",
-      "speaker_name": "Masaru Hoshino",
-      "speaker_url": "https://github.com/masartz",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/49303?v=3",
-      "hatena": 27,
-      "twitter": 45,
       "total": 313
-    },
-    {
-      "path": "/2015/talk/show/9f7059dc-003c-11e5-a00c-89c77d574c3a",
-      "title": "Perlで学ぼう！文系プログラマのための、知識ゼロからのデータ構造と計算量",
-      "speaker_name": "Shinpei Maruyama",
-      "speaker_url": "https://github.com/Shinpeim",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/876988?v=3",
-      "hatena": 32,
-      "twitter": 28,
-      "total": 281
     },
     {
       "path": "/2015/talk/show/9e9ae188-fb20-11e4-9a97-8ab37d574c3a",
@@ -278,8 +268,18 @@
       "speaker_url": "https://github.com/Jxck",
       "speaker_icon": "https://avatars.githubusercontent.com/u/322289?v=3",
       "hatena": 26,
-      "twitter": 35,
-      "total": 271
+      "twitter": 41,
+      "total": 290
+    },
+    {
+      "path": "/2015/talk/show/9f7059dc-003c-11e5-a00c-89c77d574c3a",
+      "title": "Perlで学ぼう！文系プログラマのための、知識ゼロからのデータ構造と計算量",
+      "speaker_name": "Shinpei Maruyama",
+      "speaker_url": "https://github.com/Shinpeim",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/876988?v=3",
+      "hatena": 32,
+      "twitter": 29,
+      "total": 282
     },
     {
       "path": "/2015/talk/show/b396e912-091a-11e5-8d2d-67dc7d574c3a",
@@ -287,9 +287,9 @@
       "speaker_name": "Kazuhiro Osawa",
       "speaker_url": "https://github.com/yappo",
       "speaker_icon": "https://avatars.githubusercontent.com/u/9958?v=3",
-      "hatena": 23,
-      "twitter": 35,
-      "total": 254
+      "hatena": 24,
+      "twitter": 36,
+      "total": 261
     },
     {
       "path": "/2015/talk/show/c61a32a4-f797-11e4-bcef-8ab37d574c3a",
@@ -297,9 +297,19 @@
       "speaker_name": "cho45",
       "speaker_url": "https://github.com/cho45",
       "speaker_icon": "https://avatars.githubusercontent.com/u/3092?v=3",
-      "hatena": 24,
-      "twitter": 33,
-      "total": 253
+      "hatena": 25,
+      "twitter": 34,
+      "total": 260
+    },
+    {
+      "path": "/2015/talk/show/1da55daa-0deb-11e5-944c-67dc7d574c3a",
+      "title": "PietでLISP処理系を書くのは難しい",
+      "speaker_name": "Hideaki Nagamine",
+      "speaker_url": "https://github.com/1995hnagamin",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/7394250?v=3",
+      "hatena": 12,
+      "twitter": 53,
+      "total": 251
     },
     {
       "path": "/2015/talk/show/a4318242-f5f2-11e4-afb7-49b37d574c3a",
@@ -308,8 +318,8 @@
       "speaker_url": "https://github.com/cubicdaiya",
       "speaker_icon": "https://avatars.githubusercontent.com/u/56752?v=3",
       "hatena": 27,
-      "twitter": 27,
-      "total": 249
+      "twitter": 28,
+      "total": 250
     },
     {
       "path": "/2015/talk/show/cf39f7fc-ff44-11e4-9264-66c47d574c3a",
@@ -319,7 +329,7 @@
       "speaker_icon": "http://graph.facebook.com/631255029/picture",
       "hatena": 18,
       "twitter": 39,
-      "total": 240
+      "total": 237
     },
     {
       "path": "/2015/talk/show/a636430c-0fbf-11e5-8a02-43ec7d574c3a",
@@ -329,7 +339,27 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/162146?v=3",
       "hatena": 22,
       "twitter": 32,
-      "total": 238
+      "total": 236
+    },
+    {
+      "path": "/2015/talk/show/39a72c04-10e3-11e5-b8ab-d7f07d574c3a",
+      "title": "perlワンライナー入門",
+      "speaker_name": "Akira Sakamoto",
+      "speaker_url": "https://www.facebook.com/929494707114841",
+      "speaker_icon": "http://graph.facebook.com/929494707114841/picture",
+      "hatena": 19,
+      "twitter": 35,
+      "total": 229
+    },
+    {
+      "path": "/2015/talk/show/0af26fe4-0b7b-11e5-a29c-67dc7d574c3a",
+      "title": "MySQLで2億件のシリアルデータと格闘したチューニングの話",
+      "speaker_name": "さいけん",
+      "speaker_url": "https://twitter.com/saiken3110",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/1205361823/img_791544_45327987_0_normal.jpg",
+      "hatena": 18,
+      "twitter": 36,
+      "total": 227
     },
     {
       "path": "/2015/talk/show/f5aa5054-12fd-11e5-b4c9-d9f87d574c3a",
@@ -339,37 +369,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/1711030185/header_title_normal.jpg",
       "hatena": 18,
       "twitter": 36,
-      "total": 230
-    },
-    {
-      "path": "/2015/talk/show/39a72c04-10e3-11e5-b8ab-d7f07d574c3a",
-      "title": "perlワンライナー入門",
-      "speaker_name": "Akira Sakamoto",
-      "speaker_url": "https://www.facebook.com/929494707114841",
-      "speaker_icon": "http://graph.facebook.com/929494707114841/picture",
-      "hatena": 19,
-      "twitter": 33,
-      "total": 225
-    },
-    {
-      "path": "/2015/talk/show/0af26fe4-0b7b-11e5-a29c-67dc7d574c3a",
-      "title": "MySQLで2億件のシリアルデータと格闘したチューニングの話",
-      "speaker_name": "さいけん",
-      "speaker_url": "https://twitter.com/saiken3110",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/1205361823/img_791544_45327987_0_normal.jpg",
-      "hatena": 18,
-      "twitter": 34,
-      "total": 222
-    },
-    {
-      "path": "/2015/talk/show/1da55daa-0deb-11e5-944c-67dc7d574c3a",
-      "title": "PietでLISP処理系を書くのは難しい",
-      "speaker_name": "Hideaki Nagamine",
-      "speaker_url": "https://github.com/1995hnagamin",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/7394250?v=3",
-      "hatena": 12,
-      "twitter": 38,
-      "total": 203
+      "total": 227
     },
     {
       "path": "/2015/talk/show/7d66b640-0a6b-11e5-b1a0-67dc7d574c3a",
@@ -377,9 +377,9 @@
       "speaker_name": "Ben Ogle",
       "speaker_url": "https://github.com/benogle",
       "speaker_icon": "https://avatars.githubusercontent.com/u/69169?v=3",
-      "hatena": 14,
-      "twitter": 33,
-      "total": 196
+      "hatena": 15,
+      "twitter": 34,
+      "total": 203
     },
     {
       "path": "/2015/talk/show/3fe49c10-fa67-11e4-9e02-8ab37d574c3a",
@@ -389,7 +389,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/30682?v=3",
       "hatena": 12,
       "twitter": 29,
-      "total": 171
+      "total": 168
     },
     {
       "path": "/2015/talk/show/a06d9970-0d7b-11e5-aaf9-67dc7d574c3a",
@@ -399,7 +399,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/54422?v=3",
       "hatena": 11,
       "twitter": 28,
-      "total": 161
+      "total": 159
     },
     {
       "path": "/2015/talk/show/32a684e8-fd21-11e4-94eb-bdc07d574c3a",
@@ -409,7 +409,7 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000732873806/db63a0f75f9a217a875fa02d2ce34c04_normal.png",
       "hatena": 16,
       "twitter": 16,
-      "total": 147
+      "total": 146
     },
     {
       "path": "/2015/talk/show/53944d48-09ba-11e5-998a-67dc7d574c3a",
@@ -417,9 +417,9 @@
       "speaker_name": "Tokuhiro Matsuno",
       "speaker_url": "https://github.com/tokuhirom",
       "speaker_icon": "https://avatars.githubusercontent.com/u/21084?v=3",
-      "hatena": 15,
+      "hatena": 16,
       "twitter": 16,
-      "total": 142
+      "total": 146
     },
     {
       "path": "/2015/talk/show/21cb8176-065b-11e5-9492-79c97d574c3a",
@@ -429,17 +429,17 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/583855288354078720/NihdVx9o_normal.jpg",
       "hatena": 12,
       "twitter": 19,
-      "total": 135
+      "total": 134
     },
     {
       "path": "/2015/talk/show/e8eebd70-f906-11e4-8f91-8ab37d574c3a",
       "title": "それは僕たちのドメイン・DNS運用",
-      "speaker_name": "ぱんつの本質",
+      "speaker_name": "jigyakkuma",
       "speaker_url": "https://twitter.com/jigyakkuma_",
       "speaker_icon": "http://pbs.twimg.com/profile_images/599475415766302720/IrXs2kkC_normal.png",
       "hatena": 11,
       "twitter": 20,
-      "total": 133
+      "total": 131
     },
     {
       "path": "/2015/talk/show/e466d60a-11db-11e5-b07b-d7f07d574c3a",
@@ -449,7 +449,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/38176?v=3",
       "hatena": 7,
       "twitter": 25,
-      "total": 128
+      "total": 126
     },
     {
       "path": "/2015/talk/show/5ea2630a-133d-11e5-8cbb-d9f87d574c3a",
@@ -458,8 +458,8 @@
       "speaker_url": "https://twitter.com/toritori0318",
       "speaker_icon": "http://pbs.twimg.com/profile_images/378800000078453409/b6bfcd56abe9253d9e41f2e14bdd038f_normal.jpeg",
       "hatena": 8,
-      "twitter": 17,
-      "total": 105
+      "twitter": 18,
+      "total": 107
     },
     {
       "path": "/2015/talk/show/bd04b86c-f9de-11e4-b996-8ab37d574c3a",
@@ -469,7 +469,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/12676?v=3",
       "hatena": 5,
       "twitter": 21,
-      "total": 102
+      "total": 101
     },
     {
       "path": "/2015/talk/show/268d730e-136c-11e5-ac8f-d9f87d574c3a",
@@ -478,8 +478,8 @@
       "speaker_url": "https://www.facebook.com/951266011604370",
       "speaker_icon": "http://graph.facebook.com/951266011604370/picture",
       "hatena": 9,
-      "twitter": 12,
-      "total": 93
+      "twitter": 13,
+      "total": 96
     },
     {
       "path": "/2015/talk/show/93eaf068-faec-11e4-a8fd-8ab37d574c3a",
@@ -489,7 +489,17 @@
       "speaker_icon": "http://pbs.twimg.com/profile_images/599153322939916288/tRI3N4Eh_normal.jpg",
       "hatena": 5,
       "twitter": 17,
-      "total": 88
+      "total": 87
+    },
+    {
+      "path": "/2015/talk/show/f283a924-fddc-11e4-90cd-bdc07d574c3a",
+      "title": "DeepLearning の前に知っておくことがある！ 再帰型のニューラルネットワークや自己組織化マップについて語ろう",
+      "speaker_name": "muddydixon",
+      "speaker_url": "https://github.com/muddydixon",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/10035?v=3",
+      "hatena": 9,
+      "twitter": 9,
+      "total": 82
     },
     {
       "path": "/2015/talk/show/0b669ad8-f616-11e4-90fb-8ab37d574c3a",
@@ -502,14 +512,14 @@
       "total": 78
     },
     {
-      "path": "/2015/talk/show/f283a924-fddc-11e4-90cd-bdc07d574c3a",
-      "title": "DeepLearning の前に知っておくことがある！ 再帰型のニューラルネットワークや自己組織化マップについて語ろう",
-      "speaker_name": "muddydixon",
-      "speaker_url": "https://github.com/muddydixon",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/10035?v=3",
-      "hatena": 8,
-      "twitter": 8,
-      "total": 73
+      "path": "/2015/talk/show/b03162be-0052-11e5-ba92-89c77d574c3a",
+      "title": "Run containerized workloads with Lattice",
+      "speaker_name": "Etourneau Gwenn",
+      "speaker_url": "https://github.com/shinji62",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/4757816?v=3",
+      "hatena": 3,
+      "twitter": 17,
+      "total": 75
     },
     {
       "path": "/2015/talk/show/81342dae-1351-11e5-ab94-d9f87d574c3a",
@@ -522,24 +532,14 @@
       "total": 72
     },
     {
-      "path": "/2015/talk/show/b03162be-0052-11e5-ba92-89c77d574c3a",
-      "title": "Run containerized workloads with Lattice",
-      "speaker_name": "Etourneau Gwenn",
-      "speaker_url": "https://github.com/shinji62",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/4757816?v=3",
-      "hatena": 3,
-      "twitter": 15,
-      "total": 70
-    },
-    {
       "path": "/2015/talk/show/5ceebdcc-136c-11e5-a014-d9f87d574c3a",
       "title": "サンタクロースを支えるIT技術",
       "speaker_name": "Masayuki Ishikawa",
       "speaker_url": "https://www.facebook.com/100001054610433",
       "speaker_icon": "http://graph.facebook.com/100001054610433/picture",
       "hatena": 2,
-      "twitter": 10,
-      "total": 46
+      "twitter": 16,
+      "total": 66
     },
     {
       "path": "/2015/talk/show/b355fa20-122e-11e5-8ba5-d9f87d574c3a",
@@ -547,9 +547,9 @@
       "speaker_name": "SHIBATA Hiroshi",
       "speaker_url": "https://github.com/hsbt",
       "speaker_icon": "https://avatars.githubusercontent.com/u/12301?v=3",
-      "hatena": 5,
-      "twitter": 5,
-      "total": 46
+      "hatena": 6,
+      "twitter": 7,
+      "total": 58
     },
     {
       "path": "/2015/talk/show/e19fe827-13c1-11e5-aca1-525412004261",
@@ -559,7 +559,7 @@
       "speaker_icon": "https://avatars.githubusercontent.com/u/1123322?v=3",
       "hatena": 2,
       "twitter": 9,
-      "total": 43
+      "total": 42
     },
     {
       "path": "/2015/talk/show/ad57ca84-13e9-11e5-aca1-525412004261",
