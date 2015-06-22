@@ -8,8 +8,6 @@ var YAPC_URL = 'http://yapcasia.org';
 var table = $('#ranking');
 var tbody = table.find('tbody');
 
-$('#updated').text(`${new Date(updated).toISOString()} 時点`);
-
 ranking.forEach((talk, i) => {
   var tr = document.createElement('tr');
   var url = YAPC_URL + talk.path;
