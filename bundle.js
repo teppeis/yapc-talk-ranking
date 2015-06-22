@@ -27,7 +27,7 @@
 
 },{}],2:[function(require,module,exports){
 module.exports={
-  "date": 1434934848048,
+  "date": 1434938450282,
   "ranking": [
     {
       "path": "/2015/talk/show/de9e7a1e-136d-11e5-a9fc-d9f87d574c3a",
@@ -150,6 +150,16 @@ module.exports={
       "total": 275
     },
     {
+      "path": "/2015/talk/show/7d62caf8-12f4-11e5-881c-d9f87d574c3a",
+      "title": "技術ブログを書くことについて語るときに僕の語ること",
+      "speaker_name": "yuuki",
+      "speaker_url": "https://twitter.com/y_uuk1",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/3279630066/5fec6321a3aca8de271ccb3fae606d2a_normal.png",
+      "hatena": 53,
+      "twitter": 63,
+      "total": 269
+    },
+    {
       "path": "/2015/talk/show/523b9508-0d77-11e5-8174-67dc7d574c3a",
       "title": "うっかりをなくす技術",
       "speaker_name": "karupanerura",
@@ -157,7 +167,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/374550?v=3",
       "hatena": 55,
       "twitter": 60,
-      "total": 270
+      "total": 269
     },
     {
       "path": "/2015/talk/show/0dcfc436-133d-11e5-9f77-d9f87d574c3a",
@@ -170,16 +180,6 @@ module.exports={
       "total": 267
     },
     {
-      "path": "/2015/talk/show/7d62caf8-12f4-11e5-881c-d9f87d574c3a",
-      "title": "技術ブログを書くことについて語るときに僕の語ること",
-      "speaker_name": "yuuki",
-      "speaker_url": "https://twitter.com/y_uuk1",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/3279630066/5fec6321a3aca8de271ccb3fae606d2a_normal.png",
-      "hatena": 52,
-      "twitter": 63,
-      "total": 266
-    },
-    {
       "path": "/2015/talk/show/3cc6d49c-faa0-11e4-b634-8ab37d574c3a",
       "title": "Inside of Bokete 〜 チーム、アーキテクチャ、実装",
       "speaker_name": "Yusuke Wada",
@@ -187,7 +187,7 @@ module.exports={
       "speaker_icon": "http://graph.facebook.com/631255029/picture",
       "hatena": 34,
       "twitter": 89,
-      "total": 259
+      "total": 258
     },
     {
       "path": "/2015/talk/show/607595a2-0df3-11e5-b447-67dc7d574c3a",
@@ -267,7 +267,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/10042?v=3",
       "hatena": 46,
       "twitter": 48,
-      "total": 222
+      "total": 221
     },
     {
       "path": "/2015/talk/show/44721562-10e4-11e5-88a0-d7f07d574c3a",
@@ -337,7 +337,7 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/3422978396/f4d40662ca0c078b9087a50985350269_normal.jpeg",
       "hatena": 30,
       "twitter": 54,
-      "total": 185
+      "total": 184
     },
     {
       "path": "/2015/talk/show/5f5cad74-004a-11e5-acf4-89c77d574c3a",
@@ -730,6 +730,16 @@ module.exports={
       "total": 113
     },
     {
+      "path": "/2015/talk/show/66960c2c-1330-11e5-9c0d-d9f87d574c3a",
+      "title": "はてなインターンの作り方",
+      "speaker_name": "大西康裕",
+      "speaker_url": "https://twitter.com/yasuhiro_onishi",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/583440287269171200/LfL9vF2I_normal.jpg",
+      "hatena": 22,
+      "twitter": 25,
+      "total": 109
+    },
+    {
       "path": "/2015/talk/show/ad84b028-136e-11e5-b676-d9f87d574c3a",
       "title": "Making of Acme大全　- 冥キングな話、裏の裏まで全部＋αおまけ発表",
       "speaker_name": "makamaka@どんぞこ楽屋",
@@ -738,16 +748,6 @@ module.exports={
       "hatena": 13,
       "twitter": 40,
       "total": 109
-    },
-    {
-      "path": "/2015/talk/show/66960c2c-1330-11e5-9c0d-d9f87d574c3a",
-      "title": "はてなインターンの作り方",
-      "speaker_name": "大西康裕",
-      "speaker_url": "https://twitter.com/yasuhiro_onishi",
-      "speaker_icon": "http://pbs.twimg.com/profile_images/583440287269171200/LfL9vF2I_normal.jpg",
-      "hatena": 21,
-      "twitter": 25,
-      "total": 106
     },
     {
       "path": "/2015/talk/show/1da55daa-0deb-11e5-944c-67dc7d574c3a",
@@ -997,7 +997,7 @@ module.exports={
       "speaker_icon": "https://avatars.githubusercontent.com/u/21084?v=3",
       "hatena": 15,
       "twitter": 16,
-      "total": 73
+      "total": 72
     },
     {
       "path": "/2015/talk/show/21cb8176-065b-11e5-9492-79c97d574c3a",
@@ -1520,16 +1520,6 @@ module.exports={
       "total": 24
     },
     {
-      "path": "/2015/talk/show/b355fa20-122e-11e5-8ba5-d9f87d574c3a",
-      "title": "言語開発の現場",
-      "speaker_name": "SHIBATA Hiroshi",
-      "speaker_url": "https://github.com/hsbt",
-      "speaker_icon": "https://avatars.githubusercontent.com/u/12301?v=3",
-      "hatena": 5,
-      "twitter": 5,
-      "total": 23
-    },
-    {
       "path": "/2015/talk/show/1ddceae2-133e-11e5-9831-d9f87d574c3a",
       "title": "非構造化データとの戦い〜バウンスメールを解析する第三のシステム",
       "speaker_name": "ネコ半径³",
@@ -1537,6 +1527,16 @@ module.exports={
       "speaker_icon": "http://pbs.twimg.com/profile_images/598733415664353280/VyrR3m4F_normal.jpg",
       "hatena": 3,
       "twitter": 8,
+      "total": 23
+    },
+    {
+      "path": "/2015/talk/show/b355fa20-122e-11e5-8ba5-d9f87d574c3a",
+      "title": "言語開発の現場",
+      "speaker_name": "SHIBATA Hiroshi",
+      "speaker_url": "https://github.com/hsbt",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/12301?v=3",
+      "hatena": 5,
+      "twitter": 5,
       "total": 23
     },
     {
@@ -1970,6 +1970,16 @@ module.exports={
       "total": 0
     },
     {
+      "path": "/2015/talk/show/6bde6c69-187a-11e5-aca1-525412004261",
+      "title": "TBD",
+      "speaker_name": "Brad Fitzpatrick",
+      "speaker_url": "https://twitter.com/bradfitz",
+      "speaker_icon": "http://pbs.twimg.com/profile_images/1376628217/brad_normal.jpg",
+      "hatena": 0,
+      "twitter": 0,
+      "total": 0
+    },
+    {
       "path": "/2015/talk/show/ae1cce86-1874-11e5-aca1-525412004261",
       "title": "懇親会",
       "speaker_name": "Daisuke Maki",
@@ -1985,6 +1995,16 @@ module.exports={
       "speaker_name": "Daisuke Maki",
       "speaker_url": "https://twitter.com/lestrrat",
       "speaker_icon": "http://pbs.twimg.com/profile_images/1223562029/DSC00001_normal.JPG",
+      "hatena": 0,
+      "twitter": 0,
+      "total": 0
+    },
+    {
+      "path": "/2015/talk/show/cc0ec485-1879-11e5-aca1-525412004261",
+      "title": "TBD",
+      "speaker_name": "Yukihiro \"Matz\" Matsumoto",
+      "speaker_url": "https://github.com/matz",
+      "speaker_icon": "https://avatars.githubusercontent.com/u/30733?v=3",
       "hatena": 0,
       "twitter": 0,
       "total": 0
