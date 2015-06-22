@@ -13,7 +13,8 @@ $('#updated').text(`${new Date(updated).toISOString()} 時点`);
 ranking.forEach((talk, i) => {
   var tr = document.createElement('tr');
   var url = YAPC_URL + talk.path;
-  var acceptedClass = talk.accepted ? 'accepted' : '';
+  // var acceptedClass = talk.accepted ? 'accepted' : '';
+  var acceptedClass = '';
   tr.innerHTML = html`
 <td>${i + 1}</td>
 <td><span class="accept ${acceptedClass}">採用</span> <a href="${url}">${talk.title}</a></td>

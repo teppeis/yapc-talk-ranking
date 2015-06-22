@@ -2235,7 +2235,8 @@ $(function () {
   _rankingJson.ranking.forEach(function (talk, i) {
     var tr = document.createElement('tr');
     var url = YAPC_URL + talk.path;
-    var acceptedClass = talk.accepted ? 'accepted' : '';
+    // var acceptedClass = talk.accepted ? 'accepted' : '';
+    var acceptedClass = '';
     tr.innerHTML = html(_taggedTemplateLiteral(['\n<td>', '</td>\n<td><span class="accept ', '">採用</span> <a href="', '">', '</a></td>\n<td><a href="', '"><img class="speaker-icon" src="', '">', '</a></td>\n<td><a href="https://twitter.com/search?q=', '" class="social-count">', '</a></td>\n<td><a href="http://b.hatena.ne.jp/entry/yapcasia.org', '" class="social-count">', '</a></td>\n<td>', '</td>'], ['\n<td>', '</td>\n<td><span class="accept ', '">採用</span> <a href="', '">', '</a></td>\n<td><a href="', '"><img class="speaker-icon" src="', '">', '</a></td>\n<td><a href="https://twitter.com/search?q=', '" class="social-count">', '</a></td>\n<td><a href="http://b.hatena.ne.jp/entry/yapcasia.org', '" class="social-count">', '</a></td>\n<td>', '</td>']), i + 1, acceptedClass, url, talk.title, talk.speaker_url, talk.speaker_icon, talk.speaker_name, encodeURIComponent(url), talk.twitter, talk.path, talk.hatena, talk.total).replace(/\n/g, '');
     tbody.append(tr);
   });
