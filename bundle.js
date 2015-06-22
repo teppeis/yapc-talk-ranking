@@ -2230,7 +2230,7 @@ $(function () {
   var table = $('#ranking');
   var tbody = table.find('tbody');
 
-  $('#updated').text('' + new Date(_rankingJson.date).toISOString() + ' 更新');
+  $('#updated').text('' + new Date(_rankingJson.date).toISOString() + ' 時点');
 
   _rankingJson.ranking.forEach(function (talk, i) {
     var tr = document.createElement('tr');
